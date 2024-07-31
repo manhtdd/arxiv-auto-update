@@ -21,12 +21,12 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "Automated Program Repair": 
-        filters: ["Automated Program Repair", "Program Repair", "Automated Bug Fixing"]
-    "Automated Patch Correctness Assessment": 
-        filters: ["Automated Patch Correctness Assessment", "Patch Validation"]
-    "Code Summarization": 
-        filters: ["Code Summarization", "Code Explanation", "Bug Explanation", "Defect Explanation"]
+    "Testing and Bug reporting": 
+        filters: ["Foundation Models", "Bug Report", "LLM-generated"]
+    "Code Review": 
+        filters: ["Code Review"]
+    "Code Generation": 
+        filters: ["Code Generation"]
     "Bug/Vulnerability Management": 
         filters: ["Bug Management", "Vulnerability Management", "Vulnerability-Fixing Commit", "Software Component Analysis"]
     "Regression Bugs/Bug Inducing Commit": 

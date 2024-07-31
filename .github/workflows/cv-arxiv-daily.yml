@@ -15,8 +15,8 @@ on:
 
 env:
 
-  GITHUB_USER_NAME: thanhlecongg
-  GITHUB_USER_EMAIL: tlecong@student.unimelb.edu.au
+  GITHUB_USER_NAME: manhtdd
+  GITHUB_USER_EMAIL: manh.td120901@gmail.com
   
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
