@@ -472,6 +472,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-01**|**UniTalker: Scaling up Audio-Driven 3D Facial Animation through A Unified Model**|Xiangyu Fan et.al.|[2408.00762](http://arxiv.org/abs/2408.00762)|null|
+|**2024-08-01**|**Thermal Conductivity Predictions with Foundation Atomistic Models**|Balázs Póta et.al.|[2408.00755](http://arxiv.org/abs/2408.00755)|null|
+|**2024-08-01**|**Virchow 2: Scaling Self-Supervised Mixed Magnification Models in Pathology**|Eric Zimmermann et.al.|[2408.00738](http://arxiv.org/abs/2408.00738)|null|
+|**2024-08-01**|**SAM 2: Segment Anything in Images and Videos**|Nikhila Ravi et.al.|[2408.00714](http://arxiv.org/abs/2408.00714)|null|
+|**2024-08-01**|**Point-supervised Brain Tumor Segmentation with Box-prompted MedSAM**|Xiaofeng Liu et.al.|[2408.00706](http://arxiv.org/abs/2408.00706)|null|
+|**2024-08-01**|**Privacy-preserving datasets by capturing feature distributions with Conditional VAEs**|Francesco Di Salvo et.al.|[2408.00639](http://arxiv.org/abs/2408.00639)|null|
+|**2024-08-01**|**Enhancing Whole Slide Pathology Foundation Models through Stain Normalization**|Juseung Yun et.al.|[2408.00380](http://arxiv.org/abs/2408.00380)|null|
+|**2024-08-01**|**DECIDER: Leveraging Foundation Model Priors for Improved Model Failure Detection and Explanation**|Rakshith Subramanyam et.al.|[2408.00331](http://arxiv.org/abs/2408.00331)|null|
+|**2024-08-01**|**Multi-Modal Parameter-Efficient Fine-tuning via Graph Neural Network**|Bin Cheng et.al.|[2408.00290](http://arxiv.org/abs/2408.00290)|null|
+|**2024-08-01**|**Bailing-TTS: Chinese Dialectal Speech Synthesis Towards Human-like Spontaneous Representation**|Xinhan Di et.al.|[2408.00284](http://arxiv.org/abs/2408.00284)|null|
+|**2024-08-01**|**multiGradICON: A Foundation Model for Multimodal Medical Image Registration**|Basar Demir et.al.|[2408.00221](http://arxiv.org/abs/2408.00221)|null|
+|**2024-07-31**|**A New Type of Foundation Model Based on Recordings of People's Emotions and Physiology**|David Gamez et.al.|[2408.00030](http://arxiv.org/abs/2408.00030)|null|
 |**2024-07-31**|**The Llama 3 Herd of Models**|Abhimanyu Dubey et.al.|[2407.21783](http://arxiv.org/abs/2407.21783)|null|
 |**2024-07-31**|**A Federated Learning-Friendly Approach for Parameter-Efficient Fine-Tuning of SAM in 3D Segmentation**|Mothilal Asokan et.al.|[2407.21739](http://arxiv.org/abs/2407.21739)|null|
 |**2024-07-31**|**Big Cooperative Learning**|Yulai Cong et.al.|[2407.21319](http://arxiv.org/abs/2407.21319)|null|
@@ -516,6 +528,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-01**|**AutoM3L: An Automated Multimodal Machine Learning Framework with Large Language Models**|Daqin Luo et.al.|[2408.00665](http://arxiv.org/abs/2408.00665)|null|
+|**2024-08-01**|**A new approach for encoding code and assisting code understanding**|Mengdan Fan et.al.|[2408.00521](http://arxiv.org/abs/2408.00521)|null|
+|**2024-07-30**|**WebApp1K: A Practical Code-Generation Benchmark for Web App Development**|Yi Cui et.al.|[2408.00019](http://arxiv.org/abs/2408.00019)|null|
 |**2024-07-31**|**A Performance Study of LLM-Generated Code on Leetcode**|Tristan Coignion et.al.|[2407.21579](http://arxiv.org/abs/2407.21579)|null|
 |**2024-07-30**|**Assessing Programming Task Difficulty for Efficient Evaluation of Large Language Models**|Florian Tambon et.al.|[2407.21227](http://arxiv.org/abs/2407.21227)|null|
 |**2024-07-29**|**Genetic Instruct: Scaling up Synthetic Generation of Coding Instructions for Large Language Models**|Somshubra Majumdar et.al.|[2407.21077](http://arxiv.org/abs/2407.21077)|null|
