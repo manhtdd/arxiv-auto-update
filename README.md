@@ -472,6 +472,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**Pre-trained Language Models Improve the Few-shot Prompt Ability of Decision Transformer**|Yu Yang et.al.|[2408.01402](http://arxiv.org/abs/2408.01402)|null|
+|**2024-08-02**|**A Backbone for Long-Horizon Robot Task Understanding**|Xiaoshuai Chen et.al.|[2408.01334](http://arxiv.org/abs/2408.01334)|null|
+|**2024-08-02**|**Rethinking Pre-trained Feature Extractor Selection in Multiple Instance Learning for Whole Slide Image Classification**|Bryan Wong et.al.|[2408.01167](http://arxiv.org/abs/2408.01167)|null|
+|**2024-08-02**|**A Survey of Mamba**|Haohao Qu et.al.|[2408.01129](http://arxiv.org/abs/2408.01129)|null|
+|**2024-08-02**|**Boosting Gaze Object Prediction via Pixel-level Supervision from Vision Foundation Model**|Yang Jin et.al.|[2408.01044](http://arxiv.org/abs/2408.01044)|null|
+|**2024-08-02**|**POA: Pre-training Once for Models of All Sizes**|Yingying Zhang et.al.|[2408.01031](http://arxiv.org/abs/2408.01031)|null|
 |**2024-08-01**|**UniTalker: Scaling up Audio-Driven 3D Facial Animation through A Unified Model**|Xiangyu Fan et.al.|[2408.00762](http://arxiv.org/abs/2408.00762)|null|
 |**2024-08-01**|**Thermal Conductivity Predictions with Foundation Atomistic Models**|Balázs Póta et.al.|[2408.00755](http://arxiv.org/abs/2408.00755)|null|
 |**2024-08-01**|**Virchow 2: Scaling Self-Supervised Mixed Magnification Models in Pathology**|Eric Zimmermann et.al.|[2408.00738](http://arxiv.org/abs/2408.00738)|null|
@@ -528,6 +534,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**FT K-Means: A High-Performance K-Means on GPU with Fault Tolerance**|Shixun Wu et.al.|[2408.01391](http://arxiv.org/abs/2408.01391)|null|
+|**2024-08-02**|**MCGMark: An Encodable and Robust Online Watermark for LLM-Generated Malicious Code**|Kaiwen Ning et.al.|[2408.01354](http://arxiv.org/abs/2408.01354)|null|
+|**2024-08-02**|**ArchCode: Incorporating Software Requirements in Code Generation with Large Language Models**|Hojae Han et.al.|[2408.00994](http://arxiv.org/abs/2408.00994)|null|
+|**2024-08-02**|**On the Resilience of Multi-Agent Systems with Malicious Agents**|Jen-tse Huang et.al.|[2408.00989](http://arxiv.org/abs/2408.00989)|null|
 |**2024-08-01**|**AutoM3L: An Automated Multimodal Machine Learning Framework with Large Language Models**|Daqin Luo et.al.|[2408.00665](http://arxiv.org/abs/2408.00665)|null|
 |**2024-08-01**|**A new approach for encoding code and assisting code understanding**|Mengdan Fan et.al.|[2408.00521](http://arxiv.org/abs/2408.00521)|null|
 |**2024-07-30**|**WebApp1K: A Practical Code-Generation Benchmark for Web App Development**|Yi Cui et.al.|[2408.00019](http://arxiv.org/abs/2408.00019)|null|
