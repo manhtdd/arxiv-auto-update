@@ -261,6 +261,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Minimum Enclosing Ball Synthetic Minority Oversampling Technique from a Geometric Perspective**|Yi-Yang Shangguan et.al.|[2408.03526](http://arxiv.org/abs/2408.03526)|null|
 |**2024-07-18**|**EvaluateXAI: A Framework to Evaluate the Reliability and Consistency of Rule-based XAI Techniques for Software Analytics Tasks**|Md Abdul Awal et.al.|[2407.13902](http://arxiv.org/abs/2407.13902)|**[link](https://zenodo.org/record/zenodo.7869326)**|
 |**2024-07-04**|**ALPINE: An adaptive language-agnostic pruning method for language models for code**|Mootez Saad et.al.|[2407.04147](http://arxiv.org/abs/2407.04147)|null|
 |**2024-06-24**|**Cascade Generalization-based Classifiers for Software Defect Prediction**|Aminat Bashir et.al.|[2406.17120](http://arxiv.org/abs/2406.17120)|null|
@@ -443,6 +444,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Speech-MASSIVE: A Multilingual Speech Dataset for SLU and Beyond**|Beomseok Lee et.al.|[2408.03900](http://arxiv.org/abs/2408.03900)|**[link](https://github.com/hlt-mt/speech-massive)**|
+|**2024-08-07**|**'Finance Wizard' at the FinLLM Challenge Task: Financial Text Summarization**|Meisin Lee et.al.|[2408.03762](http://arxiv.org/abs/2408.03762)|null|
+|**2024-08-07**|**SAM2-PATH: A better segment anything model for semantic segmentation in digital pathology**|Mingya Zhang et.al.|[2408.03651](http://arxiv.org/abs/2408.03651)|**[link](https://github.com/simzhangbest/sam2path)**|
+|**2024-08-06**|**AI Foundation Models in Remote Sensing: A Survey**|Siqi Lu et.al.|[2408.03464](http://arxiv.org/abs/2408.03464)|null|
 |**2024-08-06**|**Segment Anything in Medical Images and Videos: Benchmark and Deployment**|Jun Ma et.al.|[2408.03322](http://arxiv.org/abs/2408.03322)|null|
 |**2024-08-06**|**Biomedical SAM 2: Segment Anything in Biomedical Images and Videos**|Zhiling Yan et.al.|[2408.03286](http://arxiv.org/abs/2408.03286)|null|
 |**2024-08-06**|**A Taxonomy of Architecture Options for Foundation Model-based Agents: Analysis and Decision Model**|Jingwen Zhou et.al.|[2408.02920](http://arxiv.org/abs/2408.02920)|null|
@@ -514,6 +519,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**FIAT: improving performance and accuracy for high-order finite elements**|Pablo D. Brubeck et.al.|[2408.03565](http://arxiv.org/abs/2408.03565)|null|
+|**2024-08-07**|**RepoMasterEval: Evaluating Code Completion via Real-World Repositories**|Qinyun Wu et.al.|[2408.03519](http://arxiv.org/abs/2408.03519)|null|
+|**2024-08-07**|**GUI Element Detection Using SOTA YOLO Deep Learning Models**|Seyed Shayan Daneshvar et.al.|[2408.03507](http://arxiv.org/abs/2408.03507)|null|
 |**2024-08-06**|**Extend Model Merging from Fine-Tuned to Pre-Trained Large Language Models via Weight Disentanglement**|Le Yu et.al.|[2408.03092](http://arxiv.org/abs/2408.03092)|null|
 |**2024-08-05**|**A First Look at License Compliance Capability of LLMs in Code Generation**|Weiwei Xu et.al.|[2408.02487](http://arxiv.org/abs/2408.02487)|null|
 |**2024-08-05**|**From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future**|Haolin Jin et.al.|[2408.02479](http://arxiv.org/abs/2408.02479)|null|
