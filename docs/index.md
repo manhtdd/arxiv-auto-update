@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.08
+## Updated on 2024.08.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -451,7 +451,7 @@ layout: default
 |**2024-08-06**|**Segment Anything in Medical Images and Videos: Benchmark and Deployment**|Jun Ma et.al.|[2408.03322](http://arxiv.org/abs/2408.03322)|null|
 |**2024-08-06**|**Biomedical SAM 2: Segment Anything in Biomedical Images and Videos**|Zhiling Yan et.al.|[2408.03286](http://arxiv.org/abs/2408.03286)|null|
 |**2024-08-06**|**A Taxonomy of Architecture Options for Foundation Model-based Agents: Analysis and Decision Model**|Jingwen Zhou et.al.|[2408.02920](http://arxiv.org/abs/2408.02920)|null|
-|**2024-08-06**|**MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine**|Yunfei Xie et.al.|[2408.02900](http://arxiv.org/abs/2408.02900)|null|
+|**2024-08-06**|**MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine**|Yunfei Xie et.al.|[2408.02900](http://arxiv.org/abs/2408.02900)|**[link](https://github.com/UCSC-VLAA/MedTrinity-25M)**|
 |**2024-08-05**|**VisionUnite: A Vision-Language Foundation Model for Ophthalmology Enhanced with Clinical Knowledge**|Zihan Li et.al.|[2408.02865](http://arxiv.org/abs/2408.02865)|null|
 |**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657](http://arxiv.org/abs/2408.02657)|**[link](https://github.com/alpha-vllm/lumina-mgpt)**|
 |**2024-08-05**|**Generative AI as a Service in 6G Edge-Cloud: Generation Task Offloading by In-context Learning**|Hao Zhou et.al.|[2408.02549](http://arxiv.org/abs/2408.02549)|null|
@@ -522,14 +522,14 @@ layout: default
 |**2024-08-07**|**FIAT: improving performance and accuracy for high-order finite elements**|Pablo D. Brubeck et.al.|[2408.03565](http://arxiv.org/abs/2408.03565)|null|
 |**2024-08-07**|**RepoMasterEval: Evaluating Code Completion via Real-World Repositories**|Qinyun Wu et.al.|[2408.03519](http://arxiv.org/abs/2408.03519)|null|
 |**2024-08-07**|**GUI Element Detection Using SOTA YOLO Deep Learning Models**|Seyed Shayan Daneshvar et.al.|[2408.03507](http://arxiv.org/abs/2408.03507)|null|
-|**2024-08-06**|**Extend Model Merging from Fine-Tuned to Pre-Trained Large Language Models via Weight Disentanglement**|Le Yu et.al.|[2408.03092](http://arxiv.org/abs/2408.03092)|null|
+|**2024-08-06**|**Extend Model Merging from Fine-Tuned to Pre-Trained Large Language Models via Weight Disentanglement**|Le Yu et.al.|[2408.03092](http://arxiv.org/abs/2408.03092)|**[link](https://github.com/yule-BUAA/MergeLLM)**|
 |**2024-08-05**|**A First Look at License Compliance Capability of LLMs in Code Generation**|Weiwei Xu et.al.|[2408.02487](http://arxiv.org/abs/2408.02487)|null|
 |**2024-08-05**|**From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future**|Haolin Jin et.al.|[2408.02479](http://arxiv.org/abs/2408.02479)|null|
 |**2024-08-06**|**Enhancing AI-based Generation of Software Exploits with Contextual Information**|Pietro Liguori et.al.|[2408.02402](http://arxiv.org/abs/2408.02402)|null|
 |**2024-08-04**|**Automatic Platform Configuration and Software Integration for Software-Defined Vehicles**|Fengjunjie Pan et.al.|[2408.02127](http://arxiv.org/abs/2408.02127)|null|
 |**2024-08-03**|**CoEdPilot: Recommending Code Edits with Learned Prior Edit Relevance, Project-wise Awareness, and Interactive Nature**|Chenyan Liu et.al.|[2408.01733](http://arxiv.org/abs/2408.01733)|null|
 |**2024-08-03**|**Music2P: A Multi-Modal AI-Driven Tool for Simplifying Album Cover Design**|Joong Ho Choi et.al.|[2408.01651](http://arxiv.org/abs/2408.01651)|**[link](https://github.com/jc-78/music2p)**|
-|**2024-08-02**|**FT K-Means: A High-Performance K-Means on GPU with Fault Tolerance**|Shixun Wu et.al.|[2408.01391](http://arxiv.org/abs/2408.01391)|null|
+|**2024-08-07**|**FT K-means: A High-Performance K-means on GPU with Fault Tolerance**|Shixun Wu et.al.|[2408.01391](http://arxiv.org/abs/2408.01391)|null|
 |**2024-08-02**|**MCGMark: An Encodable and Robust Online Watermark for LLM-Generated Malicious Code**|Kaiwen Ning et.al.|[2408.01354](http://arxiv.org/abs/2408.01354)|null|
 |**2024-08-02**|**ArchCode: Incorporating Software Requirements in Code Generation with Large Language Models**|Hojae Han et.al.|[2408.00994](http://arxiv.org/abs/2408.00994)|null|
 |**2024-08-02**|**On the Resilience of Multi-Agent Systems with Malicious Agents**|Jen-tse Huang et.al.|[2408.00989](http://arxiv.org/abs/2408.00989)|**[link](https://github.com/cuhk-arise/mas-resilience)**|
