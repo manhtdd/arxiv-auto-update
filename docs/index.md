@@ -444,6 +444,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**ECG-FM: An Open Electrocardiogram Foundation Model**|Kaden McKeen et.al.|[2408.05178](http://arxiv.org/abs/2408.05178)|**[link](https://github.com/bowang-lab/ecg-fm)**|
+|**2024-08-09**|**Weak-Annotation of HAR Datasets using Vision Foundation Models**|Marius Bock et.al.|[2408.05169](http://arxiv.org/abs/2408.05169)|**[link](https://github.com/mariusbock/weak_har)**|
+|**2024-08-09**|**Depth Helps: Improving Pre-trained RGB-based Policy with Depth Information Injection**|Xincheng Pang et.al.|[2408.05107](http://arxiv.org/abs/2408.05107)|null|
+|**2024-08-09**|**ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation**|Mengcheng Lan et.al.|[2408.04883](http://arxiv.org/abs/2408.04883)|**[link](https://github.com/mc-lan/proxyclip)**|
+|**2024-08-09**|**On the Element-Wise Representation and Reasoning in Zero-Shot Image Recognition: A Systematic Survey**|Jingcai Guo et.al.|[2408.04879](http://arxiv.org/abs/2408.04879)|null|
+|**2024-08-09**|**VLM-MPC: Vision Language Foundation Model (VLM)-Guided Model Predictive Controller (MPC) for Autonomous Driving**|Keke Long et.al.|[2408.04821](http://arxiv.org/abs/2408.04821)|null|
 |**2024-08-08**|**SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More**|Tianrun Chen et.al.|[2408.04579](http://arxiv.org/abs/2408.04579)|null|
 |**2024-08-08**|**Depth Any Canopy: Leveraging Depth Foundation Models for Canopy Height Estimation**|Daniele Rege Cambrin et.al.|[2408.04523](http://arxiv.org/abs/2408.04523)|null|
 |**2024-08-08**|**Deeploy: Enabling Energy-Efficient Deployment of Small Language Models On Heterogeneous Microcontrollers**|Moritz Scherer et.al.|[2408.04413](http://arxiv.org/abs/2408.04413)|null|
@@ -505,6 +511,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**Enhancing the Code Debugging Ability of LLMs via Communicative Agent Based Data Refinement**|Weiqing Yang et.al.|[2408.05006](http://arxiv.org/abs/2408.05006)|null|
+|**2024-08-09**|**Natural Language Outlines for Code: Literate Programming in the LLM Era**|Kensen Shi et.al.|[2408.04820](http://arxiv.org/abs/2408.04820)|null|
 |**2024-08-05**|**Towards Identifying Code Proficiency through the Analysis of Python Textbooks**|Ruksit Rojpaisarnkit et.al.|[2408.02262](http://arxiv.org/abs/2408.02262)|null|
 |**2024-07-23**|**Patched RTC: evaluating LLMs for diverse software development tasks**|Asankhaya Sharma et.al.|[2407.16557](http://arxiv.org/abs/2407.16557)|null|
 |**2024-07-18**|**EvaluateXAI: A Framework to Evaluate the Reliability and Consistency of Rule-based XAI Techniques for Software Analytics Tasks**|Md Abdul Awal et.al.|[2407.13902](http://arxiv.org/abs/2407.13902)|**[link](https://zenodo.org/record/zenodo.7869326)**|
@@ -526,6 +534,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**Natural Language Outlines for Code: Literate Programming in the LLM Era**|Kensen Shi et.al.|[2408.04820](http://arxiv.org/abs/2408.04820)|null|
 |**2024-08-08**|**FDI: Attack Neural Code Generation Systems through User Feedback Channel**|Zhensu Sun et.al.|[2408.04194](http://arxiv.org/abs/2408.04194)|null|
 |**2024-08-07**|**Exploring RAG-based Vulnerability Augmentation with LLMs**|Seyed Shayan Daneshvar et.al.|[2408.04125](http://arxiv.org/abs/2408.04125)|**[link](https://github.com/VulScribeR/VulScribeR)**|
 |**2024-08-07**|**FIAT: improving performance and accuracy for high-order finite elements**|Pablo D. Brubeck et.al.|[2408.03565](http://arxiv.org/abs/2408.03565)|null|
