@@ -445,6 +445,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-13**|**Do Vision-Language Foundational models show Robust Visual Perception?**|Shivam Chandhok et.al.|[2408.06781](http://arxiv.org/abs/2408.06781)|**[link](https://github.com/shivam-chandhok/cpsc-540-project)**|
+|**2024-08-13**|**Towards Cross-Domain Single Blood Cell Image Classification via Large-Scale LoRA-based Segment Anything Model**|Yongcheng Li et.al.|[2408.06716](http://arxiv.org/abs/2408.06716)|**[link](https://github.com/anok3111/bc-sam)**|
+|**2024-08-13**|**Specialized Change Detection using Segment Anything**|Tahir Ahmad et.al.|[2408.06644](http://arxiv.org/abs/2408.06644)|null|
+|**2024-08-12**|**PhaGO: Protein function annotation for bacteriophages by integrating the genomic context**|Jiaojiao Guan et.al.|[2408.06402](http://arxiv.org/abs/2408.06402)|null|
 |**2024-08-12**|**Context-aware Visual Storytelling with Visual Prefix Tuning and Contrastive Learning**|Yingjin Song et.al.|[2408.06259](http://arxiv.org/abs/2408.06259)|null|
 |**2024-08-12**|**FruitNeRF: A Unified Neural Radiance Field based Fruit Counting Framework**|Lukas Meyer et.al.|[2408.06190](http://arxiv.org/abs/2408.06190)|**[link](https://github.com/meyerls/fruitnerf)**|
 |**2024-08-12**|**Self-Supervised Learning on MeerKAT Wide-Field Continuum Images**|Erica Lastufka et.al.|[2408.06147](http://arxiv.org/abs/2408.06147)|null|
@@ -550,6 +554,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-13**|**Architecture Specific Generation of Large Scale Lattice Boltzmann Methods for Sparse Complex Geometries**|Philipp Suffa et.al.|[2408.06880](http://arxiv.org/abs/2408.06880)|null|
+|**2024-08-13**|**HLSPilot: LLM-based High-Level Synthesis**|Chenwei Xiong et.al.|[2408.06810](http://arxiv.org/abs/2408.06810)|null|
+|**2024-08-12**|**Evaluating Language Models for Efficient Code Generation**|Jiawei Liu et.al.|[2408.06450](http://arxiv.org/abs/2408.06450)|null|
 |**2024-08-11**|**Top Pass: Improve Code Generation by Pass@k-Maximized Code Ranking**|Zhi-Cun Lyu et.al.|[2408.05715](http://arxiv.org/abs/2408.05715)|null|
 |**2024-08-09**|**Natural Language Outlines for Code: Literate Programming in the LLM Era**|Kensen Shi et.al.|[2408.04820](http://arxiv.org/abs/2408.04820)|null|
 |**2024-08-08**|**FDI: Attack Neural Code Generation Systems through User Feedback Channel**|Zhensu Sun et.al.|[2408.04194](http://arxiv.org/abs/2408.04194)|null|
