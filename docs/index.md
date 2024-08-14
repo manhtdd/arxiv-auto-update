@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.13
+## Updated on 2024.08.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -450,14 +450,14 @@ layout: default
 |**2024-08-12**|**Self-Supervised Learning on MeerKAT Wide-Field Continuum Images**|Erica Lastufka et.al.|[2408.06147](http://arxiv.org/abs/2408.06147)|null|
 |**2024-08-12**|**Building Decision Making Models Through Language Model Regime**|Yu Zhang et.al.|[2408.06087](http://arxiv.org/abs/2408.06087)|null|
 |**2024-08-12**|**Adapting a Foundation Model for Space-based Tasks**|Matthew Foutter et.al.|[2408.05924](http://arxiv.org/abs/2408.05924)|null|
-|**2024-08-12**|**HcNet: Image Modeling with Heat Conduction Equation**|Zhemin Zhang et.al.|[2408.05901](http://arxiv.org/abs/2408.05901)|**[link](https://github.com/zheminzhang1/hcnet)**|
+|**2024-08-13**|**HcNet: Image Modeling with Heat Conduction Equation**|Zhemin Zhang et.al.|[2408.05901](http://arxiv.org/abs/2408.05901)|**[link](https://github.com/zheminzhang1/hcnet)**|
 |**2024-08-11**|**The Cognitive Revolution in Interpretability: From Explaining Behavior to Interpreting Representations and Algorithms**|Adam Davies et.al.|[2408.05859](http://arxiv.org/abs/2408.05859)|null|
 |**2024-08-11**|**Sampling Foundational Transformer: A Theoretical Perspective**|Viet Anh Nguyen et.al.|[2408.05822](http://arxiv.org/abs/2408.05822)|null|
 |**2024-08-11**|**Seg-CycleGAN : SAR-to-optical image translation guided by a downstream task**|Hannuo Zhang et.al.|[2408.05777](http://arxiv.org/abs/2408.05777)|null|
 |**2024-08-11**|**An analysis of HOI: using a training-free method with multimodal visual foundation models when only the test set is available, without the training set**|Chaoyi Ai et.al.|[2408.05772](http://arxiv.org/abs/2408.05772)|null|
 |**2024-08-11**|**SMILES-Mamba: Chemical Mamba Foundation Models for Drug ADMET Prediction**|Bohao Xu et.al.|[2408.05696](http://arxiv.org/abs/2408.05696)|null|
 |**2024-08-10**|**UrFound: Towards Universal Retinal Foundation Models via Knowledge-Guided Masked Modeling**|Kai Yu et.al.|[2408.05618](http://arxiv.org/abs/2408.05618)|**[link](https://github.com/yukkai/urfound)**|
-|**2024-08-10**|**SWIFT:A Scalable lightWeight Infrastructure for Fine-Tuning**|Yuze Zhao et.al.|[2408.05517](http://arxiv.org/abs/2408.05517)|**[link](https://github.com/modelscope/swift)**|
+|**2024-08-13**|**SWIFT:A Scalable lightWeight Infrastructure for Fine-Tuning**|Yuze Zhao et.al.|[2408.05517](http://arxiv.org/abs/2408.05517)|**[link](https://github.com/modelscope/swift)**|
 |**2024-08-10**|**SAMSA: Efficient Transformer for Many Data Modalities**|Minh Lenhat et.al.|[2408.05391](http://arxiv.org/abs/2408.05391)|**[link](https://github.com/hysonlab/samsa)**|
 |**2024-08-09**|**Enhancing Representation Learning of EEG Data with Masked Autoencoders**|Yifei Zhou et.al.|[2408.05375](http://arxiv.org/abs/2408.05375)|null|
 |**2024-08-09**|**ECG-FM: An Open Electrocardiogram Foundation Model**|Kaden McKeen et.al.|[2408.05178](http://arxiv.org/abs/2408.05178)|**[link](https://github.com/bowang-lab/ecg-fm)**|
