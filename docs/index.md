@@ -445,6 +445,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**Heavy Labels Out! Dataset Distillation with Label Space Lightening**|Ruonan Yu et.al.|[2408.08201](http://arxiv.org/abs/2408.08201)|null|
+|**2024-08-15**|**Navigating Data Scarcity using Foundation Models: A Benchmark of Few-Shot and Zero-Shot Learning Approaches in Medical Imaging**|Stefano Woerner et.al.|[2408.08058](http://arxiv.org/abs/2408.08058)|null|
+|**2024-08-15**|**The Clever Hans Effect in Unsupervised Learning**|Jacob Kauffmann et.al.|[2408.08041](http://arxiv.org/abs/2408.08041)|null|
+|**2024-08-15**|**When and Why is Persuasion Hard? A Computational Complexity Result**|Zachary Wojtowicz et.al.|[2408.07923](http://arxiv.org/abs/2408.07923)|null|
+|**2024-08-15**|**DM2RM: Dual-Mode Multimodal Ranking for Target Objects and Receptacles Based on Open-Vocabulary Instructions**|Ryosuke Korekata et.al.|[2408.07910](http://arxiv.org/abs/2408.07910)|null|
 |**2024-08-14**|**Cross-Platform Video Person ReID: A New Benchmark Dataset and Adaptation Approach**|Shizhou Zhang et.al.|[2408.07500](http://arxiv.org/abs/2408.07500)|**[link](https://github.com/fhr-l/vsla-clip)**|
 |**2024-08-14**|**Domain-invariant Representation Learning via Segment Anything Model for Blood Cell Classification**|Yongcheng Li et.al.|[2408.07467](http://arxiv.org/abs/2408.07467)|**[link](https://github.com/anok3111/dorl)**|
 |**2024-08-15**|**BAPLe: Backdoor Attacks on Medical Foundational Models using Prompt Learning**|Asif Hanif et.al.|[2408.07440](http://arxiv.org/abs/2408.07440)|**[link](https://github.com/asif-hanif/baple)**|
@@ -539,7 +544,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-07**|**Evaluating Source Code Quality with Large Languagem Models: a comparative study**|Igor Regis da Silva Simões et.al.|[2408.07082](http://arxiv.org/abs/2408.07082)|null|
+|**2024-08-15**|**Visual Integration of Static and Dynamic Software Analysis in Code Reviews via Software City Visualization**|Alexander Krause-Glau et.al.|[2408.08141](http://arxiv.org/abs/2408.08141)|null|
+|**2024-08-07**|**Evaluating Source Code Quality with Large Languagem Models: a comparative study**|Igor Regis da Silva Simões et.al.|[2408.07082](http://arxiv.org/abs/2408.07082)|**[link](https://github.com/igorregis/sonarvsllm)**|
 |**2024-08-09**|**Enhancing the Code Debugging Ability of LLMs via Communicative Agent Based Data Refinement**|Weiqing Yang et.al.|[2408.05006](http://arxiv.org/abs/2408.05006)|null|
 |**2024-08-09**|**Natural Language Outlines for Code: Literate Programming in the LLM Era**|Kensen Shi et.al.|[2408.04820](http://arxiv.org/abs/2408.04820)|null|
 |**2024-08-05**|**Towards Identifying Code Proficiency through the Analysis of Python Textbooks**|Ruksit Rojpaisarnkit et.al.|[2408.02262](http://arxiv.org/abs/2408.02262)|null|
@@ -563,6 +569,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**I-SHEEP: Self-Alignment of LLM from Scratch through an Iterative Self-Enhancement Paradigm**|Yiming Liang et.al.|[2408.08072](http://arxiv.org/abs/2408.08072)|null|
+|**2024-08-15**|**Non-iterative triples for transcorrelated coupled cluster**|Maximilian Mörchen et.al.|[2408.07858](http://arxiv.org/abs/2408.07858)|null|
+|**2024-08-14**|**A System for Automated Unit Test Generation Using Large Language Models and Assessment of Generated Test Suites**|Andrea Lops et.al.|[2408.07846](http://arxiv.org/abs/2408.07846)|null|
 |**2024-08-13**|**"You still have to study" -- On the Security of LLM generated code**|Stefan Goetz et.al.|[2408.07106](http://arxiv.org/abs/2408.07106)|null|
 |**2024-08-13**|**Architecture Specific Generation of Large Scale Lattice Boltzmann Methods for Sparse Complex Geometries**|Philipp Suffa et.al.|[2408.06880](http://arxiv.org/abs/2408.06880)|null|
 |**2024-08-13**|**HLSPilot: LLM-based High-Level Synthesis**|Chenwei Xiong et.al.|[2408.06810](http://arxiv.org/abs/2408.06810)|null|
