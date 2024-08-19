@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.18
+## Updated on 2024.08.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -457,7 +457,7 @@ layout: default
 |**2024-08-15**|**Do GPT Language Models Suffer From Split Personality Disorder? The Advent Of Substrate-Free Psychometrics**|Peter Romero et.al.|[2408.07377](http://arxiv.org/abs/2408.07377)|null|
 |**2024-08-14**|**Nonlocal Attention Operator: Materializing Hidden Knowledge Towards Interpretable Physics Discovery**|Yue Yu et.al.|[2408.07307](http://arxiv.org/abs/2408.07307)|null|
 |**2024-08-14**|**LiPCoT: Linear Predictive Coding based Tokenizer for Self-supervised Learning of Time Series Data via Language Models**|Md Fahim Anjum et.al.|[2408.07292](http://arxiv.org/abs/2408.07292)|**[link](https://github.com/mdfahimanjum/lipcot)**|
-|**2024-08-13**|**Maximizing V-information for Pre-training Superior Foundation Models**|Wenxuan Yang et.al.|[2408.07107](http://arxiv.org/abs/2408.07107)|null|
+|**2024-08-16**|**Maximizing V-information for Pre-training Superior Foundation Models**|Wenxuan Yang et.al.|[2408.07107](http://arxiv.org/abs/2408.07107)|null|
 |**2024-08-13**|**Do Vision-Language Foundational models show Robust Visual Perception?**|Shivam Chandhok et.al.|[2408.06781](http://arxiv.org/abs/2408.06781)|**[link](https://github.com/shivam-chandhok/cpsc-540-project)**|
 |**2024-08-13**|**Towards Cross-Domain Single Blood Cell Image Classification via Large-Scale LoRA-based Segment Anything Model**|Yongcheng Li et.al.|[2408.06716](http://arxiv.org/abs/2408.06716)|**[link](https://github.com/anok3111/bc-sam)**|
 |**2024-08-13**|**Specialized Change Detection using Segment Anything**|Tahir Ahmad et.al.|[2408.06644](http://arxiv.org/abs/2408.06644)|null|
@@ -571,7 +571,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-15**|**I-SHEEP: Self-Alignment of LLM from Scratch through an Iterative Self-Enhancement Paradigm**|Yiming Liang et.al.|[2408.08072](http://arxiv.org/abs/2408.08072)|null|
 |**2024-08-15**|**Non-iterative triples for transcorrelated coupled cluster**|Maximilian Mörchen et.al.|[2408.07858](http://arxiv.org/abs/2408.07858)|null|
-|**2024-08-14**|**A System for Automated Unit Test Generation Using Large Language Models and Assessment of Generated Test Suites**|Andrea Lops et.al.|[2408.07846](http://arxiv.org/abs/2408.07846)|null|
+|**2024-08-16**|**A System for Automated Unit Test Generation Using Large Language Models and Assessment of Generated Test Suites**|Andrea Lops et.al.|[2408.07846](http://arxiv.org/abs/2408.07846)|null|
 |**2024-08-13**|**"You still have to study" -- On the Security of LLM generated code**|Stefan Goetz et.al.|[2408.07106](http://arxiv.org/abs/2408.07106)|null|
 |**2024-08-13**|**Architecture Specific Generation of Large Scale Lattice Boltzmann Methods for Sparse Complex Geometries**|Philipp Suffa et.al.|[2408.06880](http://arxiv.org/abs/2408.06880)|null|
 |**2024-08-13**|**HLSPilot: LLM-based High-Level Synthesis**|Chenwei Xiong et.al.|[2408.06810](http://arxiv.org/abs/2408.06810)|null|
