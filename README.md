@@ -474,6 +474,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**LongVILA: Scaling Long-Context Visual Language Models for Long Videos**|Fuzhao Xue et.al.|[2408.10188](http://arxiv.org/abs/2408.10188)|**[link](https://github.com/nvlabs/vila)**|
+|**2024-08-19**|**SMILE: Zero-Shot Sparse Mixture of Low-Rank Experts Construction From Pre-Trained Foundation Models**|Anke Tang et.al.|[2408.10174](http://arxiv.org/abs/2408.10174)|**[link](https://github.com/tanganke/fusion_bench)**|
+|**2024-08-19**|**Video Object Segmentation via SAM 2: The 4th Solution for LSVOS Challenge VOS Track**|Feiyu Pan et.al.|[2408.10125](http://arxiv.org/abs/2408.10125)|null|
+|**2024-08-19**|**PLUTUS: A Well Pre-trained Large Unified Transformer can Unveil Financial Time Series Regularities**|Yuanjian Xu et.al.|[2408.10111](http://arxiv.org/abs/2408.10111)|null|
+|**2024-08-19**|**Personalizing Reinforcement Learning from Human Feedback with Variational Preference Learning**|Sriyash Poddar et.al.|[2408.10075](http://arxiv.org/abs/2408.10075)|null|
+|**2024-08-19**|**Defense Priorities in the Open-Source AI Debate: A Preliminary Assessment**|Masao Dahlgren et.al.|[2408.10026](http://arxiv.org/abs/2408.10026)|null|
+|**2024-08-19**|**SAM-UNet:Enhancing Zero-Shot Segmentation of SAM for Universal Medical Images**|Sihan Yang et.al.|[2408.09886](http://arxiv.org/abs/2408.09886)|**[link](https://github.com/hhankyangg/sam-unet)**|
+|**2024-08-19**|**Segment-Anything Models Achieve Zero-shot Robustness in Autonomous Driving**|Jun Yan et.al.|[2408.09839](http://arxiv.org/abs/2408.09839)|**[link](https://github.com/momo1986/robust_sam_iv)**|
+|**2024-08-19**|**Enhance Modality Robustness in Text-Centric Multimodal Alignment with Adversarial Prompting**|Yun-Da Tsai et.al.|[2408.09798](http://arxiv.org/abs/2408.09798)|null|
+|**2024-08-19**|**ExpoMamba: Exploiting Frequency SSM Blocks for Efficient and Effective Image Enhancement**|Eashan Adhikarla et.al.|[2408.09650](http://arxiv.org/abs/2408.09650)|**[link](https://github.com/eashanadhikarla/expomamba)**|
+|**2024-08-18**|**Löb-Safe Logics for Reflective Agents**|Seth Ahrenbach et.al.|[2408.09590](http://arxiv.org/abs/2408.09590)|null|
+|**2024-08-18**|**Screen Them All: High-Throughput Pan-Cancer Genetic and Phenotypic Biomarker Screening from H\&E Whole Slide Images**|Yi Kan Wang et.al.|[2408.09554](http://arxiv.org/abs/2408.09554)|null|
+|**2024-08-18**|**CLIP-CID: Efficient CLIP Distillation via Cluster-Instance Discrimination**|Kaicheng Yang et.al.|[2408.09441](http://arxiv.org/abs/2408.09441)|null|
+|**2024-08-18**|**OVOSE: Open-Vocabulary Semantic Segmentation in Event-Based Cameras**|Muhammad Rameez Ur Rahman et.al.|[2408.09424](http://arxiv.org/abs/2408.09424)|**[link](https://github.com/ram95d/ovose)**|
+|**2024-08-17**|**FEDMEKI: A Benchmark for Scaling Medical Foundation Models via Federated Knowledge Injection**|Jiaqi Wang et.al.|[2408.09227](http://arxiv.org/abs/2408.09227)|null|
 |**2024-08-16**|**SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation**|Xinyu Xiong et.al.|[2408.08870](http://arxiv.org/abs/2408.08870)|**[link](https://github.com/wzh0120/sam2-unet)**|
 |**2024-08-16**|**GeoTransformer: Enhancing Urban Forecasting with Geospatial Attention Mechanisms**|Yuhao Jia et.al.|[2408.08852](http://arxiv.org/abs/2408.08852)|null|
 |**2024-08-16**|**Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models**|Lin Zhao et.al.|[2408.08813](http://arxiv.org/abs/2408.08813)|null|
@@ -611,6 +626,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**Bridging the Language Gap: Enhancing Multilingual Prompt-Based Code Generation in LLMs via Zero-Shot Cross-Lingual Transfer**|Mingda Li et.al.|[2408.09701](http://arxiv.org/abs/2408.09701)|null|
+|**2024-08-17**|**Better Python Programming for all: With the focus on Maintainability**|Karthik Shivashankar et.al.|[2408.09134](http://arxiv.org/abs/2408.09134)|null|
+|**2024-08-17**|**Selective Prompt Anchoring for Code Generation**|Yuan Tian et.al.|[2408.09121](http://arxiv.org/abs/2408.09121)|**[link](https://github.com/magic-yuantian/selective-prompt-anchoring)**|
+|**2024-08-17**|**An Exploratory Study on Fine-Tuning Large Language Models for Secure Code Generation**|Junjie Li et.al.|[2408.09078](http://arxiv.org/abs/2408.09078)|null|
+|**2024-08-15**|**VerilogCoder: Autonomous Verilog Coding Agents with Graph-based Planning and Abstract Syntax Tree (AST)-based Waveform Tracing Tool**|Chia-Tung Ho et.al.|[2408.08927](http://arxiv.org/abs/2408.08927)|null|
 |**2024-08-16**|**Enhancing Discriminative Tasks by Guiding the Pre-trained Language Model with Large Language Model's Experience**|Xin Yin et.al.|[2408.08553](http://arxiv.org/abs/2408.08553)|null|
 |**2024-08-16**|**Vulnerability Handling of AI-Generated Code -- Existing Solutions and Open Challenges**|Sabrina Kaniewski et.al.|[2408.08549](http://arxiv.org/abs/2408.08549)|null|
 |**2024-08-15**|**Plan with Code: Comparing approaches for robust NL to DSL generation**|Nastaran Bassamzadeh et.al.|[2408.08335](http://arxiv.org/abs/2408.08335)|null|
