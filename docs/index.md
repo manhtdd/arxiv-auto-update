@@ -204,6 +204,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**On NVD Users' Attitudes, Experiences, Hopes and Hurdles**|Julia Wunder et.al.|[2408.10695](http://arxiv.org/abs/2408.10695)|null|
 |**2024-08-11**|**Using Retriever Augmented Large Language Models for Attack Graph Generation**|Renascence Tarafder Prapty et.al.|[2408.05855](http://arxiv.org/abs/2408.05855)|null|
 |**2024-06-09**|**A Relevance Model for Threat-Centric Ranking of Cybersecurity Vulnerabilities**|Corren McCoy et.al.|[2406.05933](http://arxiv.org/abs/2406.05933)|null|
 |**2024-05-22**|**CPE-Identifier: Automated CPE identification and CVE summaries annotation with Deep Learning and NLP**|Wanyu Hu et.al.|[2405.13568](http://arxiv.org/abs/2405.13568)|null|
@@ -445,6 +446,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**SenPa-MAE: Sensor Parameter Aware Masked Autoencoder for Multi-Satellite Self-Supervised Pretraining**|Jonathan Prexl et.al.|[2408.11000](http://arxiv.org/abs/2408.11000)|null|
+|**2024-08-20**|**ViLReF: A Chinese Vision-Language Retinal Foundation Model**|Shengzhu Yang et.al.|[2408.10894](http://arxiv.org/abs/2408.10894)|**[link](https://github.com/t6yang/vilref)**|
+|**2024-08-20**|**Benchmarking Large Language Models for Math Reasoning Tasks**|Kathrin Seßler et.al.|[2408.10839](http://arxiv.org/abs/2408.10839)|null|
+|**2024-08-20**|**Towards Foundation Models for the Industrial Forecasting of Chemical Kinetics**|Imran Nasim et.al.|[2408.10720](http://arxiv.org/abs/2408.10720)|null|
+|**2024-08-20**|**AnyGraph: Graph Foundation Model in the Wild**|Lianghao Xia et.al.|[2408.10700](http://arxiv.org/abs/2408.10700)|**[link](https://github.com/hkuds/anygraph)**|
+|**2024-08-20**|**Fine-Tuning and Deploying Large Language Models Over Edges: Issues and Approaches**|Yanjie Dong et.al.|[2408.10691](http://arxiv.org/abs/2408.10691)|null|
+|**2024-08-20**|**Towards Rehearsal-Free Multilingual ASR: A LoRA-based Case Study on Whisper**|Tianyi Xu et.al.|[2408.10680](http://arxiv.org/abs/2408.10680)|null|
+|**2024-08-20**|**Bidirectional Intent Communication: A Role for Large Foundation Models**|Tim Schreiter et.al.|[2408.10589](http://arxiv.org/abs/2408.10589)|null|
+|**2024-08-20**|**Kalib: Markerless Hand-Eye Calibration with Keypoint Tracking**|Tutian Tang et.al.|[2408.10562](http://arxiv.org/abs/2408.10562)|null|
+|**2024-08-19**|**Self-Refined Generative Foundation Models for Wireless Traffic Prediction**|Chengming Hu et.al.|[2408.10390](http://arxiv.org/abs/2408.10390)|null|
 |**2024-08-20**|**LongVILA: Scaling Long-Context Visual Language Models for Long Videos**|Fuzhao Xue et.al.|[2408.10188](http://arxiv.org/abs/2408.10188)|**[link](https://github.com/nvlabs/vila)**|
 |**2024-08-19**|**SMILE: Zero-Shot Sparse Mixture of Low-Rank Experts Construction From Pre-Trained Foundation Models**|Anke Tang et.al.|[2408.10174](http://arxiv.org/abs/2408.10174)|**[link](https://github.com/tanganke/fusion_bench)**|
 |**2024-08-19**|**Video Object Segmentation via SAM 2: The 4th Solution for LSVOS Challenge VOS Track**|Feiyu Pan et.al.|[2408.10125](http://arxiv.org/abs/2408.10125)|null|
@@ -593,6 +604,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**Revisiting VerilogEval: Newer LLMs, In-Context Learning, and Specification-to-RTL Tasks**|Nathaniel Pinckney et.al.|[2408.11053](http://arxiv.org/abs/2408.11053)|null|
+|**2024-08-20**|**To Code, or Not To Code? Exploring Impact of Code in Pre-training**|Viraat Aryabumi et.al.|[2408.10914](http://arxiv.org/abs/2408.10914)|null|
+|**2024-08-20**|**CodeJudge-Eval: Can Large Language Models be Good Judges in Code Understanding?**|Yuwei Zhao et.al.|[2408.10718](http://arxiv.org/abs/2408.10718)|**[link](https://github.com/codellm-research/codejudge-eval)**|
+|**2024-08-20**|**Optimizing Large Language Model Hyperparameters for Code Generation**|Chetan Arora et.al.|[2408.10577](http://arxiv.org/abs/2408.10577)|null|
+|**2024-08-20**|**Ethics of Software Programming with Generative AI: Is Programming without Generative AI always radical?**|Marcellin Atemkeng et.al.|[2408.10554](http://arxiv.org/abs/2408.10554)|null|
+|**2024-08-20**|**How Well Do Large Language Models Serve as End-to-End Secure Code Producers?**|Jianian Gong et.al.|[2408.10495](http://arxiv.org/abs/2408.10495)|null|
+|**2024-08-20**|**Revisiting Evolutionary Program Repair via Code Language Model**|Yunan Wang et.al.|[2408.10486](http://arxiv.org/abs/2408.10486)|null|
+|**2024-08-19**|**A Disguised Wolf Is More Harmful Than a Toothless Tiger: Adaptive Malicious Code Injection Backdoor Attack Leveraging User Behavior as Triggers**|Shangxi Wu et.al.|[2408.10334](http://arxiv.org/abs/2408.10334)|null|
 |**2024-08-19**|**Bridging the Language Gap: Enhancing Multilingual Prompt-Based Code Generation in LLMs via Zero-Shot Cross-Lingual Transfer**|Mingda Li et.al.|[2408.09701](http://arxiv.org/abs/2408.09701)|null|
 |**2024-08-17**|**Better Python Programming for all: With the focus on Maintainability**|Karthik Shivashankar et.al.|[2408.09134](http://arxiv.org/abs/2408.09134)|null|
 |**2024-08-17**|**Selective Prompt Anchoring for Code Generation**|Yuan Tian et.al.|[2408.09121](http://arxiv.org/abs/2408.09121)|**[link](https://github.com/magic-yuantian/selective-prompt-anchoring)**|
