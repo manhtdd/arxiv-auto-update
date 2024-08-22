@@ -475,6 +475,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**EmbodiedSAM: Online Segment Any 3D Thing in Real Time**|Xiuwei Xu et.al.|[2408.11811](http://arxiv.org/abs/2408.11811)|null|
+|**2024-08-21**|**Practical token pruning for foundation models in few-shot conversational virtual assistant systems**|Haode Qi et.al.|[2408.11799](http://arxiv.org/abs/2408.11799)|null|
+|**2024-08-21**|**Leveraging Chemistry Foundation Models to Facilitate Structure Focused Retrieval Augmented Generation in Multi-Agent Workflows for Catalyst and Materials Design**|Nathaniel H. Park et.al.|[2408.11793](http://arxiv.org/abs/2408.11793)|null|
+|**2024-08-21**|**Semi-supervised 3D Semantic Scene Completion with 2D Vision Foundation Model Guidance**|Duc-Hai Pham et.al.|[2408.11559](http://arxiv.org/abs/2408.11559)|null|
+|**2024-08-21**|**Enabling Small Models for Zero-Shot Classification through Model Label Learning**|Jia Zhang et.al.|[2408.11449](http://arxiv.org/abs/2408.11449)|null|
+|**2024-08-21**|**TWLV-I: Analysis and Insights from Holistic Evaluation on Video Foundation Models**|Hyeongmin Lee et.al.|[2408.11318](http://arxiv.org/abs/2408.11318)|**[link](https://github.com/twelvelabs-io/video-embeddings-evaluation-framework)**|
+|**2024-08-21**|**RePair: Automated Program Repair with Process-based Feedback**|Yuze Zhao et.al.|[2408.11296](http://arxiv.org/abs/2408.11296)|**[link](https://github.com/tntwow/repair)**|
+|**2024-08-20**|**Do Neural Scaling Laws Exist on Graph Self-Supervised Learning?**|Qian Ma et.al.|[2408.11243](http://arxiv.org/abs/2408.11243)|**[link](https://github.com/graphsslscaling/graphsslscaling)**|
+|**2024-08-20**|**OCTCube: A 3D foundation model for optical coherence tomography that improves cross-dataset, cross-disease, cross-device and cross-modality analysis**|Zixuan Liu et.al.|[2408.11227](http://arxiv.org/abs/2408.11227)|null|
+|**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
 |**2024-08-20**|**SenPa-MAE: Sensor Parameter Aware Masked Autoencoder for Multi-Satellite Self-Supervised Pretraining**|Jonathan Prexl et.al.|[2408.11000](http://arxiv.org/abs/2408.11000)|null|
 |**2024-08-20**|**ViLReF: A Chinese Vision-Language Retinal Foundation Model**|Shengzhu Yang et.al.|[2408.10894](http://arxiv.org/abs/2408.10894)|**[link](https://github.com/t6yang/vilref)**|
 |**2024-08-20**|**Benchmarking Large Language Models for Math Reasoning Tasks**|Kathrin Seßler et.al.|[2408.10839](http://arxiv.org/abs/2408.10839)|null|
@@ -637,6 +647,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Automatic Dataset Construction (ADC): Sample Collection, Data Curation, and Beyond**|Minghao Liu et.al.|[2408.11338](http://arxiv.org/abs/2408.11338)|null|
+|**2024-08-21**|**Automating Thought of Search: A Journey Towards Soundness and Completeness**|Daniel Cao et.al.|[2408.11326](http://arxiv.org/abs/2408.11326)|null|
+|**2024-08-20**|**EPiC: Cost-effective Search-based Prompt Engineering of LLMs for Code Generation**|Hamed Taherkhani et.al.|[2408.11198](http://arxiv.org/abs/2408.11198)|**[link](https://github.com/hamedtaherkhani/epic)**|
 |**2024-08-20**|**Revisiting VerilogEval: Newer LLMs, In-Context Learning, and Specification-to-RTL Tasks**|Nathaniel Pinckney et.al.|[2408.11053](http://arxiv.org/abs/2408.11053)|null|
 |**2024-08-20**|**To Code, or Not To Code? Exploring Impact of Code in Pre-training**|Viraat Aryabumi et.al.|[2408.10914](http://arxiv.org/abs/2408.10914)|null|
 |**2024-08-20**|**CodeJudge-Eval: Can Large Language Models be Good Judges in Code Understanding?**|Yuwei Zhao et.al.|[2408.10718](http://arxiv.org/abs/2408.10718)|**[link](https://github.com/codellm-research/codejudge-eval)**|
