@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.21
+## Updated on 2024.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -456,7 +456,7 @@ layout: default
 |**2024-08-20**|**Bidirectional Intent Communication: A Role for Large Foundation Models**|Tim Schreiter et.al.|[2408.10589](http://arxiv.org/abs/2408.10589)|null|
 |**2024-08-20**|**Kalib: Markerless Hand-Eye Calibration with Keypoint Tracking**|Tutian Tang et.al.|[2408.10562](http://arxiv.org/abs/2408.10562)|null|
 |**2024-08-19**|**Self-Refined Generative Foundation Models for Wireless Traffic Prediction**|Chengming Hu et.al.|[2408.10390](http://arxiv.org/abs/2408.10390)|null|
-|**2024-08-20**|**LongVILA: Scaling Long-Context Visual Language Models for Long Videos**|Fuzhao Xue et.al.|[2408.10188](http://arxiv.org/abs/2408.10188)|**[link](https://github.com/nvlabs/vila)**|
+|**2024-08-21**|**LongVILA: Scaling Long-Context Visual Language Models for Long Videos**|Fuzhao Xue et.al.|[2408.10188](http://arxiv.org/abs/2408.10188)|**[link](https://github.com/nvlabs/vila)**|
 |**2024-08-19**|**SMILE: Zero-Shot Sparse Mixture of Low-Rank Experts Construction From Pre-Trained Foundation Models**|Anke Tang et.al.|[2408.10174](http://arxiv.org/abs/2408.10174)|**[link](https://github.com/tanganke/fusion_bench)**|
 |**2024-08-19**|**Video Object Segmentation via SAM 2: The 4th Solution for LSVOS Challenge VOS Track**|Feiyu Pan et.al.|[2408.10125](http://arxiv.org/abs/2408.10125)|null|
 |**2024-08-20**|**PLUTUS: A Well Pre-trained Large Unified Transformer can Unveil Financial Time Series Regularities**|Yuanjian Xu et.al.|[2408.10111](http://arxiv.org/abs/2408.10111)|null|
@@ -614,7 +614,7 @@ layout: default
 |**2024-08-19**|**A Disguised Wolf Is More Harmful Than a Toothless Tiger: Adaptive Malicious Code Injection Backdoor Attack Leveraging User Behavior as Triggers**|Shangxi Wu et.al.|[2408.10334](http://arxiv.org/abs/2408.10334)|null|
 |**2024-08-19**|**Bridging the Language Gap: Enhancing Multilingual Prompt-Based Code Generation in LLMs via Zero-Shot Cross-Lingual Transfer**|Mingda Li et.al.|[2408.09701](http://arxiv.org/abs/2408.09701)|null|
 |**2024-08-17**|**Better Python Programming for all: With the focus on Maintainability**|Karthik Shivashankar et.al.|[2408.09134](http://arxiv.org/abs/2408.09134)|null|
-|**2024-08-17**|**Selective Prompt Anchoring for Code Generation**|Yuan Tian et.al.|[2408.09121](http://arxiv.org/abs/2408.09121)|**[link](https://github.com/magic-yuantian/selective-prompt-anchoring)**|
+|**2024-08-21**|**Selective Prompt Anchoring for Code Generation**|Yuan Tian et.al.|[2408.09121](http://arxiv.org/abs/2408.09121)|**[link](https://github.com/magic-yuantian/selective-prompt-anchoring)**|
 |**2024-08-17**|**An Exploratory Study on Fine-Tuning Large Language Models for Secure Code Generation**|Junjie Li et.al.|[2408.09078](http://arxiv.org/abs/2408.09078)|null|
 |**2024-08-15**|**VerilogCoder: Autonomous Verilog Coding Agents with Graph-based Planning and Abstract Syntax Tree (AST)-based Waveform Tracing Tool**|Chia-Tung Ho et.al.|[2408.08927](http://arxiv.org/abs/2408.08927)|null|
 |**2024-08-16**|**Enhancing Discriminative Tasks by Guiding the Pre-trained Language Model with Large Language Model's Experience**|Xin Yin et.al.|[2408.08553](http://arxiv.org/abs/2408.08553)|null|
