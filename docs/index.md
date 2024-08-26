@@ -447,6 +447,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-23**|**Foundational Model for Electron Micrograph Analysis: Instruction-Tuning Small-Scale Language-and-Vision Assistant for Enterprise Adoption**|Sakhinana Sagar Srinivas et.al.|[2408.13248](http://arxiv.org/abs/2408.13248)|null|
+|**2024-08-23**|**VFM-Det: Towards High-Performance Vehicle Detection via Large Foundation Models**|Wentao Wu et.al.|[2408.13031](http://arxiv.org/abs/2408.13031)|**[link](https://github.com/event-ahu/vfm-det)**|
+|**2024-08-23**|**Image Segmentation in Foundation Model Era: A Survey**|Tianfei Zhou et.al.|[2408.12957](http://arxiv.org/abs/2408.12957)|null|
+|**2024-08-23**|**Unleashing the Potential of SAM2 for Biomedical Images and Videos: A Survey**|Yichi Zhang et.al.|[2408.12889](http://arxiv.org/abs/2408.12889)|**[link](https://github.com/yichizhang98/sam4mis)**|
+|**2024-08-23**|**Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey**|Qika Lin et.al.|[2408.12880](http://arxiv.org/abs/2408.12880)|null|
+|**2024-08-23**|**Examining the Commitments and Difficulties Inherent in Multimodal Foundation Models for Street View Imagery**|Zhenyuan Yang et.al.|[2408.12821](http://arxiv.org/abs/2408.12821)|null|
 |**2024-08-22**|**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**|Jinheng Xie et.al.|[2408.12528](http://arxiv.org/abs/2408.12528)|null|
 |**2024-08-22**|**Enhanced Infield Agriculture with Interpretable Machine Learning Approaches for Crop Classification**|Sudi Murindanyi et.al.|[2408.12426](http://arxiv.org/abs/2408.12426)|null|
 |**2024-08-22**|**Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes**|Sota Kato et.al.|[2408.12406](http://arxiv.org/abs/2408.12406)|**[link](https://github.com/usagisukisuki/g-sam)**|
@@ -628,6 +634,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-23**|**DOMAINEVAL: An Auto-Constructed Benchmark for Multi-Domain Code Generation**|Qiming Zhu et.al.|[2408.13204](http://arxiv.org/abs/2408.13204)|null|
+|**2024-08-23**|**CRUXEval-X: A Benchmark for Multilingual Code Reasoning, Understanding and Execution**|Ruiyang Xu et.al.|[2408.13001](http://arxiv.org/abs/2408.13001)|null|
+|**2024-08-23**|**E-code: Mastering Efficient Code Generation through Pretrained Models and Expert Encoder Group**|Yue Pan et.al.|[2408.12948](http://arxiv.org/abs/2408.12948)|null|
 |**2024-08-22**|**AutoTest: Evolutionary Code Solution Selection with Test Cases**|Zhihua Duan et.al.|[2408.12125](http://arxiv.org/abs/2408.12125)|null|
 |**2024-08-21**|**Automatic Dataset Construction (ADC): Sample Collection, Data Curation, and Beyond**|Minghao Liu et.al.|[2408.11338](http://arxiv.org/abs/2408.11338)|null|
 |**2024-08-21**|**Automating Thought of Search: A Journey Towards Soundness and Completeness**|Daniel Cao et.al.|[2408.11326](http://arxiv.org/abs/2408.11326)|null|
