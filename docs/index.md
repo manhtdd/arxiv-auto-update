@@ -204,6 +204,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**From Chaos to Consistency: The Role of CSAF in Streamlining Security Advisories**|Julia Wunder et.al.|[2408.14937](http://arxiv.org/abs/2408.14937)|null|
 |**2024-08-20**|**On NVD Users' Attitudes, Experiences, Hopes and Hurdles**|Julia Wunder et.al.|[2408.10695](http://arxiv.org/abs/2408.10695)|null|
 |**2024-08-11**|**Using Retriever Augmented Large Language Models for Attack Graph Generation**|Renascence Tarafder Prapty et.al.|[2408.05855](http://arxiv.org/abs/2408.05855)|null|
 |**2024-06-09**|**A Relevance Model for Threat-Centric Ranking of Cybersecurity Vulnerabilities**|Corren McCoy et.al.|[2406.05933](http://arxiv.org/abs/2406.05933)|null|
@@ -447,6 +448,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**The Benefits of Balance: From Information Projections to Variance Reduction**|Lang Liu et.al.|[2408.15065](http://arxiv.org/abs/2408.15065)|null|
+|**2024-08-27**|**Speech Recognition Transformers: Topological-lingualism Perspective**|Shruti Singh et.al.|[2408.14991](http://arxiv.org/abs/2408.14991)|null|
+|**2024-08-27**|**Cross-Modal Learning for Chemistry Property Prediction: Large Language Models Meet Graph Machine Learning**|Sakhinana Sagar Srinivas et.al.|[2408.14964](http://arxiv.org/abs/2408.14964)|null|
+|**2024-08-27**|**From Bias to Balance: Detecting Facial Expression Recognition Biases in Large Multimodal Foundation Models**|Kaylee Chhua et.al.|[2408.14842](http://arxiv.org/abs/2408.14842)|null|
+|**2024-08-27**|**HPT++: Hierarchically Prompting Vision-Language Models with Multi-Granularity Knowledge Generation and Improved Structure Modeling**|Yubin Wang et.al.|[2408.14812](http://arxiv.org/abs/2408.14812)|null|
+|**2024-08-27**|**Text-guided Foundation Model Adaptation for Long-Tailed Medical Image Classification**|Sirui Li et.al.|[2408.14770](http://arxiv.org/abs/2408.14770)|null|
+|**2024-08-27**|**Training-Free Time-Series Anomaly Detection: Leveraging Image Foundation Models**|Nobuo Namura et.al.|[2408.14756](http://arxiv.org/abs/2408.14756)|null|
+|**2024-08-26**|**Surprisingly Fragile: Assessing and Addressing Prompt Instability in Multimodal Foundation Models**|Ian Stewart et.al.|[2408.14595](http://arxiv.org/abs/2408.14595)|null|
 |**2024-08-26**|**A Practitioner's Guide to Continual Multimodal Pretraining**|Karsten Roth et.al.|[2408.14471](http://arxiv.org/abs/2408.14471)|**[link](https://github.com/explainableml/fomo_in_flux)**|
 |**2024-08-26**|**Hyperdimensional Computing Empowered Federated Foundation Model over Wireless Networks for Metaverse**|Yahao Ding et.al.|[2408.14416](http://arxiv.org/abs/2408.14416)|null|
 |**2024-08-26**|**An Embedding is Worth a Thousand Noisy Labels**|Francesco Di Salvo et.al.|[2408.14358](http://arxiv.org/abs/2408.14358)|null|
@@ -646,6 +655,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**Strategic Optimization and Challenges of Large Language Models in Object-Oriented Programming**|Zinan Wang et.al.|[2408.14834](http://arxiv.org/abs/2408.14834)|null|
+|**2024-08-24**|**Is Functional Correctness Enough to Evaluate Code Language Models? Exploring Diversity of Generated Codes**|Heejae Chon et.al.|[2408.14504](http://arxiv.org/abs/2408.14504)|null|
 |**2024-08-26**|**Evaluating Large Language Models on Spatial Tasks: A Multi-Task Benchmarking Study**|Liuchang Xu Shuo Zhao et.al.|[2408.14438](http://arxiv.org/abs/2408.14438)|null|
 |**2024-08-26**|**Making Formulog Fast: An Argument for Unconventional Datalog Evaluation (Extended Version)**|Aaron Bembenek et.al.|[2408.14017](http://arxiv.org/abs/2408.14017)|null|
 |**2024-08-27**|**Sifting through the Chaff: On Utilizing Execution Feedback for Ranking the Generated Code Candidates**|Zhihong Sun et.al.|[2408.13976](http://arxiv.org/abs/2408.13976)|null|
