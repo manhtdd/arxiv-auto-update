@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.28
+## Updated on 2024.08.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -657,7 +657,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-27**|**Strategic Optimization and Challenges of Large Language Models in Object-Oriented Programming**|Zinan Wang et.al.|[2408.14834](http://arxiv.org/abs/2408.14834)|null|
 |**2024-08-24**|**Is Functional Correctness Enough to Evaluate Code Language Models? Exploring Diversity of Generated Codes**|Heejae Chon et.al.|[2408.14504](http://arxiv.org/abs/2408.14504)|null|
-|**2024-08-26**|**Evaluating Large Language Models on Spatial Tasks: A Multi-Task Benchmarking Study**|Liuchang Xu Shuo Zhao et.al.|[2408.14438](http://arxiv.org/abs/2408.14438)|null|
+|**2024-08-28**|**Evaluating Large Language Models on Spatial Tasks: A Multi-Task Benchmarking Study**|Liuchang Xu et.al.|[2408.14438](http://arxiv.org/abs/2408.14438)|null|
 |**2024-08-26**|**Making Formulog Fast: An Argument for Unconventional Datalog Evaluation (Extended Version)**|Aaron Bembenek et.al.|[2408.14017](http://arxiv.org/abs/2408.14017)|null|
 |**2024-08-27**|**Sifting through the Chaff: On Utilizing Execution Feedback for Ranking the Generated Code Candidates**|Zhihong Sun et.al.|[2408.13976](http://arxiv.org/abs/2408.13976)|null|
 |**2024-08-25**|**DOCE: Finding the Sweet Spot for Execution-Based Code Generation**|Haau-Sing Li et.al.|[2408.13745](http://arxiv.org/abs/2408.13745)|**[link](https://github.com/deep-spin/doce)**|
