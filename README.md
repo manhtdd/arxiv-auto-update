@@ -477,6 +477,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**DeMoBot: Deformable Mobile Manipulation with Vision-based Sub-goal Retrieval**|Yuying Zhang et.al.|[2408.15919](http://arxiv.org/abs/2408.15919)|null|
+|**2024-08-28**|**Benchmarking foundation models as feature extractors for weakly-supervised computational pathology**|Peter Neidlinger et.al.|[2408.15823](http://arxiv.org/abs/2408.15823)|null|
+|**2024-08-28**|**Visual Prompt Engineering for Medical Vision Language Models in Radiology**|Stefan Denner et.al.|[2408.15802](http://arxiv.org/abs/2408.15802)|null|
+|**2024-08-28**|**CSAD: Unsupervised Component Segmentation for Logical Anomaly Detection**|Yu-Hsuan Hsieh et.al.|[2408.15628](http://arxiv.org/abs/2408.15628)|**[link](https://github.com/Tokichan/CSAD)**|
+|**2024-08-28**|**Can Visual Language Models Replace OCR-Based Visual Question Answering Pipelines in Production? A Case Study in Retail**|Bianca Lamm et.al.|[2408.15626](http://arxiv.org/abs/2408.15626)|null|
+|**2024-08-28**|**Exploring Selective Layer Fine-Tuning in Federated Learning**|Yuchang Sun et.al.|[2408.15600](http://arxiv.org/abs/2408.15600)|null|
+|**2024-08-28**|**Measuring the Reliability of Causal Probing Methods: Tradeoffs, Limitations, and the Plight of Nullifying Interventions**|Marc Canby et.al.|[2408.15510](http://arxiv.org/abs/2408.15510)|null|
+|**2024-08-27**|**Parameter-Efficient Quantized Mixture-of-Experts Meets Vision-Language Instruction Tuning for Semiconductor Electron Micrograph Analysis**|Sakhinana Sagar Srinivas et.al.|[2408.15305](http://arxiv.org/abs/2408.15305)|null|
 |**2024-08-27**|**The Benefits of Balance: From Information Projections to Variance Reduction**|Lang Liu et.al.|[2408.15065](http://arxiv.org/abs/2408.15065)|null|
 |**2024-08-27**|**Speech Recognition Transformers: Topological-lingualism Perspective**|Shruti Singh et.al.|[2408.14991](http://arxiv.org/abs/2408.14991)|null|
 |**2024-08-27**|**Cross-Modal Learning for Chemistry Property Prediction: Large Language Models Meet Graph Machine Learning**|Sakhinana Sagar Srinivas et.al.|[2408.14964](http://arxiv.org/abs/2408.14964)|null|
@@ -688,6 +696,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**Retrieval-Augmented Instruction Tuning for Automated Process Engineering Calculations : A Tool-Chaining Problem-Solving Framework with Attributable Reflection**|Sagar Srinivas Sakhinana et.al.|[2408.15866](http://arxiv.org/abs/2408.15866)|null|
+|**2024-08-28**|**Unifying Model Execution and Deductive Verification with Interaction Trees in Isabelle/HOL**|Simon Foster et.al.|[2408.15817](http://arxiv.org/abs/2408.15817)|null|
+|**2024-08-28**|**An Empirical Study on Self-correcting Large Language Models for Data Science Code Generation**|Thai Tang Quoc et.al.|[2408.15658](http://arxiv.org/abs/2408.15658)|null|
+|**2024-08-28**|**CodeSift: An LLM-Based Reference-Less Framework for Automatic Code Validation**|Pooja Aggarwal et.al.|[2408.15630](http://arxiv.org/abs/2408.15630)|null|
+|**2024-08-27**|**Generation of Compiler Backends from Formal Models of Hardware**|Gus Henry Smith et.al.|[2408.15429](http://arxiv.org/abs/2408.15429)|null|
 |**2024-08-27**|**Strategic Optimization and Challenges of Large Language Models in Object-Oriented Programming**|Zinan Wang et.al.|[2408.14834](http://arxiv.org/abs/2408.14834)|null|
 |**2024-08-24**|**Is Functional Correctness Enough to Evaluate Code Language Models? Exploring Diversity of Generated Codes**|Heejae Chon et.al.|[2408.14504](http://arxiv.org/abs/2408.14504)|null|
 |**2024-08-28**|**Evaluating Large Language Models on Spatial Tasks: A Multi-Task Benchmarking Study**|Liuchang Xu et.al.|[2408.14438](http://arxiv.org/abs/2408.14438)|null|
