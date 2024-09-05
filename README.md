@@ -477,6 +477,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**CanvOI, an Oncology Intelligence Foundation Model: Scaling FLOPS Differently**|Jonathan Zalach et.al.|[2409.02885](http://arxiv.org/abs/2409.02885)|null|
+|**2024-09-04**|**Configurable Foundation Models: Building LLMs from a Modular Perspective**|Chaojun Xiao et.al.|[2409.02877](http://arxiv.org/abs/2409.02877)|null|
+|**2024-09-04**|**MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos**|Junyi Ma et.al.|[2409.02638](http://arxiv.org/abs/2409.02638)|null|
+|**2024-09-04**|**Understanding eGFR Trajectories and Kidney Function Decline via Large Multimodal Models**|Chih-Yuan Li et.al.|[2409.02530](http://arxiv.org/abs/2409.02530)|null|
+|**2024-09-04**|**Understanding the Role of Functional Diversity in Weight-Ensembling with Ingredient Selection and Multidimensional Scaling**|Alex Rojas et.al.|[2409.02347](http://arxiv.org/abs/2409.02347)|null|
+|**2024-09-04**|**Robust Federated Finetuning of Foundation Models via Alternating Minimization of LoRA**|Shuangyi Chen et.al.|[2409.02346](http://arxiv.org/abs/2409.02346)|null|
+|**2024-09-03**|**TimeDiT: General-purpose Diffusion Transformers for Time Series Foundation Model**|Defu Cao et.al.|[2409.02322](http://arxiv.org/abs/2409.02322)|null|
+|**2024-09-03**|**Speech Foundation Model Ensembles for the Controlled Singing Voice Deepfake Detection (CtrSVDD) Challenge 2024**|Anmol Guragain et.al.|[2409.02302](http://arxiv.org/abs/2409.02302)|**[link](https://github.com/anmol2059/svdd2024)**|
+|**2024-09-03**|**How to Determine the Preferred Image Distribution of a Black-Box Vision-Language Model?**|Saeid Asgari Taghanaki et.al.|[2409.02253](http://arxiv.org/abs/2409.02253)|null|
+|**2024-09-03**|**SmileyLlama: Modifying Large Language Models for Directed Chemical Space Exploration**|Joseph M. Cavanagh et.al.|[2409.02231](http://arxiv.org/abs/2409.02231)|null|
+|**2024-09-03**|**Optimal Power Grid Operations with Foundation Models**|Alban Puech et.al.|[2409.02148](http://arxiv.org/abs/2409.02148)|null|
+|**2024-09-03**|**Towards Generative Class Prompt Learning for Few-shot Visual Recognition**|Soumitri Chattopadhyay et.al.|[2409.01835](http://arxiv.org/abs/2409.01835)|null|
+|**2024-09-03**|**PR2: A Physics- and Photo-realistic Testbed for Embodied AI and Humanoid Robots**|Hangxin Liu et.al.|[2409.01559](http://arxiv.org/abs/2409.01559)|**[link](https://github.com/pr2-humanoid/PR2-Platform)**|
+|**2024-09-02**|**Resource-Efficient Adaptation of Speech Foundation Models for Multi-Speaker ASR**|Weiqing Wang et.al.|[2409.01438](http://arxiv.org/abs/2409.01438)|null|
+|**2024-09-02**|**Pediatric brain tumor classification using digital histopathology and deep learning: evaluation of SOTA methods on a multi-center Swedish cohort**|Iulian Emil Tampu et.al.|[2409.01330](http://arxiv.org/abs/2409.01330)|null|
 |**2024-08-30**|**DARES: Depth Anything in Robotic Endoscopic Surgery with Self-supervised Vector-LoRA of the Foundation Model**|Mona Sheikh Zeinoddin et.al.|[2408.17433](http://arxiv.org/abs/2408.17433)|null|
 |**2024-08-30**|**EMPOWER: Embodied Multi-role Open-vocabulary Planning with Online Grounding and Execution**|Francesco Argenziano et.al.|[2408.17379](http://arxiv.org/abs/2408.17379)|null|
 |**2024-08-30**|**VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters**|Mouxiang Chen et.al.|[2408.17253](http://arxiv.org/abs/2408.17253)|**[link](https://github.com/keytoyze/visionts)**|
@@ -711,6 +726,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Bioinformatics Retrieval Augmentation Data (BRAD) Digital Assistant**|Joshua Pickard et.al.|[2409.02864](http://arxiv.org/abs/2409.02864)|null|
+|**2024-09-03**|**Arctic-SnowCoder: Demystifying High-Quality Data in Code Pretraining**|Yuxiang Wei et.al.|[2409.02326](http://arxiv.org/abs/2409.02326)|null|
+|**2024-09-03**|**It is Time to Develop an Auditing Framework to Promote Value Aware Chatbots**|Yanchen Wang et.al.|[2409.01539](http://arxiv.org/abs/2409.01539)|null|
+|**2024-09-02**|**Automatic Detection of LLM-generated Code: A Case Study of Claude 3 Haiku**|Musfiqur Rahman et.al.|[2409.01382](http://arxiv.org/abs/2409.01382)|null|
+|**2024-09-02**|**Vortex: Efficient Sample-Free Dynamic Tensor Program Optimization via Hardware-aware Strategy Space Hierarchization**|Yangjie Zhou et.al.|[2409.01075](http://arxiv.org/abs/2409.01075)|null|
+|**2024-09-02**|**Statically Contextualizing Large Language Models with Typed Holes**|Andrew Blinn et.al.|[2409.00921](http://arxiv.org/abs/2409.00921)|null|
+|**2024-09-02**|**The Impact of Generative AI-Powered Code Generation Tools on Software Engineer Hiring: Recruiters' Experiences, Perceptions, and Strategies**|Alyssia Chen et.al.|[2409.00875](http://arxiv.org/abs/2409.00875)|null|
+|**2024-09-01**|**Benchmarking LLM Code Generation for Audio Programming with Visual Dataflow Languages**|William Zhang et.al.|[2409.00856](http://arxiv.org/abs/2409.00856)|null|
+|**2024-09-01**|**Fixing Code Generation Errors for Large Language Models**|Hao Wen et.al.|[2409.00676](http://arxiv.org/abs/2409.00676)|null|
 |**2024-08-29**|**Entropic Distribution Matching in Supervised Fine-tuning of LLMs: Less Overfitting and Better Diversity**|Ziniu Li et.al.|[2408.16673](http://arxiv.org/abs/2408.16673)|null|
 |**2024-08-29**|**Examination of Code generated by Large Language Models**|Robin Beer et.al.|[2408.16601](http://arxiv.org/abs/2408.16601)|**[link](https://github.com/t-muras/ai-code-analysis)**|
 |**2024-08-29**|**A Survey on Evaluating Large Language Models in Code Generation Tasks**|Liguo Chen et.al.|[2408.16498](http://arxiv.org/abs/2408.16498)|null|
