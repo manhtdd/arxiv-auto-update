@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.05
+## Updated on 2024.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -448,6 +448,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**|Yunze Man et.al.|[2409.03757](http://arxiv.org/abs/2409.03757)|**[link](https://github.com/yunzeman/lexicon3d)**|
+|**2024-09-05**|**Foundation Model or Finetune? Evaluation of few-shot semantic segmentation for river pollution**|Marga Don et.al.|[2409.03754](http://arxiv.org/abs/2409.03754)|**[link](https://github.com/theoceancleanup/rivertrashsegmentation)**|
+|**2024-09-05**|**FrozenSeg: Harmonizing Frozen Foundation Models for Open-Vocabulary Segmentation**|Xi Chen et.al.|[2409.03525](http://arxiv.org/abs/2409.03525)|null|
+|**2024-09-05**|**Tissue Concepts: supervised foundation models in computational pathology**|Till Nicke et.al.|[2409.03519](http://arxiv.org/abs/2409.03519)|**[link](https://github.com/FraunhoferMEVIS/MedicalMultitaskModeling)**|
+|**2024-09-05**|**From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents**|Jifan Yu et.al.|[2409.03512](http://arxiv.org/abs/2409.03512)|null|
+|**2024-09-05**|**Efficient Multi-Task Large Model Training via Data Heterogeneity-aware Model Management**|Yujie Wang et.al.|[2409.03365](http://arxiv.org/abs/2409.03365)|null|
+|**2024-09-05**|**AI data transparency: an exploration through the lens of AI incidents**|Sophia Worth et.al.|[2409.03307](http://arxiv.org/abs/2409.03307)|null|
+|**2024-09-05**|**Bringing the RT-1-X Foundation Model to a SCARA robot**|Jonathan Salzer et.al.|[2409.03299](http://arxiv.org/abs/2409.03299)|null|
+|**2024-09-05**|**OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving**|Julong Wei et.al.|[2409.03272](http://arxiv.org/abs/2409.03272)|null|
 |**2024-09-04**|**CanvOI, an Oncology Intelligence Foundation Model: Scaling FLOPS Differently**|Jonathan Zalach et.al.|[2409.02885](http://arxiv.org/abs/2409.02885)|null|
 |**2024-09-04**|**Configurable Foundation Models: Building LLMs from a Modular Perspective**|Chaojun Xiao et.al.|[2409.02877](http://arxiv.org/abs/2409.02877)|null|
 |**2024-09-04**|**MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos**|Junyi Ma et.al.|[2409.02638](http://arxiv.org/abs/2409.02638)|null|
@@ -693,9 +702,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**Planning In Natural Language Improves LLM Search For Code Generation**|Evan Wang et.al.|[2409.03733](http://arxiv.org/abs/2409.03733)|null|
+|**2024-09-05**|**No Man is an Island: Towards Fully Automatic Programming by Code Search, Code Generation and Program Repair**|Quanjun Zhang et.al.|[2409.03267](http://arxiv.org/abs/2409.03267)|null|
 |**2024-09-04**|**Bioinformatics Retrieval Augmentation Data (BRAD) Digital Assistant**|Joshua Pickard et.al.|[2409.02864](http://arxiv.org/abs/2409.02864)|null|
 |**2024-09-03**|**Arctic-SnowCoder: Demystifying High-Quality Data in Code Pretraining**|Yuxiang Wei et.al.|[2409.02326](http://arxiv.org/abs/2409.02326)|null|
-|**2024-09-03**|**It is Time to Develop an Auditing Framework to Promote Value Aware Chatbots**|Yanchen Wang et.al.|[2409.01539](http://arxiv.org/abs/2409.01539)|null|
+|**2024-09-03**|**It is Time to Develop an Auditing Framework to Promote Value Aware Chatbots**|Yanchen Wang et.al.|[2409.01539](http://arxiv.org/abs/2409.01539)|**[link](https://github.com/GU-DataLab/Chatbot-Auditing-Framework)**|
 |**2024-09-02**|**Automatic Detection of LLM-generated Code: A Case Study of Claude 3 Haiku**|Musfiqur Rahman et.al.|[2409.01382](http://arxiv.org/abs/2409.01382)|null|
 |**2024-09-02**|**Vortex: Efficient Sample-Free Dynamic Tensor Program Optimization via Hardware-aware Strategy Space Hierarchization**|Yangjie Zhou et.al.|[2409.01075](http://arxiv.org/abs/2409.01075)|null|
 |**2024-09-02**|**Statically Contextualizing Large Language Models with Typed Holes**|Andrew Blinn et.al.|[2409.00921](http://arxiv.org/abs/2409.00921)|null|
