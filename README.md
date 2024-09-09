@@ -477,6 +477,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation**|Yecheng Wu et.al.|[2409.04429](http://arxiv.org/abs/2409.04429)|null|
+|**2024-09-06**|**Exploring Foundation Models for Synthetic Medical Imaging: A Study on Chest X-Rays and Fine-Tuning Techniques**|Davide Clode da Silva et.al.|[2409.04424](http://arxiv.org/abs/2409.04424)|null|
+|**2024-09-06**|**An overview of domain-specific foundation model: key technologies, applications and challenges**|Haolong Chen et.al.|[2409.04267](http://arxiv.org/abs/2409.04267)|null|
+|**2024-09-06**|**UniDet3D: Multi-dataset Indoor 3D Object Detection**|Maksim Kolodiazhnyi et.al.|[2409.04234](http://arxiv.org/abs/2409.04234)|**[link](https://github.com/filapro/unidet3d)**|
+|**2024-09-06**|**Dense Hand-Object(HO) GraspNet with Full Grasping Taxonomy and Dynamics**|Woojin Cho et.al.|[2409.04033](http://arxiv.org/abs/2409.04033)|null|
+|**2024-09-05**|**Few-shot Adaptation of Medical Vision-Language Models**|Fereshteh Shakeri et.al.|[2409.03868](http://arxiv.org/abs/2409.03868)|**[link](https://github.com/fereshteshakeri/few-shot-medvlms)**|
 |**2024-09-05**|**Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**|Yunze Man et.al.|[2409.03757](http://arxiv.org/abs/2409.03757)|**[link](https://github.com/yunzeman/lexicon3d)**|
 |**2024-09-05**|**Foundation Model or Finetune? Evaluation of few-shot semantic segmentation for river pollution**|Marga Don et.al.|[2409.03754](http://arxiv.org/abs/2409.03754)|**[link](https://github.com/theoceancleanup/rivertrashsegmentation)**|
 |**2024-09-05**|**FrozenSeg: Harmonizing Frozen Foundation Models for Open-Vocabulary Segmentation**|Xi Chen et.al.|[2409.03525](http://arxiv.org/abs/2409.03525)|null|
@@ -735,6 +741,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**Can OpenSource beat ChatGPT? -- A Comparative Study of Large Language Models for Text-to-Code Generation**|Luis Mayer et.al.|[2409.04164](http://arxiv.org/abs/2409.04164)|null|
+|**2024-09-06**|**Multi-Programming Language Ensemble for Code Generation in Large Language Model**|Tengfei Xue et.al.|[2409.04114](http://arxiv.org/abs/2409.04114)|**[link](https://github.com/ninjatech-ai/mple)**|
 |**2024-09-05**|**Planning In Natural Language Improves LLM Search For Code Generation**|Evan Wang et.al.|[2409.03733](http://arxiv.org/abs/2409.03733)|null|
 |**2024-09-05**|**No Man is an Island: Towards Fully Automatic Programming by Code Search, Code Generation and Program Repair**|Quanjun Zhang et.al.|[2409.03267](http://arxiv.org/abs/2409.03267)|null|
 |**2024-09-04**|**Bioinformatics Retrieval Augmentation Data (BRAD) Digital Assistant**|Joshua Pickard et.al.|[2409.02864](http://arxiv.org/abs/2409.02864)|null|
