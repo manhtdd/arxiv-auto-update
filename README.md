@@ -223,6 +223,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**A Mixed-Methods Study of Open-Source Software Maintainers On Vulnerability Management and Platform Security Features**|Jessy Ayala et.al.|[2409.07669](http://arxiv.org/abs/2409.07669)|null|
 |**2024-08-27**|**From Chaos to Consistency: The Role of CSAF in Streamlining Security Advisories**|Julia Wunder et.al.|[2408.14937](http://arxiv.org/abs/2408.14937)|null|
 |**2024-08-20**|**On NVD Users' Attitudes, Experiences, Hopes and Hurdles**|Julia Wunder et.al.|[2408.10695](http://arxiv.org/abs/2408.10695)|null|
 |**2024-08-11**|**Using Retriever Augmented Large Language Models for Attack Graph Generation**|Renascence Tarafder Prapty et.al.|[2408.05855](http://arxiv.org/abs/2408.05855)|null|
@@ -478,6 +479,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**Towards a graph-based foundation model for network traffic analysis**|Louis Van Langendonck et.al.|[2409.08111](http://arxiv.org/abs/2409.08111)|null|
+|**2024-09-12**|**The Faetar Benchmark: Speech Recognition in a Very Under-Resourced Language**|Michael Ong et.al.|[2409.08103](http://arxiv.org/abs/2409.08103)|null|
+|**2024-09-12**|**SimMAT: Exploring Transferability from Vision Foundation Models to Any Image Modality**|Chenyang Lei et.al.|[2409.08083](http://arxiv.org/abs/2409.08083)|null|
+|**2024-09-12**|**Do Vision Foundation Models Enhance Domain Generalization in Medical Image Segmentation?**|Kerem Cekmeceli et.al.|[2409.07960](http://arxiv.org/abs/2409.07960)|**[link](https://github.com/kerem-cekmeceli/foundation-models-for-medical-imagery)**|
+|**2024-09-12**|**Tidal MerzA: Combining affective modelling and autonomous code generation through Reinforcement Learning**|Elizabeth Wilson et.al.|[2409.07918](http://arxiv.org/abs/2409.07918)|null|
+|**2024-09-12**|**Advancing Depth Anything Model for Unsupervised Monocular Depth Estimation in Endoscopy**|Bojian Li et.al.|[2409.07723](http://arxiv.org/abs/2409.07723)|null|
+|**2024-09-11**|**Foundation Models Boost Low-Level Perceptual Similarity Metrics**|Abhijay Ghildyal et.al.|[2409.07650](http://arxiv.org/abs/2409.07650)|null|
+|**2024-09-11**|**Understanding Foundation Models: Are We Back in 1924?**|Alan F. Smeaton et.al.|[2409.07618](http://arxiv.org/abs/2409.07618)|null|
+|**2024-09-11**|**Minimizing Embedding Distortion for Robust Out-of-Distribution Performance**|Tom Shaked et.al.|[2409.07582](http://arxiv.org/abs/2409.07582)|null|
+|**2024-09-11**|**Self-Masking Networks for Unsupervised Adaptation**|Alfonso Taboada Warmerdam et.al.|[2409.07577](http://arxiv.org/abs/2409.07577)|**[link](https://github.com/alvitawa/unsupervisedmasking)**|
 |**2024-09-11**|**StereoCrafter: Diffusion-based Generation of Long and High-fidelity Stereoscopic 3D from Monocular Videos**|Sijie Zhao et.al.|[2409.07447](http://arxiv.org/abs/2409.07447)|null|
 |**2024-09-11**|**Exploring User-level Gradient Inversion with a Diffusion Prior**|Zhuohang Li et.al.|[2409.07291](http://arxiv.org/abs/2409.07291)|null|
 |**2024-09-11**|**Native vs Non-Native Language Prompting: A Comparative Analysis**|Mohamed Bayan Kmainasi et.al.|[2409.07054](http://arxiv.org/abs/2409.07054)|null|
@@ -772,6 +783,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**Tidal MerzA: Combining affective modelling and autonomous code generation through Reinforcement Learning**|Elizabeth Wilson et.al.|[2409.07918](http://arxiv.org/abs/2409.07918)|null|
 |**2024-09-11**|**Demo: SGCode: A Flexible Prompt-Optimizing System for Secure Generation of Code**|Khiem Ton et.al.|[2409.07368](http://arxiv.org/abs/2409.07368)|null|
 |**2024-09-11**|**Reranking Laws for Language Generation: A Communication-Theoretic Perspective**|António Farinhas et.al.|[2409.07131](http://arxiv.org/abs/2409.07131)|null|
 |**2024-09-11**|**Policy Filtration in RLHF to Fine-Tune LLM for Code Generation**|Wei Shen et.al.|[2409.06957](http://arxiv.org/abs/2409.06957)|**[link](https://github.com/swtheing/pf-ppo-rlhf)**|
