@@ -450,6 +450,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Robust Bird's Eye View Segmentation by Adapting DINOv2**|Merve Rabia Barın et.al.|[2409.10228](http://arxiv.org/abs/2409.10228)|null|
+|**2024-09-16**|**Rapid Adaptation of Earth Observation Foundation Models for Segmentation**|Karthick Panner Selvam et.al.|[2409.09907](http://arxiv.org/abs/2409.09907)|null|
+|**2024-09-15**|**Estimating Wage Disparities Using Foundation Models**|Keyon Vafa et.al.|[2409.09894](http://arxiv.org/abs/2409.09894)|null|
+|**2024-09-15**|**PROSE-FD: A Multimodal PDE Foundation Model for Learning Multiple Operators for Forecasting Fluid Dynamics**|Yuxuan Liu et.al.|[2409.09811](http://arxiv.org/abs/2409.09811)|null|
+|**2024-09-15**|**MFCLIP: Multi-modal Fine-grained CLIP for Generalizable Diffusion Face Forgery Detection**|Yaning Zhang et.al.|[2409.09724](http://arxiv.org/abs/2409.09724)|null|
+|**2024-09-15**|**A Survey of Foundation Models for Music Understanding**|Wenjun Li et.al.|[2409.09601](http://arxiv.org/abs/2409.09601)|null|
+|**2024-09-14**|**COMFORT: A Continual Fine-Tuning Framework for Foundation Models Targeted at Consumer Healthcare**|Chia-Hao Li et.al.|[2409.09549](http://arxiv.org/abs/2409.09549)|null|
+|**2024-09-14**|**Enhancing Skin Disease Diagnosis: Interpretable Visual Concept Discovery with SAM Empowerment**|Xin Hu et.al.|[2409.09520](http://arxiv.org/abs/2409.09520)|null|
+|**2024-09-14**|**ESPnet-EZ: Python-only ESPnet for Easy Fine-tuning and Integration**|Masao Someki et.al.|[2409.09506](http://arxiv.org/abs/2409.09506)|null|
+|**2024-09-14**|**On the Generalizability of Foundation Models for Crop Type Mapping**|Yi-Chia Chang et.al.|[2409.09451](http://arxiv.org/abs/2409.09451)|null|
+|**2024-09-14**|**Detecting Looted Archaeological Sites from Satellite Image Time Series**|Elliot Vincent et.al.|[2409.09432](http://arxiv.org/abs/2409.09432)|null|
+|**2024-09-14**|**Evaluating Pre-trained Convolutional Neural Networks and Foundation Models as Feature Extractors for Content-based Medical Image Retrieval**|Amirreza Mahbod et.al.|[2409.09430](http://arxiv.org/abs/2409.09430)|null|
+|**2024-09-14**|**Prevailing Research Areas for Music AI in the Era of Foundation Models**|Megan Wei et.al.|[2409.09378](http://arxiv.org/abs/2409.09378)|null|
+|**2024-09-14**|**Interpretable Vision-Language Survival Analysis with Ordinal Inductive Bias for Computational Pathology**|Pei Liu et.al.|[2409.09369](http://arxiv.org/abs/2409.09369)|**[link](https://github.com/liupei101/vlsa)**|
+|**2024-09-14**|**Leveraging Foundation Models for Efficient Federated Learning in Resource-restricted Edge Networks**|S. Kawa Atapour et.al.|[2409.09273](http://arxiv.org/abs/2409.09273)|null|
 |**2024-09-13**|**Affective Computing Has Changed: The Foundation Model Disruption**|Björn Schuller et.al.|[2409.08907](http://arxiv.org/abs/2409.08907)|null|
 |**2024-09-13**|**Uncertainty and Generalizability in Foundation Models for Earth Observation**|Raul Ramos-Pollan et.al.|[2409.08744](http://arxiv.org/abs/2409.08744)|null|
 |**2024-09-12**|**Towards a graph-based foundation model for network traffic analysis**|Louis Van Langendonck et.al.|[2409.08111](http://arxiv.org/abs/2409.08111)|null|
@@ -752,10 +767,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**ComplexCodeEval: A Benchmark for Evaluating Large Code Models on More Complex Code**|Jia Feng et.al.|[2409.10280](http://arxiv.org/abs/2409.10280)|null|
+|**2024-09-16**|**Messy Code Makes Managing ML Pipelines Difficult? Just Let LLMs Rewrite the Code!**|Sebastian Schelter et.al.|[2409.10081](http://arxiv.org/abs/2409.10081)|null|
+|**2024-09-15**|**RethinkMCTS: Refining Erroneous Thoughts in Monte Carlo Tree Search for Code Generation**|Qingyao Li et.al.|[2409.09584](http://arxiv.org/abs/2409.09584)|null|
+|**2024-09-14**|**Python Symbolic Execution with LLM-powered Code Generation**|Wenhan Wang et.al.|[2409.09271](http://arxiv.org/abs/2409.09271)|null|
 |**2024-09-13**|**B4: Towards Optimal Assessment of Plausible Code Solutions with Plausible Tests**|Mouxiang Chen et.al.|[2409.08692](http://arxiv.org/abs/2409.08692)|**[link](https://github.com/zju-ctag/b4)**|
 |**2024-09-13**|**CPL: Critical Planning Step Learning Boosts LLM Generalization in Reasoning Tasks**|Tianlong Wang et.al.|[2409.08642](http://arxiv.org/abs/2409.08642)|null|
 |**2024-09-12**|**Tidal MerzA: Combining affective modelling and autonomous code generation through Reinforcement Learning**|Elizabeth Wilson et.al.|[2409.07918](http://arxiv.org/abs/2409.07918)|null|
-|**2024-09-11**|**Demo: SGCode: A Flexible Prompt-Optimizing System for Secure Generation of Code**|Khiem Ton et.al.|[2409.07368](http://arxiv.org/abs/2409.07368)|null|
+|**2024-09-16**|**Demo: SGCode: A Flexible Prompt-Optimizing System for Secure Generation of Code**|Khiem Ton et.al.|[2409.07368](http://arxiv.org/abs/2409.07368)|null|
 |**2024-09-11**|**Reranking Laws for Language Generation: A Communication-Theoretic Perspective**|António Farinhas et.al.|[2409.07131](http://arxiv.org/abs/2409.07131)|null|
 |**2024-09-11**|**Policy Filtration in RLHF to Fine-Tune LLM for Code Generation**|Wei Shen et.al.|[2409.06957](http://arxiv.org/abs/2409.06957)|**[link](https://github.com/swtheing/pf-ppo-rlhf)**|
 |**2024-09-10**|**Generating coupled cluster code for modern distributed memory tensor software**|Jan Brandejs et.al.|[2409.06759](http://arxiv.org/abs/2409.06759)|null|
