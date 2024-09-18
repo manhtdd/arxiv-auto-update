@@ -479,6 +479,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Learning Spatially-Aware Language and Audio Embedding**|Bhavika Devnani et.al.|[2409.11369](http://arxiv.org/abs/2409.11369)|null|
+|**2024-09-17**|**Beyond LoRA: Exploring Efficient Fine-Tuning Techniques for Time Series Foundational Models**|Divij Gupta et.al.|[2409.11302](http://arxiv.org/abs/2409.11302)|null|
+|**2024-09-17**|**Task Arithmetic for Language Expansion in Speech Translation**|Yao-Fei Cheng et.al.|[2409.11274](http://arxiv.org/abs/2409.11274)|null|
+|**2024-09-17**|**Vision foundation models: can they be applied to astrophysics data?**|E. Lastufka et.al.|[2409.11175](http://arxiv.org/abs/2409.11175)|null|
+|**2024-09-17**|**Down-Sampling Inter-Layer Adapter for Parameter and Computation Efficient Ultra-Fine-Grained Image Recognition**|Edwin Arkel Rios et.al.|[2409.11051](http://arxiv.org/abs/2409.11051)|**[link](https://github.com/arkel23/DownSamplingInterLayerAdapter)**|
+|**2024-09-17**|**Prompt Obfuscation for Large Language Models**|David Pape et.al.|[2409.11026](http://arxiv.org/abs/2409.11026)|null|
+|**2024-09-17**|**Implicit Reasoning in Deep Time Series Forecasting**|Willa Potosnak et.al.|[2409.10840](http://arxiv.org/abs/2409.10840)|null|
+|**2024-09-16**|**Exploring Prediction Targets in Masked Pre-Training for Speech Foundation Models**|Li-Wei Chen et.al.|[2409.10788](http://arxiv.org/abs/2409.10788)|null|
+|**2024-09-15**|**Veridical Data Science for Medical Foundation Models**|Ahmed Alaa et.al.|[2409.10580](http://arxiv.org/abs/2409.10580)|null|
 |**2024-09-16**|**Robust Bird's Eye View Segmentation by Adapting DINOv2**|Merve Rabia Barın et.al.|[2409.10228](http://arxiv.org/abs/2409.10228)|null|
 |**2024-09-16**|**Rapid Adaptation of Earth Observation Foundation Models for Segmentation**|Karthick Panner Selvam et.al.|[2409.09907](http://arxiv.org/abs/2409.09907)|null|
 |**2024-09-15**|**Estimating Wage Disparities Using Foundation Models**|Keyon Vafa et.al.|[2409.09894](http://arxiv.org/abs/2409.09894)|null|
@@ -772,6 +781,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Leveraging Reviewer Experience in Code Review Comment Generation**|Hong Yi Lin et.al.|[2409.10959](http://arxiv.org/abs/2409.10959)|null|
 |**2024-08-15**|**CRQBench: A Benchmark of Code Reasoning Questions**|Elizabeth Dinella et.al.|[2408.08453](http://arxiv.org/abs/2408.08453)|null|
 |**2024-08-15**|**Visual Integration of Static and Dynamic Software Analysis in Code Reviews via Software City Visualization**|Alexander Krause-Glau et.al.|[2408.08141](http://arxiv.org/abs/2408.08141)|null|
 |**2024-08-07**|**Evaluating Source Code Quality with Large Languagem Models: a comparative study**|Igor Regis da Silva Simões et.al.|[2408.07082](http://arxiv.org/abs/2408.07082)|**[link](https://github.com/igorregis/sonarvsllm)**|
@@ -800,6 +810,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Towards No-Code Programming of Cobots: Experiments with Code Synthesis by Large Code Models for Conversational Programming**|Kranti Chalamalasetti et.al.|[2409.11041](http://arxiv.org/abs/2409.11041)|null|
+|**2024-09-16**|**AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation through Static Analysis and Fuzz Testing**|Ana Nunez et.al.|[2409.10737](http://arxiv.org/abs/2409.10737)|null|
 |**2024-09-16**|**ComplexCodeEval: A Benchmark for Evaluating Large Code Models on More Complex Code**|Jia Feng et.al.|[2409.10280](http://arxiv.org/abs/2409.10280)|null|
 |**2024-09-16**|**Messy Code Makes Managing ML Pipelines Difficult? Just Let LLMs Rewrite the Code!**|Sebastian Schelter et.al.|[2409.10081](http://arxiv.org/abs/2409.10081)|null|
 |**2024-09-15**|**RethinkMCTS: Refining Erroneous Thoughts in Monte Carlo Tree Search for Code Generation**|Qingyao Li et.al.|[2409.09584](http://arxiv.org/abs/2409.09584)|null|
