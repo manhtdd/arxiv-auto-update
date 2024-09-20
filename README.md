@@ -1,4 +1,4 @@
-## Updated on 2024.09.19
+## Updated on 2024.09.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -161,7 +161,7 @@
 |**2022-07-22**|**Test-based Patch Clustering for Automatically-Generated Patches Assessment**|Matias Martinez et.al.|[2207.11082](http://arxiv.org/abs/2207.11082)|null|
 |**2022-07-21**|**BigIssue: A Realistic Bug Localization Benchmark**|Paul Kassianik et.al.|[2207.10739](http://arxiv.org/abs/2207.10739)|null|
 
-<p align=right>(<a href=#Updated-on-20240919>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240920>back to top</a>)</p>
 
 ## Automated Patch Correctness Assessment
 
@@ -188,7 +188,7 @@
 |**2020-03-31**|**RESTORE: Retrospective Fault Localization Enhancing Automated Program Repair**|Tongtong Xu et.al.|[1906.01778](http://arxiv.org/abs/1906.01778)|null|
 |**2020-09-28**|**A Comprehensive Study of Automatic Program Repair on the QuixBugs Benchmark**|He Ye et.al.|[1805.03454](http://arxiv.org/abs/1805.03454)|**[link](https://github.com/KTH/quixbugs-experiment)**|
 
-<p align=right>(<a href=#Updated-on-20240919>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240920>back to top</a>)</p>
 
 ## Code Naturalness
 
@@ -217,7 +217,7 @@
 |**2011-09-05**|**Quantized Compute and Forward: A Low-Complexity Architecture for Distributed Antenna Systems**|Song-Nam Hong et.al.|[1109.0800](http://arxiv.org/abs/1109.0800)|null|
 |**2007-07-29**|**Embedded Rank Distance Codes for ISI channels**|S. Dusad et.al.|[0707.4311](http://arxiv.org/abs/0707.4311)|null|
 
-<p align=right>(<a href=#Updated-on-20240919>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240920>back to top</a>)</p>
 
 ## Bug/Vulnerability Management
 
@@ -225,7 +225,7 @@
 |---|---|---|---|---|
 |**2024-09-12**|**A Mixed-Methods Study of Open-Source Software Maintainers On Vulnerability Management and Platform Security Features**|Jessy Ayala et.al.|[2409.07669](http://arxiv.org/abs/2409.07669)|null|
 |**2024-08-27**|**From Chaos to Consistency: The Role of CSAF in Streamlining Security Advisories**|Julia Wunder et.al.|[2408.14937](http://arxiv.org/abs/2408.14937)|null|
-|**2024-08-20**|**On NVD Users' Attitudes, Experiences, Hopes and Hurdles**|Julia Wunder et.al.|[2408.10695](http://arxiv.org/abs/2408.10695)|null|
+|**2024-09-19**|**On NVD Users' Attitudes, Experiences, Hopes and Hurdles**|Julia Wunder et.al.|[2408.10695](http://arxiv.org/abs/2408.10695)|null|
 |**2024-08-11**|**Using Retriever Augmented Large Language Models for Attack Graph Generation**|Renascence Tarafder Prapty et.al.|[2408.05855](http://arxiv.org/abs/2408.05855)|null|
 |**2024-06-09**|**A Relevance Model for Threat-Centric Ranking of Cybersecurity Vulnerabilities**|Corren McCoy et.al.|[2406.05933](http://arxiv.org/abs/2406.05933)|null|
 |**2024-05-22**|**CPE-Identifier: Automated CPE identification and CVE summaries annotation with Deep Learning and NLP**|Wanyu Hu et.al.|[2405.13568](http://arxiv.org/abs/2405.13568)|null|
@@ -262,7 +262,7 @@
 |**2017-05-15**|**Software Vulnerability Analysis Using CPE and CVE**|Luis Alberto Benthin Sanguino et.al.|[1705.05347](http://arxiv.org/abs/1705.05347)|null|
 |**2012-09-28**|**Vulnerability Management for an Enterprise Resource Planning System**|Shivani Goel et.al.|[1209.6484](http://arxiv.org/abs/1209.6484)|null|
 
-<p align=right>(<a href=#Updated-on-20240919>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240920>back to top</a>)</p>
 
 ## Regression Bugs/Bug Inducing Commit
 
@@ -282,7 +282,7 @@
 |**2021-01-21**|**TAOS-CI: Lightweight & Modular Continuous Integration System for Edge Computing**|Geunsik Lim et.al.|[2101.08889](http://arxiv.org/abs/2101.08889)|null|
 |**2015-05-06**|**Localization of real world regression Bugs using single execution**|Dekel Cohen et.al.|[1505.01286](http://arxiv.org/abs/1505.01286)|null|
 
-<p align=right>(<a href=#Updated-on-20240919>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240920>back to top</a>)</p>
 
 ## Defect Prediction
 
@@ -355,7 +355,7 @@
 |**2022-03-07**|**Online Adaptable Bug Localization for Rapidly Evolving Software**|Agnieszka Ciborowska et.al.|[2203.03544](http://arxiv.org/abs/2203.03544)|**[link](https://github.com/aciborowska/jingo)**|
 |**2022-04-30**|**ApacheJIT: A Large Dataset for Just-In-Time Defect Prediction**|Hossein Keshavarz et.al.|[2203.00101](http://arxiv.org/abs/2203.00101)|null|
 
-<p align=right>(<a href=#Updated-on-20240919>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240920>back to top</a>)</p>
 
 ## Bug Explanation
 
@@ -364,7 +364,7 @@
 |**2023-03-15**|**Defectors: A Large, Diverse Python Dataset for Defect Prediction**|Parvez Mahbub et.al.|[2303.04738](http://arxiv.org/abs/2303.04738)|null|
 |**2016-10-27**|**Learning Likely Invariants to Explain Why a Program Fails**|Jun Sun et.al.|[1610.08607](http://arxiv.org/abs/1610.08607)|null|
 
-<p align=right>(<a href=#Updated-on-20240919>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240920>back to top</a>)</p>
 
 ## Code Summarization
 
@@ -473,7 +473,7 @@
 |**2022-07-24**|**No More Fine-Tuning? An Experimental Evaluation of Prompt Tuning in Code Intelligence**|Chaozheng Wang et.al.|[2207.11680](http://arxiv.org/abs/2207.11680)|**[link](https://github.com/adf1178/pt4code)**|
 |**2022-10-16**|**Are We Building on the Rock? On the Importance of Data Preprocessing for Code Summarization**|Lin Shi et.al.|[2207.05579](http://arxiv.org/abs/2207.05579)|**[link](https://github.com/builtontherock/fse22_builtontherock)**|
 
-<p align=right>(<a href=#Updated-on-20240919>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240920>back to top</a>)</p>
 
 ## Testing and Bug reporting
 
@@ -483,8 +483,8 @@
 |**2024-09-18**|**ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation**|Peiyu Li et.al.|[2409.12010](http://arxiv.org/abs/2409.12010)|**[link](https://github.com/peiyu-georgia-li/cheffusion-multimodal-foundation-model-integrating-recipe-and-food-image-generation)**|
 |**2024-09-18**|**LLM-wrapper: Black-Box Semantic-Aware Adaptation of Vision-Language Foundation Models**|Amaia Cardiel et.al.|[2409.11919](http://arxiv.org/abs/2409.11919)|null|
 |**2024-09-18**|**Knowledge Adaptation Network for Few-Shot Class-Incremental Learning**|Ye Wang et.al.|[2409.11770](http://arxiv.org/abs/2409.11770)|null|
-|**2024-09-18**|**Cross-Organ and Cross-Scanner Adenocarcinoma Segmentation using Rein to Fine-tune Vision Foundation Models**|Pengzhou Cai et.al.|[2409.11752](http://arxiv.org/abs/2409.11752)|null|
-|**2024-09-18**|**Human-like Affective Cognition in Foundation Models**|Kanishk Gandhi et.al.|[2409.11733](http://arxiv.org/abs/2409.11733)|null|
+|**2024-09-19**|**Cross-Organ and Cross-Scanner Adenocarcinoma Segmentation using Rein to Fine-tune Vision Foundation Models**|Pengzhou Cai et.al.|[2409.11752](http://arxiv.org/abs/2409.11752)|null|
+|**2024-09-19**|**Human-like Affective Cognition in Foundation Models**|Kanishk Gandhi et.al.|[2409.11733](http://arxiv.org/abs/2409.11733)|null|
 |**2024-09-18**|**Free-VSC: Free Semantics from Visual Foundation Models for Unsupervised Video Semantic Compression**|Yuan Tian et.al.|[2409.11718](http://arxiv.org/abs/2409.11718)|null|
 |**2024-09-18**|**From Words to Wheels: Automated Style-Customized Policy Generation for Autonomous Driving**|Xu Han et.al.|[2409.11694](http://arxiv.org/abs/2409.11694)|null|
 |**2024-09-17**|**Time-Series Forecasting, Knowledge Distillation, and Refinement within a Multimodal PDE Foundation Model**|Derek Jollie et.al.|[2409.11609](http://arxiv.org/abs/2409.11609)|**[link](https://github.com/jingminsun/prose_v1)**|
@@ -493,7 +493,7 @@
 |**2024-09-17**|**Learning Spatially-Aware Language and Audio Embedding**|Bhavika Devnani et.al.|[2409.11369](http://arxiv.org/abs/2409.11369)|null|
 |**2024-09-17**|**Beyond LoRA: Exploring Efficient Fine-Tuning Techniques for Time Series Foundational Models**|Divij Gupta et.al.|[2409.11302](http://arxiv.org/abs/2409.11302)|null|
 |**2024-09-17**|**Task Arithmetic for Language Expansion in Speech Translation**|Yao-Fei Cheng et.al.|[2409.11274](http://arxiv.org/abs/2409.11274)|null|
-|**2024-09-17**|**Vision foundation models: can they be applied to astrophysics data?**|E. Lastufka et.al.|[2409.11175](http://arxiv.org/abs/2409.11175)|null|
+|**2024-09-19**|**Vision foundation models: can they be applied to astrophysics data?**|E. Lastufka et.al.|[2409.11175](http://arxiv.org/abs/2409.11175)|null|
 |**2024-09-17**|**Down-Sampling Inter-Layer Adapter for Parameter and Computation Efficient Ultra-Fine-Grained Image Recognition**|Edwin Arkel Rios et.al.|[2409.11051](http://arxiv.org/abs/2409.11051)|**[link](https://github.com/arkel23/DownSamplingInterLayerAdapter)**|
 |**2024-09-17**|**Prompt Obfuscation for Large Language Models**|David Pape et.al.|[2409.11026](http://arxiv.org/abs/2409.11026)|null|
 |**2024-09-17**|**Implicit Reasoning in Deep Time Series Forecasting**|Willa Potosnak et.al.|[2409.10840](http://arxiv.org/abs/2409.10840)|null|
@@ -786,7 +786,7 @@
 |**2024-07-29**|**Theia: Distilling Diverse Vision Foundation Models for Robot Learning**|Jinghuan Shang et.al.|[2407.20179](http://arxiv.org/abs/2407.20179)|**[link](https://github.com/bdaiinstitute/theia)**|
 |**2024-07-29**|**MaskInversion: Localized Embeddings via Optimization of Explainability Maps**|Walid Bousselham et.al.|[2407.20034](http://arxiv.org/abs/2407.20034)|null|
 
-<p align=right>(<a href=#Updated-on-20240919>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240920>back to top</a>)</p>
 
 ## Code Review
 
@@ -815,7 +815,7 @@
 |**2024-05-29**|**AlchemistCoder: Harmonizing and Eliciting Code Capability by Hindsight Tuning on Multi-source Data**|Zifan Song et.al.|[2405.19265](http://arxiv.org/abs/2405.19265)|**[link](https://github.com/internlm/alchemistcoder)**|
 |**2024-05-28**|**A Survey on Modern Code Review: Progresses, Challenges and Opportunities**|Zezhou Yang et.al.|[2405.18216](http://arxiv.org/abs/2405.18216)|**[link](https://github.com/watreyoung/MCR-Survey)**|
 
-<p align=right>(<a href=#Updated-on-20240919>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240920>back to top</a>)</p>
 
 ## Code Generation
 
@@ -945,5 +945,5 @@
 |**2024-07-23**|**OriGen:Enhancing RTL Code Generation with Code-to-Code Augmentation and Self-Reflection**|Fan Cui et.al.|[2407.16237](http://arxiv.org/abs/2407.16237)|null|
 |**2024-07-22**|**Empowering Agile-Based Generative Software Development through Human-AI Teamwork**|Sai Zhang et.al.|[2407.15568](http://arxiv.org/abs/2407.15568)|**[link](https://github.com/HarrisClover/AgileGen)**|
 
-<p align=right>(<a href=#Updated-on-20240919>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240920>back to top</a>)</p>
 

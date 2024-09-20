@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.19
+## Updated on 2024.09.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -206,7 +206,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-12**|**A Mixed-Methods Study of Open-Source Software Maintainers On Vulnerability Management and Platform Security Features**|Jessy Ayala et.al.|[2409.07669](http://arxiv.org/abs/2409.07669)|null|
 |**2024-08-27**|**From Chaos to Consistency: The Role of CSAF in Streamlining Security Advisories**|Julia Wunder et.al.|[2408.14937](http://arxiv.org/abs/2408.14937)|null|
-|**2024-08-20**|**On NVD Users' Attitudes, Experiences, Hopes and Hurdles**|Julia Wunder et.al.|[2408.10695](http://arxiv.org/abs/2408.10695)|null|
+|**2024-09-19**|**On NVD Users' Attitudes, Experiences, Hopes and Hurdles**|Julia Wunder et.al.|[2408.10695](http://arxiv.org/abs/2408.10695)|null|
 |**2024-08-11**|**Using Retriever Augmented Large Language Models for Attack Graph Generation**|Renascence Tarafder Prapty et.al.|[2408.05855](http://arxiv.org/abs/2408.05855)|null|
 |**2024-06-09**|**A Relevance Model for Threat-Centric Ranking of Cybersecurity Vulnerabilities**|Corren McCoy et.al.|[2406.05933](http://arxiv.org/abs/2406.05933)|null|
 |**2024-05-22**|**CPE-Identifier: Automated CPE identification and CVE summaries annotation with Deep Learning and NLP**|Wanyu Hu et.al.|[2405.13568](http://arxiv.org/abs/2405.13568)|null|
@@ -454,8 +454,8 @@ layout: default
 |**2024-09-18**|**ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation**|Peiyu Li et.al.|[2409.12010](http://arxiv.org/abs/2409.12010)|**[link](https://github.com/peiyu-georgia-li/cheffusion-multimodal-foundation-model-integrating-recipe-and-food-image-generation)**|
 |**2024-09-18**|**LLM-wrapper: Black-Box Semantic-Aware Adaptation of Vision-Language Foundation Models**|Amaia Cardiel et.al.|[2409.11919](http://arxiv.org/abs/2409.11919)|null|
 |**2024-09-18**|**Knowledge Adaptation Network for Few-Shot Class-Incremental Learning**|Ye Wang et.al.|[2409.11770](http://arxiv.org/abs/2409.11770)|null|
-|**2024-09-18**|**Cross-Organ and Cross-Scanner Adenocarcinoma Segmentation using Rein to Fine-tune Vision Foundation Models**|Pengzhou Cai et.al.|[2409.11752](http://arxiv.org/abs/2409.11752)|null|
-|**2024-09-18**|**Human-like Affective Cognition in Foundation Models**|Kanishk Gandhi et.al.|[2409.11733](http://arxiv.org/abs/2409.11733)|null|
+|**2024-09-19**|**Cross-Organ and Cross-Scanner Adenocarcinoma Segmentation using Rein to Fine-tune Vision Foundation Models**|Pengzhou Cai et.al.|[2409.11752](http://arxiv.org/abs/2409.11752)|null|
+|**2024-09-19**|**Human-like Affective Cognition in Foundation Models**|Kanishk Gandhi et.al.|[2409.11733](http://arxiv.org/abs/2409.11733)|null|
 |**2024-09-18**|**Free-VSC: Free Semantics from Visual Foundation Models for Unsupervised Video Semantic Compression**|Yuan Tian et.al.|[2409.11718](http://arxiv.org/abs/2409.11718)|null|
 |**2024-09-18**|**From Words to Wheels: Automated Style-Customized Policy Generation for Autonomous Driving**|Xu Han et.al.|[2409.11694](http://arxiv.org/abs/2409.11694)|null|
 |**2024-09-17**|**Time-Series Forecasting, Knowledge Distillation, and Refinement within a Multimodal PDE Foundation Model**|Derek Jollie et.al.|[2409.11609](http://arxiv.org/abs/2409.11609)|**[link](https://github.com/jingminsun/prose_v1)**|
@@ -464,7 +464,7 @@ layout: default
 |**2024-09-17**|**Learning Spatially-Aware Language and Audio Embedding**|Bhavika Devnani et.al.|[2409.11369](http://arxiv.org/abs/2409.11369)|null|
 |**2024-09-17**|**Beyond LoRA: Exploring Efficient Fine-Tuning Techniques for Time Series Foundational Models**|Divij Gupta et.al.|[2409.11302](http://arxiv.org/abs/2409.11302)|null|
 |**2024-09-17**|**Task Arithmetic for Language Expansion in Speech Translation**|Yao-Fei Cheng et.al.|[2409.11274](http://arxiv.org/abs/2409.11274)|null|
-|**2024-09-17**|**Vision foundation models: can they be applied to astrophysics data?**|E. Lastufka et.al.|[2409.11175](http://arxiv.org/abs/2409.11175)|null|
+|**2024-09-19**|**Vision foundation models: can they be applied to astrophysics data?**|E. Lastufka et.al.|[2409.11175](http://arxiv.org/abs/2409.11175)|null|
 |**2024-09-17**|**Down-Sampling Inter-Layer Adapter for Parameter and Computation Efficient Ultra-Fine-Grained Image Recognition**|Edwin Arkel Rios et.al.|[2409.11051](http://arxiv.org/abs/2409.11051)|**[link](https://github.com/arkel23/DownSamplingInterLayerAdapter)**|
 |**2024-09-17**|**Prompt Obfuscation for Large Language Models**|David Pape et.al.|[2409.11026](http://arxiv.org/abs/2409.11026)|null|
 |**2024-09-17**|**Implicit Reasoning in Deep Time Series Forecasting**|Willa Potosnak et.al.|[2409.10840](http://arxiv.org/abs/2409.10840)|null|
