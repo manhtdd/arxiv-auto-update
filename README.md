@@ -1,4 +1,4 @@
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -161,7 +161,7 @@
 |**2022-07-22**|**Test-based Patch Clustering for Automatically-Generated Patches Assessment**|Matias Martinez et.al.|[2207.11082](http://arxiv.org/abs/2207.11082)|null|
 |**2022-07-21**|**BigIssue: A Realistic Bug Localization Benchmark**|Paul Kassianik et.al.|[2207.10739](http://arxiv.org/abs/2207.10739)|null|
 
-<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240926>back to top</a>)</p>
 
 ## Automated Patch Correctness Assessment
 
@@ -188,7 +188,7 @@
 |**2020-03-31**|**RESTORE: Retrospective Fault Localization Enhancing Automated Program Repair**|Tongtong Xu et.al.|[1906.01778](http://arxiv.org/abs/1906.01778)|null|
 |**2020-09-28**|**A Comprehensive Study of Automatic Program Repair on the QuixBugs Benchmark**|He Ye et.al.|[1805.03454](http://arxiv.org/abs/1805.03454)|**[link](https://github.com/KTH/quixbugs-experiment)**|
 
-<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240926>back to top</a>)</p>
 
 ## Code Naturalness
 
@@ -217,7 +217,7 @@
 |**2011-09-05**|**Quantized Compute and Forward: A Low-Complexity Architecture for Distributed Antenna Systems**|Song-Nam Hong et.al.|[1109.0800](http://arxiv.org/abs/1109.0800)|null|
 |**2007-07-29**|**Embedded Rank Distance Codes for ISI channels**|S. Dusad et.al.|[0707.4311](http://arxiv.org/abs/0707.4311)|null|
 
-<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240926>back to top</a>)</p>
 
 ## Bug/Vulnerability Management
 
@@ -262,7 +262,7 @@
 |**2017-05-15**|**Software Vulnerability Analysis Using CPE and CVE**|Luis Alberto Benthin Sanguino et.al.|[1705.05347](http://arxiv.org/abs/1705.05347)|null|
 |**2012-09-28**|**Vulnerability Management for an Enterprise Resource Planning System**|Shivani Goel et.al.|[1209.6484](http://arxiv.org/abs/1209.6484)|null|
 
-<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240926>back to top</a>)</p>
 
 ## Regression Bugs/Bug Inducing Commit
 
@@ -282,7 +282,7 @@
 |**2021-01-21**|**TAOS-CI: Lightweight & Modular Continuous Integration System for Edge Computing**|Geunsik Lim et.al.|[2101.08889](http://arxiv.org/abs/2101.08889)|null|
 |**2015-05-06**|**Localization of real world regression Bugs using single execution**|Dekel Cohen et.al.|[1505.01286](http://arxiv.org/abs/1505.01286)|null|
 
-<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240926>back to top</a>)</p>
 
 ## Defect Prediction
 
@@ -355,7 +355,7 @@
 |**2022-03-07**|**Online Adaptable Bug Localization for Rapidly Evolving Software**|Agnieszka Ciborowska et.al.|[2203.03544](http://arxiv.org/abs/2203.03544)|**[link](https://github.com/aciborowska/jingo)**|
 |**2022-04-30**|**ApacheJIT: A Large Dataset for Just-In-Time Defect Prediction**|Hossein Keshavarz et.al.|[2203.00101](http://arxiv.org/abs/2203.00101)|null|
 
-<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240926>back to top</a>)</p>
 
 ## Bug Explanation
 
@@ -364,7 +364,7 @@
 |**2023-03-15**|**Defectors: A Large, Diverse Python Dataset for Defect Prediction**|Parvez Mahbub et.al.|[2303.04738](http://arxiv.org/abs/2303.04738)|null|
 |**2016-10-27**|**Learning Likely Invariants to Explain Why a Program Fails**|Jun Sun et.al.|[1610.08607](http://arxiv.org/abs/1610.08607)|null|
 
-<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240926>back to top</a>)</p>
 
 ## Code Summarization
 
@@ -473,12 +473,27 @@
 |**2022-07-24**|**No More Fine-Tuning? An Experimental Evaluation of Prompt Tuning in Code Intelligence**|Chaozheng Wang et.al.|[2207.11680](http://arxiv.org/abs/2207.11680)|**[link](https://github.com/adf1178/pt4code)**|
 |**2022-10-16**|**Are We Building on the Rock? On the Importance of Data Preprocessing for Code Summarization**|Lin Shi et.al.|[2207.05579](http://arxiv.org/abs/2207.05579)|**[link](https://github.com/builtontherock/fse22_builtontherock)**|
 
-<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240926>back to top</a>)</p>
 
 ## Testing and Bug reporting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**Fine-Tuning is Fine, if Calibrated**|Zheda Mai et.al.|[2409.16223](http://arxiv.org/abs/2409.16223)|null|
+|**2024-09-24**|**Expert-level vision-language foundation model for real-world radiology and comprehensive evaluation**|Xiaohong Liu et.al.|[2409.16183](http://arxiv.org/abs/2409.16183)|null|
+|**2024-09-24**|**SDFit: 3D Object Pose and Shape by Fitting a Morphable SDF to a Single Image**|Dimitrije Antić et.al.|[2409.16178](http://arxiv.org/abs/2409.16178)|null|
+|**2024-09-24**|**Evaluation of state-of-the-art ASR Models in Child-Adult Interactions**|Aditya Ashvin et.al.|[2409.16135](http://arxiv.org/abs/2409.16135)|null|
+|**2024-09-25**|**Generative Speech Foundation Model Pretraining for High-Quality Speech Extraction and Restoration**|Pin-Jui Ku et.al.|[2409.16117](http://arxiv.org/abs/2409.16117)|null|
+|**2024-09-24**|**Open-World Object Detection with Instance Representation Learning**|Sunoh Lee et.al.|[2409.16073](http://arxiv.org/abs/2409.16073)|null|
+|**2024-09-24**|**Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts**|Xiaoming Shi et.al.|[2409.16040](http://arxiv.org/abs/2409.16040)|**[link](https://github.com/time-moe/time-moe)**|
+|**2024-09-24**|**RTAGrasp: Learning Task-Oriented Grasping from Human Videos via Retrieval, Transfer, and Alignment**|Wenlong Dong et.al.|[2409.16033](http://arxiv.org/abs/2409.16033)|null|
+|**2024-09-24**|**Artificial Human Intelligence: The role of Humans in the Development of Next Generation AI**|Suayb S. Arslan et.al.|[2409.16001](http://arxiv.org/abs/2409.16001)|null|
+|**2024-09-24**|**Mind the Prompt: A Novel Benchmark for Prompt-based Class-Agnostic Counting**|Luca Ciampi et.al.|[2409.15953](http://arxiv.org/abs/2409.15953)|null|
+|**2024-09-24**|**CAD: Memory Efficient Convolutional Adapter for Segment Anything**|Joohyeok Kim et.al.|[2409.15889](http://arxiv.org/abs/2409.15889)|**[link](https://github.com/kyyle2114/convolutional-adapter-for-segment-anything)**|
+|**2024-09-24**|**Towards Universal Large-Scale Foundational Model for Natural Gas Demand Forecasting**|Xinxing Zhou et.al.|[2409.15794](http://arxiv.org/abs/2409.15794)|null|
+|**2024-09-24**|**AnyCar to Anywhere: Learning Universal Dynamics Model for Agile and Adaptive Mobility**|Wenli Xiao et.al.|[2409.15783](http://arxiv.org/abs/2409.15783)|null|
+|**2024-09-24**|**Zero-shot forecasting of chaotic systems**|Yuanzhao Zhang et.al.|[2409.15771](http://arxiv.org/abs/2409.15771)|**[link](https://github.com/williamgilpin/dysts)**|
+|**2024-09-24**|**Representation Loss Minimization with Randomized Selection Strategy for Efficient Environmental Fake Audio Detection**|Orchid Chetia Phukan et.al.|[2409.15767](http://arxiv.org/abs/2409.15767)|null|
 |**2024-09-18**|**All-in-one foundational models learning across quantum chemical levels**|Yuxinxin Chen et.al.|[2409.12015](http://arxiv.org/abs/2409.12015)|**[link](https://github.com/dralgroup/aio-ani)**|
 |**2024-09-18**|**ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation**|Peiyu Li et.al.|[2409.12010](http://arxiv.org/abs/2409.12010)|**[link](https://github.com/peiyu-georgia-li/cheffusion-multimodal-foundation-model-integrating-recipe-and-food-image-generation)**|
 |**2024-09-18**|**LLM-wrapper: Black-Box Semantic-Aware Adaptation of Vision-Language Foundation Models**|Amaia Cardiel et.al.|[2409.11919](http://arxiv.org/abs/2409.11919)|null|
@@ -786,12 +801,14 @@
 |**2024-07-29**|**Theia: Distilling Diverse Vision Foundation Models for Robot Learning**|Jinghuan Shang et.al.|[2407.20179](http://arxiv.org/abs/2407.20179)|**[link](https://github.com/bdaiinstitute/theia)**|
 |**2024-07-29**|**MaskInversion: Localized Embeddings via Optimization of Explainability Maps**|Walid Bousselham et.al.|[2407.20034](http://arxiv.org/abs/2407.20034)|null|
 
-<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240926>back to top</a>)</p>
 
 ## Code Review
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-23**|**Predicting Expert Evaluations in Software Code Reviews**|Yegor Denisov-Blanch et.al.|[2409.15152](http://arxiv.org/abs/2409.15152)|null|
+|**2024-09-20**|**Toward Interactive Optimization of Source Code Differences: An Empirical Study of Its Performance**|Tsukasa Yagi et.al.|[2409.13590](http://arxiv.org/abs/2409.13590)|null|
 |**2024-09-17**|**Leveraging Reviewer Experience in Code Review Comment Generation**|Hong Yi Lin et.al.|[2409.10959](http://arxiv.org/abs/2409.10959)|null|
 |**2024-08-15**|**CRQBench: A Benchmark of Code Reasoning Questions**|Elizabeth Dinella et.al.|[2408.08453](http://arxiv.org/abs/2408.08453)|null|
 |**2024-08-15**|**Visual Integration of Static and Dynamic Software Analysis in Code Reviews via Software City Visualization**|Alexander Krause-Glau et.al.|[2408.08141](http://arxiv.org/abs/2408.08141)|null|
@@ -815,12 +832,25 @@
 |**2024-05-29**|**AlchemistCoder: Harmonizing and Eliciting Code Capability by Hindsight Tuning on Multi-source Data**|Zifan Song et.al.|[2405.19265](http://arxiv.org/abs/2405.19265)|**[link](https://github.com/internlm/alchemistcoder)**|
 |**2024-05-28**|**A Survey on Modern Code Review: Progresses, Challenges and Opportunities**|Zezhou Yang et.al.|[2405.18216](http://arxiv.org/abs/2405.18216)|**[link](https://github.com/watreyoung/MCR-Survey)**|
 
-<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240926>back to top</a>)</p>
 
 ## Code Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**MOSS: Enabling Code-Driven Evolution and Context Management for AI Agents**|Ming Zhu et.al.|[2409.16120](http://arxiv.org/abs/2409.16120)|**[link](https://github.com/ghost-in-moss/ghostos)**|
+|**2024-09-24**|**Preference-Guided Refactored Tuning for Retrieval Augmented Code Generation**|Xinyu Gao et.al.|[2409.15895](http://arxiv.org/abs/2409.15895)|null|
+|**2024-09-18**|**Multitask Mayhem: Unveiling and Mitigating Safety Gaps in LLMs Fine-tuning**|Essa Jan et.al.|[2409.15361](http://arxiv.org/abs/2409.15361)|null|
+|**2024-09-24**|**A Comprehensive Framework for Evaluating API-oriented Code Generation in Large Language Models**|Yixi Wu et.al.|[2409.15228](http://arxiv.org/abs/2409.15228)|null|
+|**2024-09-23**|**RAMBO: Enhancing RAG-based Repository-Level Method Body Completion**|Tuan-Dung Bui et.al.|[2409.15204](http://arxiv.org/abs/2409.15204)|null|
+|**2024-09-23**|**RMCBench: Benchmarking Large Language Models' Resistance to Malicious Code**|Jiachi Chen et.al.|[2409.15154](http://arxiv.org/abs/2409.15154)|**[link](https://github.com/qing-yuan233/RMCBench)**|
+|**2024-09-20**|**Eliciting Instruction-tuned Code Language Models' Capabilities to Utilize Auxiliary Function for Code Generation**|Seonghyeon Lee et.al.|[2409.13928](http://arxiv.org/abs/2409.13928)|null|
+|**2024-09-20**|**Unlocking Memorization in Large Language Models with Dynamic Soft Prompting**|Zhepeng Wang et.al.|[2409.13853](http://arxiv.org/abs/2409.13853)|null|
+|**2024-09-20**|**Contextualized Data-Wrangling Code Generation in Computational Notebooks**|Junjie Huang et.al.|[2409.13551](http://arxiv.org/abs/2409.13551)|null|
+|**2024-09-19**|**AutoVerus: Automated Proof Generation for Rust Code**|Chenyuan Yang et.al.|[2409.13082](http://arxiv.org/abs/2409.13082)|null|
+|**2024-09-19**|**CraftRTL: High-quality Synthetic Data Generation for Verilog Code Models with Correct-by-Construction Non-Textual Representations and Targeted Code Repair**|Mingjie Liu et.al.|[2409.12993](http://arxiv.org/abs/2409.12993)|null|
+|**2024-09-19**|**SpecEval: Evaluating Code Comprehension in Large Language Models via Program Specifications**|Lezhi Ma et.al.|[2409.12866](http://arxiv.org/abs/2409.12866)|null|
+|**2024-09-19**|**PromSec: Prompt Optimization for Secure Generation of Functional Source Code with Large Language Models (LLMs)**|Mahmoud Nazzal et.al.|[2409.12699](http://arxiv.org/abs/2409.12699)|null|
 |**2024-09-18**|**Qwen2.5-Coder Technical Report**|Binyuan Hui et.al.|[2409.12186](http://arxiv.org/abs/2409.12186)|**[link](https://github.com/qwenlm/qwen2.5-coder)**|
 |**2024-09-11**|**Semantic Interoperability on Blockchain by Generating Smart Contracts Based on Knowledge Graphs**|William Van Woensel et.al.|[2409.12171](http://arxiv.org/abs/2409.12171)|null|
 |**2024-09-18**|**Promise and Peril of Collaborative Code Generation Models: Balancing Effectiveness and Memorization**|Zhi Chen et.al.|[2409.12020](http://arxiv.org/abs/2409.12020)|null|
@@ -945,5 +975,5 @@
 |**2024-07-23**|**OriGen:Enhancing RTL Code Generation with Code-to-Code Augmentation and Self-Reflection**|Fan Cui et.al.|[2407.16237](http://arxiv.org/abs/2407.16237)|null|
 |**2024-07-22**|**Empowering Agile-Based Generative Software Development through Human-AI Teamwork**|Sai Zhang et.al.|[2407.15568](http://arxiv.org/abs/2407.15568)|**[link](https://github.com/HarrisClover/AgileGen)**|
 
-<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240926>back to top</a>)</p>
 

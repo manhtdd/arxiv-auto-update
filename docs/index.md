@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -450,6 +450,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**Fine-Tuning is Fine, if Calibrated**|Zheda Mai et.al.|[2409.16223](http://arxiv.org/abs/2409.16223)|null|
+|**2024-09-24**|**Expert-level vision-language foundation model for real-world radiology and comprehensive evaluation**|Xiaohong Liu et.al.|[2409.16183](http://arxiv.org/abs/2409.16183)|null|
+|**2024-09-24**|**SDFit: 3D Object Pose and Shape by Fitting a Morphable SDF to a Single Image**|Dimitrije Antić et.al.|[2409.16178](http://arxiv.org/abs/2409.16178)|null|
+|**2024-09-24**|**Evaluation of state-of-the-art ASR Models in Child-Adult Interactions**|Aditya Ashvin et.al.|[2409.16135](http://arxiv.org/abs/2409.16135)|null|
+|**2024-09-25**|**Generative Speech Foundation Model Pretraining for High-Quality Speech Extraction and Restoration**|Pin-Jui Ku et.al.|[2409.16117](http://arxiv.org/abs/2409.16117)|null|
+|**2024-09-24**|**Open-World Object Detection with Instance Representation Learning**|Sunoh Lee et.al.|[2409.16073](http://arxiv.org/abs/2409.16073)|null|
+|**2024-09-24**|**Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts**|Xiaoming Shi et.al.|[2409.16040](http://arxiv.org/abs/2409.16040)|**[link](https://github.com/time-moe/time-moe)**|
+|**2024-09-24**|**RTAGrasp: Learning Task-Oriented Grasping from Human Videos via Retrieval, Transfer, and Alignment**|Wenlong Dong et.al.|[2409.16033](http://arxiv.org/abs/2409.16033)|null|
+|**2024-09-24**|**Artificial Human Intelligence: The role of Humans in the Development of Next Generation AI**|Suayb S. Arslan et.al.|[2409.16001](http://arxiv.org/abs/2409.16001)|null|
+|**2024-09-24**|**Mind the Prompt: A Novel Benchmark for Prompt-based Class-Agnostic Counting**|Luca Ciampi et.al.|[2409.15953](http://arxiv.org/abs/2409.15953)|null|
+|**2024-09-24**|**CAD: Memory Efficient Convolutional Adapter for Segment Anything**|Joohyeok Kim et.al.|[2409.15889](http://arxiv.org/abs/2409.15889)|**[link](https://github.com/kyyle2114/convolutional-adapter-for-segment-anything)**|
+|**2024-09-24**|**Towards Universal Large-Scale Foundational Model for Natural Gas Demand Forecasting**|Xinxing Zhou et.al.|[2409.15794](http://arxiv.org/abs/2409.15794)|null|
+|**2024-09-24**|**AnyCar to Anywhere: Learning Universal Dynamics Model for Agile and Adaptive Mobility**|Wenli Xiao et.al.|[2409.15783](http://arxiv.org/abs/2409.15783)|null|
+|**2024-09-24**|**Zero-shot forecasting of chaotic systems**|Yuanzhao Zhang et.al.|[2409.15771](http://arxiv.org/abs/2409.15771)|**[link](https://github.com/williamgilpin/dysts)**|
+|**2024-09-24**|**Representation Loss Minimization with Randomized Selection Strategy for Efficient Environmental Fake Audio Detection**|Orchid Chetia Phukan et.al.|[2409.15767](http://arxiv.org/abs/2409.15767)|null|
 |**2024-09-18**|**All-in-one foundational models learning across quantum chemical levels**|Yuxinxin Chen et.al.|[2409.12015](http://arxiv.org/abs/2409.12015)|**[link](https://github.com/dralgroup/aio-ani)**|
 |**2024-09-18**|**ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation**|Peiyu Li et.al.|[2409.12010](http://arxiv.org/abs/2409.12010)|**[link](https://github.com/peiyu-georgia-li/cheffusion-multimodal-foundation-model-integrating-recipe-and-food-image-generation)**|
 |**2024-09-18**|**LLM-wrapper: Black-Box Semantic-Aware Adaptation of Vision-Language Foundation Models**|Amaia Cardiel et.al.|[2409.11919](http://arxiv.org/abs/2409.11919)|null|
@@ -761,6 +776,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-23**|**Predicting Expert Evaluations in Software Code Reviews**|Yegor Denisov-Blanch et.al.|[2409.15152](http://arxiv.org/abs/2409.15152)|null|
+|**2024-09-20**|**Toward Interactive Optimization of Source Code Differences: An Empirical Study of Its Performance**|Tsukasa Yagi et.al.|[2409.13590](http://arxiv.org/abs/2409.13590)|null|
 |**2024-09-17**|**Leveraging Reviewer Experience in Code Review Comment Generation**|Hong Yi Lin et.al.|[2409.10959](http://arxiv.org/abs/2409.10959)|null|
 |**2024-08-15**|**CRQBench: A Benchmark of Code Reasoning Questions**|Elizabeth Dinella et.al.|[2408.08453](http://arxiv.org/abs/2408.08453)|null|
 |**2024-08-15**|**Visual Integration of Static and Dynamic Software Analysis in Code Reviews via Software City Visualization**|Alexander Krause-Glau et.al.|[2408.08141](http://arxiv.org/abs/2408.08141)|null|
@@ -788,6 +805,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**MOSS: Enabling Code-Driven Evolution and Context Management for AI Agents**|Ming Zhu et.al.|[2409.16120](http://arxiv.org/abs/2409.16120)|**[link](https://github.com/ghost-in-moss/ghostos)**|
+|**2024-09-24**|**Preference-Guided Refactored Tuning for Retrieval Augmented Code Generation**|Xinyu Gao et.al.|[2409.15895](http://arxiv.org/abs/2409.15895)|null|
+|**2024-09-18**|**Multitask Mayhem: Unveiling and Mitigating Safety Gaps in LLMs Fine-tuning**|Essa Jan et.al.|[2409.15361](http://arxiv.org/abs/2409.15361)|null|
+|**2024-09-24**|**A Comprehensive Framework for Evaluating API-oriented Code Generation in Large Language Models**|Yixi Wu et.al.|[2409.15228](http://arxiv.org/abs/2409.15228)|null|
+|**2024-09-23**|**RAMBO: Enhancing RAG-based Repository-Level Method Body Completion**|Tuan-Dung Bui et.al.|[2409.15204](http://arxiv.org/abs/2409.15204)|null|
+|**2024-09-23**|**RMCBench: Benchmarking Large Language Models' Resistance to Malicious Code**|Jiachi Chen et.al.|[2409.15154](http://arxiv.org/abs/2409.15154)|**[link](https://github.com/qing-yuan233/RMCBench)**|
+|**2024-09-20**|**Eliciting Instruction-tuned Code Language Models' Capabilities to Utilize Auxiliary Function for Code Generation**|Seonghyeon Lee et.al.|[2409.13928](http://arxiv.org/abs/2409.13928)|null|
+|**2024-09-20**|**Unlocking Memorization in Large Language Models with Dynamic Soft Prompting**|Zhepeng Wang et.al.|[2409.13853](http://arxiv.org/abs/2409.13853)|null|
+|**2024-09-20**|**Contextualized Data-Wrangling Code Generation in Computational Notebooks**|Junjie Huang et.al.|[2409.13551](http://arxiv.org/abs/2409.13551)|null|
+|**2024-09-19**|**AutoVerus: Automated Proof Generation for Rust Code**|Chenyuan Yang et.al.|[2409.13082](http://arxiv.org/abs/2409.13082)|null|
+|**2024-09-19**|**CraftRTL: High-quality Synthetic Data Generation for Verilog Code Models with Correct-by-Construction Non-Textual Representations and Targeted Code Repair**|Mingjie Liu et.al.|[2409.12993](http://arxiv.org/abs/2409.12993)|null|
+|**2024-09-19**|**SpecEval: Evaluating Code Comprehension in Large Language Models via Program Specifications**|Lezhi Ma et.al.|[2409.12866](http://arxiv.org/abs/2409.12866)|null|
+|**2024-09-19**|**PromSec: Prompt Optimization for Secure Generation of Functional Source Code with Large Language Models (LLMs)**|Mahmoud Nazzal et.al.|[2409.12699](http://arxiv.org/abs/2409.12699)|null|
 |**2024-09-18**|**Qwen2.5-Coder Technical Report**|Binyuan Hui et.al.|[2409.12186](http://arxiv.org/abs/2409.12186)|**[link](https://github.com/qwenlm/qwen2.5-coder)**|
 |**2024-09-11**|**Semantic Interoperability on Blockchain by Generating Smart Contracts Based on Knowledge Graphs**|William Van Woensel et.al.|[2409.12171](http://arxiv.org/abs/2409.12171)|null|
 |**2024-09-18**|**Promise and Peril of Collaborative Code Generation Models: Balancing Effectiveness and Memorization**|Zhi Chen et.al.|[2409.12020](http://arxiv.org/abs/2409.12020)|null|
