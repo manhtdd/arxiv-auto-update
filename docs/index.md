@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.26
+## Updated on 2024.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -787,7 +787,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-23**|**Predicting Expert Evaluations in Software Code Reviews**|Yegor Denisov-Blanch et.al.|[2409.15152](http://arxiv.org/abs/2409.15152)|null|
-|**2024-09-20**|**Toward Interactive Optimization of Source Code Differences: An Empirical Study of Its Performance**|Tsukasa Yagi et.al.|[2409.13590](http://arxiv.org/abs/2409.13590)|null|
+|**2024-09-26**|**Toward Interactive Optimization of Source Code Differences: An Empirical Study of Its Performance**|Tsukasa Yagi et.al.|[2409.13590](http://arxiv.org/abs/2409.13590)|null|
 |**2024-09-17**|**Leveraging Reviewer Experience in Code Review Comment Generation**|Hong Yi Lin et.al.|[2409.10959](http://arxiv.org/abs/2409.10959)|null|
 |**2024-08-15**|**CRQBench: A Benchmark of Code Reasoning Questions**|Elizabeth Dinella et.al.|[2408.08453](http://arxiv.org/abs/2408.08453)|null|
 |**2024-08-15**|**Visual Integration of Static and Dynamic Software Analysis in Code Reviews via Software City Visualization**|Alexander Krause-Glau et.al.|[2408.08141](http://arxiv.org/abs/2408.08141)|null|
@@ -823,7 +823,7 @@ layout: default
 |**2024-09-24**|**MOSS: Enabling Code-Driven Evolution and Context Management for AI Agents**|Ming Zhu et.al.|[2409.16120](http://arxiv.org/abs/2409.16120)|**[link](https://github.com/ghost-in-moss/ghostos)**|
 |**2024-09-24**|**Preference-Guided Refactored Tuning for Retrieval Augmented Code Generation**|Xinyu Gao et.al.|[2409.15895](http://arxiv.org/abs/2409.15895)|null|
 |**2024-09-18**|**Multitask Mayhem: Unveiling and Mitigating Safety Gaps in LLMs Fine-tuning**|Essa Jan et.al.|[2409.15361](http://arxiv.org/abs/2409.15361)|null|
-|**2024-09-24**|**A Comprehensive Framework for Evaluating API-oriented Code Generation in Large Language Models**|Yixi Wu et.al.|[2409.15228](http://arxiv.org/abs/2409.15228)|null|
+|**2024-09-26**|**A Comprehensive Framework for Evaluating API-oriented Code Generation in Large Language Models**|Yixi Wu et.al.|[2409.15228](http://arxiv.org/abs/2409.15228)|null|
 |**2024-09-23**|**RAMBO: Enhancing RAG-based Repository-Level Method Body Completion**|Tuan-Dung Bui et.al.|[2409.15204](http://arxiv.org/abs/2409.15204)|null|
 |**2024-09-23**|**RMCBench: Benchmarking Large Language Models' Resistance to Malicious Code**|Jiachi Chen et.al.|[2409.15154](http://arxiv.org/abs/2409.15154)|**[link](https://github.com/qing-yuan233/RMCBench)**|
 |**2024-09-20**|**Eliciting Instruction-tuned Code Language Models' Capabilities to Utilize Auxiliary Function for Code Generation**|Seonghyeon Lee et.al.|[2409.13928](http://arxiv.org/abs/2409.13928)|null|
