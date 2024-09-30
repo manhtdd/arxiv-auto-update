@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.29
+## Updated on 2024.09.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -835,7 +835,7 @@ layout: default
 |**2024-09-24**|**Preference-Guided Refactored Tuning for Retrieval Augmented Code Generation**|Xinyu Gao et.al.|[2409.15895](http://arxiv.org/abs/2409.15895)|null|
 |**2024-09-18**|**Multitask Mayhem: Unveiling and Mitigating Safety Gaps in LLMs Fine-tuning**|Essa Jan et.al.|[2409.15361](http://arxiv.org/abs/2409.15361)|null|
 |**2024-09-26**|**A Comprehensive Framework for Evaluating API-oriented Code Generation in Large Language Models**|Yixi Wu et.al.|[2409.15228](http://arxiv.org/abs/2409.15228)|null|
-|**2024-09-23**|**RAMBO: Enhancing RAG-based Repository-Level Method Body Completion**|Tuan-Dung Bui et.al.|[2409.15204](http://arxiv.org/abs/2409.15204)|**[link](https://github.com/ise-uet-vnu/rambo)**|
+|**2024-09-27**|**RAMBO: Enhancing RAG-based Repository-Level Method Body Completion**|Tuan-Dung Bui et.al.|[2409.15204](http://arxiv.org/abs/2409.15204)|**[link](https://github.com/ise-uet-vnu/rambo)**|
 |**2024-09-23**|**RMCBench: Benchmarking Large Language Models' Resistance to Malicious Code**|Jiachi Chen et.al.|[2409.15154](http://arxiv.org/abs/2409.15154)|**[link](https://github.com/qing-yuan233/RMCBench)**|
 |**2024-09-20**|**Eliciting Instruction-tuned Code Language Models' Capabilities to Utilize Auxiliary Function for Code Generation**|Seonghyeon Lee et.al.|[2409.13928](http://arxiv.org/abs/2409.13928)|null|
 |**2024-09-20**|**Unlocking Memorization in Large Language Models with Dynamic Soft Prompting**|Zhepeng Wang et.al.|[2409.13853](http://arxiv.org/abs/2409.13853)|null|
