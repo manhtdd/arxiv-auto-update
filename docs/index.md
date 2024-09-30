@@ -265,6 +265,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**Defect Prediction with Content-based Features**|Hung Viet Pham et.al.|[2409.18365](http://arxiv.org/abs/2409.18365)|null|
 |**2024-09-10**|**An Empirical Study of the Impact of Test Strategies on Online Optimization for Ensemble-Learning Defect Prediction**|Kensei Hamamoto et.al.|[2409.06264](http://arxiv.org/abs/2409.06264)|null|
 |**2024-08-22**|**Data Quality Antipatterns for Software Analytics**|Aaditya Bhatia et.al.|[2408.12560](http://arxiv.org/abs/2408.12560)|null|
 |**2024-08-07**|**Minimum Enclosing Ball Synthetic Minority Oversampling Technique from a Geometric Perspective**|Yi-Yang Shangguan et.al.|[2408.03526](http://arxiv.org/abs/2408.03526)|null|
@@ -450,6 +451,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**Exploring Token Pruning in Vision State Space Models**|Zheng Zhan et.al.|[2409.18962](http://arxiv.org/abs/2409.18962)|null|
+|**2024-09-27**|**Social Media Bot Policies: Evaluating Passive and Active Enforcement**|Kristina Radivojevic et.al.|[2409.18931](http://arxiv.org/abs/2409.18931)|null|
+|**2024-09-27**|**Improving Visual Object Tracking through Visual Prompting**|Shih-Fang Chen et.al.|[2409.18901](http://arxiv.org/abs/2409.18901)|null|
+|**2024-09-27**|**How green is continual learning, really? Analyzing the energy consumption in continual training of vision foundation models**|Tomaso Trinci et.al.|[2409.18664](http://arxiv.org/abs/2409.18664)|null|
+|**2024-09-27**|**When SAM2 Meets Video Camouflaged Object Segmentation: A Comprehensive Evaluation and Adaptation**|Yuli Zhou et.al.|[2409.18653](http://arxiv.org/abs/2409.18653)|**[link](https://github.com/zhoustan/sam2-vcos)**|
+|**2024-09-27**|**How Effective is Pre-training of Large Masked Autoencoders for Downstream Earth Observation Tasks?**|Jose Sosa et.al.|[2409.18536](http://arxiv.org/abs/2409.18536)|null|
+|**2024-09-26**|**Embodied-RAG: General non-parametric Embodied Memory for Retrieval and Generation**|Quanting Xie et.al.|[2409.18313](http://arxiv.org/abs/2409.18313)|null|
+|**2024-09-26**|**Evaluation of Security of ML-based Watermarking: Copy and Removal Attacks**|Vitaliy Kinakh et.al.|[2409.18211](http://arxiv.org/abs/2409.18211)|**[link](https://github.com/vkinakh/ssl-watermarking-attacks)**|
 |**2024-09-26**|**Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction**|Jing He et.al.|[2409.18124](http://arxiv.org/abs/2409.18124)|null|
 |**2024-09-26**|**MALPOLON: A Framework for Deep Species Distribution Modeling**|Theo Larcher et.al.|[2409.18102](http://arxiv.org/abs/2409.18102)|null|
 |**2024-09-26**|**EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions**|Kai Chen et.al.|[2409.18042](http://arxiv.org/abs/2409.18042)|null|
@@ -825,6 +834,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**HM3: Hierarchical Multi-Objective Model Merging for Pretrained Models**|Yu Zhou et.al.|[2409.18893](http://arxiv.org/abs/2409.18893)|null|
+|**2024-09-27**|**Hello SME! Generating Fast Matrix Multiplication Kernels Using the Scalable Matrix Extension**|Stefan Remke et.al.|[2409.18779](http://arxiv.org/abs/2409.18779)|null|
 |**2024-09-26**|**Compositional Hardness of Code in Large Language Models -- A Probabilistic Perspective**|Yotam Wolf et.al.|[2409.18028](http://arxiv.org/abs/2409.18028)|null|
 |**2024-09-25**|**Automating Traffic Model Enhancement with AI Research Agent**|Xusen Guo et.al.|[2409.16876](http://arxiv.org/abs/2409.16876)|null|
 |**2024-09-25**|**CodeInsight: A Curated Dataset of Practical Coding Solutions from Stack Overflow**|Nathanaël Beau et.al.|[2409.16819](http://arxiv.org/abs/2409.16819)|**[link](https://github.com/nathanaelbeau/codeinsight)**|
