@@ -480,6 +480,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**Automating MedSAM by Learning Prompts with Weak Few-Shot Supervision**|Mélanie Gaillochet et.al.|[2409.20293](http://arxiv.org/abs/2409.20293)|null|
+|**2024-09-30**|**GravMAD: Grounded Spatial Value Maps Guided Action Diffusion for Generalized 3D Manipulation**|Yangtao Chen et.al.|[2409.20154](http://arxiv.org/abs/2409.20154)|null|
+|**2024-09-30**|**OpenKD: Opening Prompt Diversity for Zero- and Few-shot Keypoint Detection**|Changsheng Lu et.al.|[2409.19899](http://arxiv.org/abs/2409.19899)|null|
+|**2024-09-30**|**Towards Open-Vocabulary Semantic Segmentation Without Semantic Labels**|Heeseong Shin et.al.|[2409.19846](http://arxiv.org/abs/2409.19846)|null|
+|**2024-09-29**|**Membership Inference Attacks Cannot Prove that a Model Was Trained On Your Data**|Jie Zhang et.al.|[2409.19798](http://arxiv.org/abs/2409.19798)|null|
+|**2024-09-29**|**Pear: Pruning and Sharing Adapters in Visual Parameter-Efficient Fine-Tuning**|Yibo Zhong et.al.|[2409.19733](http://arxiv.org/abs/2409.19733)|null|
+|**2024-09-29**|**A multimodal LLM for the non-invasive decoding of spoken text from brain recordings**|Youssef Hmamouche et.al.|[2409.19710](http://arxiv.org/abs/2409.19710)|null|
+|**2024-09-29**|**Federated Learning from Vision-Language Foundation Models: Theoretical Analysis and Method**|Bikang Pan et.al.|[2409.19610](http://arxiv.org/abs/2409.19610)|null|
+|**2024-09-29**|**One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos**|Zechen Bai et.al.|[2409.19603](http://arxiv.org/abs/2409.19603)|null|
+|**2024-09-29**|**LoRKD: Low-Rank Knowledge Decomposition for Medical Foundation Models**|Haolin Li et.al.|[2409.19540](http://arxiv.org/abs/2409.19540)|**[link](https://github.com/tdlhl/LoRKD)**|
+|**2024-09-29**|**OptiGrasp: Optimized Grasp Pose Detection Using RGB Images for Warehouse Picking Robots**|Soofiyan Atar et.al.|[2409.19494](http://arxiv.org/abs/2409.19494)|null|
+|**2024-09-28**|**MedCLIP-SAMv2: Towards Universal Text-Driven Medical Image Segmentation**|Taha Koleilat et.al.|[2409.19483](http://arxiv.org/abs/2409.19483)|null|
+|**2024-09-28**|**On the universality of neural encodings in CNNs**|Florentin Guth et.al.|[2409.19460](http://arxiv.org/abs/2409.19460)|null|
+|**2024-09-28**|**Brain-JEPA: Brain Dynamics Foundation Model with Gradient Positioning and Spatiotemporal Masking**|Zijian Dong et.al.|[2409.19407](http://arxiv.org/abs/2409.19407)|null|
+|**2024-09-28**|**DOTA: Distributional Test-Time Adaptation of Vision-Language Models**|Zongbo Han et.al.|[2409.19375](http://arxiv.org/abs/2409.19375)|null|
 |**2024-09-27**|**Exploring Token Pruning in Vision State Space Models**|Zheng Zhan et.al.|[2409.18962](http://arxiv.org/abs/2409.18962)|null|
 |**2024-09-27**|**Social Media Bot Policies: Evaluating Passive and Active Enforcement**|Kristina Radivojevic et.al.|[2409.18931](http://arxiv.org/abs/2409.18931)|null|
 |**2024-09-27**|**Improving Visual Object Tracking through Visual Prompting**|Shih-Fang Chen et.al.|[2409.18901](http://arxiv.org/abs/2409.18901)|**[link](https://github.com/chenshihfang/GOT)**|
@@ -836,6 +851,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-29**|**CRScore: Grounding Automated Evaluation of Code Review Comments in Code Claims and Smells**|Atharva Naik et.al.|[2409.19801](http://arxiv.org/abs/2409.19801)|null|
 |**2024-09-23**|**Predicting Expert Evaluations in Software Code Reviews**|Yegor Denisov-Blanch et.al.|[2409.15152](http://arxiv.org/abs/2409.15152)|null|
 |**2024-09-26**|**Toward Interactive Optimization of Source Code Differences: An Empirical Study of Its Performance**|Tsukasa Yagi et.al.|[2409.13590](http://arxiv.org/abs/2409.13590)|null|
 |**2024-09-17**|**Leveraging Reviewer Experience in Code Review Comment Generation**|Hong Yi Lin et.al.|[2409.10959](http://arxiv.org/abs/2409.10959)|null|
@@ -867,6 +883,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**LLM Hallucinations in Practical Code Generation: Phenomena, Mechanism, and Mitigation**|Ziyao Zhang et.al.|[2409.20550](http://arxiv.org/abs/2409.20550)|null|
+|**2024-09-30**|**Explain in Plain Language Questions with Indic Languages: Drawbacks, Affordances, and Opportunities**|David H. Smith IV et.al.|[2409.20297](http://arxiv.org/abs/2409.20297)|null|
+|**2024-09-30**|**Benchmarking ChatGPT, Codeium, and GitHub Copilot: A Comparative Study of AI-Driven Programming and Debugging Assistants**|Md Sultanul Islam Ovi et.al.|[2409.19922](http://arxiv.org/abs/2409.19922)|null|
+|**2024-09-28**|**SciDoc2Diagrammer-MAF: Towards Generation of Scientific Diagrams from Documents guided by Multi-Aspect Feedback Refinement**|Ishani Mondal et.al.|[2409.19242](http://arxiv.org/abs/2409.19242)|null|
+|**2024-09-27**|**Artificial-Intelligence Generated Code Considered Harmful: A Road Map for Secure and High-Quality Code Generation**|Chun Jie Chong et.al.|[2409.19182](http://arxiv.org/abs/2409.19182)|null|
+|**2024-09-26**|**Code Generation and Algorithmic Problem Solving Using Llama 3.1 405B**|Aniket Deroy et.al.|[2409.19027](http://arxiv.org/abs/2409.19027)|null|
 |**2024-09-27**|**HM3: Hierarchical Multi-Objective Model Merging for Pretrained Models**|Yu Zhou et.al.|[2409.18893](http://arxiv.org/abs/2409.18893)|null|
 |**2024-09-27**|**Hello SME! Generating Fast Matrix Multiplication Kernels Using the Scalable Matrix Extension**|Stefan Remke et.al.|[2409.18779](http://arxiv.org/abs/2409.18779)|null|
 |**2024-09-26**|**Compositional Hardness of Code in Large Language Models -- A Probabilistic Perspective**|Yotam Wolf et.al.|[2409.18028](http://arxiv.org/abs/2409.18028)|null|
