@@ -265,6 +265,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-01**|**TestGenEval: A Real World Unit Test Generation and Test Completion Benchmark**|Kush Jain et.al.|[2410.00752](http://arxiv.org/abs/2410.00752)|null|
 |**2024-09-27**|**Defect Prediction with Content-based Features**|Hung Viet Pham et.al.|[2409.18365](http://arxiv.org/abs/2409.18365)|null|
 |**2024-09-10**|**An Empirical Study of the Impact of Test Strategies on Online Optimization for Ensemble-Learning Defect Prediction**|Kensei Hamamoto et.al.|[2409.06264](http://arxiv.org/abs/2409.06264)|null|
 |**2024-08-22**|**Data Quality Antipatterns for Software Analytics**|Aaditya Bhatia et.al.|[2408.12560](http://arxiv.org/abs/2408.12560)|null|
@@ -451,6 +452,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**OmniGenBench: Automating Large-scale in-silico Benchmarking for Genomic Foundation Models**|Heng Yang et.al.|[2410.01784](http://arxiv.org/abs/2410.01784)|**[link](https://github.com/yangheng95/OmniGenomeBench)**|
+|**2024-10-02**|**PHI-S: Distribution Balancing for Label-Free Multi-Teacher Distillation**|Mike Ranzinger et.al.|[2410.01680](http://arxiv.org/abs/2410.01680)|null|
+|**2024-10-02**|**Towards a vision foundation model for comprehensive assessment of Cardiac MRI**|Athira J Jacob et.al.|[2410.01665](http://arxiv.org/abs/2410.01665)|null|
+|**2024-10-02**|**Imaging foundation model for universal enhancement of non-ideal measurement CT**|Yuxin Liu et.al.|[2410.01591](http://arxiv.org/abs/2410.01591)|**[link](https://github.com/yutinghe-list/tamp)**|
+|**2024-10-02**|**AgriCLIP: Adapting CLIP for Agriculture and Livestock via Domain-Specialized Cross-Model Alignment**|Umair Nawaz et.al.|[2410.01407](http://arxiv.org/abs/2410.01407)|**[link](https://github.com/umair1221/agriclip)**|
+|**2024-10-02**|**UAL-Bench: The First Comprehensive Unusual Activity Localization Benchmark**|Hasnat Md Abdullah et.al.|[2410.01180](http://arxiv.org/abs/2410.01180)|null|
+|**2024-10-02**|**Uncertainty-Guided Enhancement on Driving Perception System via Foundation Models**|Yunhao Yang et.al.|[2410.01144](http://arxiv.org/abs/2410.01144)|null|
+|**2024-10-01**|**Pose Estimation of Buried Deep-Sea Objects using 3D Vision Deep Learning Models**|Jerry Yan et.al.|[2410.01061](http://arxiv.org/abs/2410.01061)|null|
+|**2024-10-01**|**MOSEL: 950,000 Hours of Speech Data for Open-Source Speech Foundation Model Training on EU Languages**|Marco Gaido et.al.|[2410.01036](http://arxiv.org/abs/2410.01036)|**[link](https://github.com/hlt-mt/mosel)**|
+|**2024-10-01**|**LaDTalk: Latent Denoising for Synthesizing Talking Head Videos with High Frequency Details**|Jian Yang et.al.|[2410.00990](http://arxiv.org/abs/2410.00990)|null|
+|**2024-10-01**|**Towards Full-parameter and Parameter-efficient Self-learning For Endoscopic Camera Depth Estimation**|Shuting Zhao et.al.|[2410.00979](http://arxiv.org/abs/2410.00979)|null|
+|**2024-10-01**|**RisingBALLER: A player is a token, a match is a sentence, A path towards a foundational model for football players data analytics**|Akedjou Achraff Adjileye et.al.|[2410.00943](http://arxiv.org/abs/2410.00943)|null|
+|**2024-10-01**|**Do Music Generation Models Encode Music Theory?**|Megan Wei et.al.|[2410.00872](http://arxiv.org/abs/2410.00872)|null|
+|**2024-10-01**|**Radio Foundation Models: Pre-training Transformers for 5G-based Indoor Localization**|Jonathan Ott et.al.|[2410.00617](http://arxiv.org/abs/2410.00617)|null|
+|**2024-10-01**|**Arges: Spatio-Temporal Transformer for Ulcerative Colitis Severity Assessment in Endoscopy Videos**|Krishna Chaitanya et.al.|[2410.00536](http://arxiv.org/abs/2410.00536)|null|
 |**2024-09-30**|**Automating MedSAM by Learning Prompts with Weak Few-Shot Supervision**|Mélanie Gaillochet et.al.|[2409.20293](http://arxiv.org/abs/2409.20293)|null|
 |**2024-10-02**|**GravMAD: Grounded Spatial Value Maps Guided Action Diffusion for Generalized 3D Manipulation**|Yangtao Chen et.al.|[2409.20154](http://arxiv.org/abs/2409.20154)|null|
 |**2024-09-30**|**OpenKD: Opening Prompt Diversity for Zero- and Few-shot Keypoint Detection**|Changsheng Lu et.al.|[2409.19899](http://arxiv.org/abs/2409.19899)|null|
@@ -850,6 +866,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**Not All LLM Reasoners Are Created Equal**|Arian Hosseini et.al.|[2410.01748](http://arxiv.org/abs/2410.01748)|null|
+|**2024-10-02**|**SecCoder: Towards Generalizable and Robust Secure Code Generation**|Boyu Zhang et.al.|[2410.01488](http://arxiv.org/abs/2410.01488)|null|
+|**2024-10-02**|**Codev-Bench: How Do LLMs Understand Developer-Centric Code Completion?**|Zhenyu Pan et.al.|[2410.01353](http://arxiv.org/abs/2410.01353)|**[link](https://github.com/LingmaTongyi/Codev-Bench)**|
+|**2024-10-02**|**RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance**|Haolin Jin et.al.|[2410.01242](http://arxiv.org/abs/2410.01242)|null|
+|**2024-10-02**|**From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging**|Yuling Shi et.al.|[2410.01215](http://arxiv.org/abs/2410.01215)|**[link](https://github.com/YerbaPage/MGDebugger)**|
+|**2024-10-01**|**Understanding the Human-LLM Dynamic: A Literature Survey of LLM Use in Programming Tasks**|Deborah Etsenake et.al.|[2410.01026](http://arxiv.org/abs/2410.01026)|null|
+|**2024-10-01**|**BabelBench: An Omni Benchmark for Code-Driven Analysis of Multimodal and Multistructured Data**|Xuwu Wang et.al.|[2410.00773](http://arxiv.org/abs/2410.00773)|**[link](https://github.com/ffd8ffe/babelbench)**|
+|**2024-10-01**|**TestGenEval: A Real World Unit Test Generation and Test Completion Benchmark**|Kush Jain et.al.|[2410.00752](http://arxiv.org/abs/2410.00752)|null|
+|**2024-10-01**|**AMR-Evol: Adaptive Modular Response Evolution Elicits Better Knowledge Distillation for Large Language Models in Code Generation**|Ziyang Luo et.al.|[2410.00558](http://arxiv.org/abs/2410.00558)|**[link](https://github.com/chiyeunglaw/amr-evol)**|
+|**2024-10-01**|**DynEx: Dynamic Code Synthesis with Structured Design Exploration for Accelerated Exploratory Programming**|Jenny Ma et.al.|[2410.00400](http://arxiv.org/abs/2410.00400)|null|
+|**2024-09-30**|**DreamStruct: Understanding Slides and User Interfaces via Synthetic Data Generation**|Yi-Hao Peng et.al.|[2410.00201](http://arxiv.org/abs/2410.00201)|**[link](https://github.com/yihaop/dreamstruct)**|
 |**2024-09-30**|**LLM Hallucinations in Practical Code Generation: Phenomena, Mechanism, and Mitigation**|Ziyao Zhang et.al.|[2409.20550](http://arxiv.org/abs/2409.20550)|null|
 |**2024-09-30**|**Explain in Plain Language Questions with Indic Languages: Drawbacks, Affordances, and Opportunities**|David H. Smith IV et.al.|[2409.20297](http://arxiv.org/abs/2409.20297)|null|
 |**2024-09-30**|**Benchmarking ChatGPT, Codeium, and GitHub Copilot: A Comparative Study of AI-Driven Programming and Debugging Assistants**|Md Sultanul Islam Ovi et.al.|[2409.19922](http://arxiv.org/abs/2409.19922)|null|
