@@ -452,6 +452,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**Contrastive Localized Language-Image Pre-Training**|Hong-You Chen et.al.|[2410.02746](http://arxiv.org/abs/2410.02746)|null|
+|**2024-10-03**|**Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models**|Zhengfeng Lai et.al.|[2410.02740](http://arxiv.org/abs/2410.02740)|null|
+|**2024-10-03**|**Plots Unlock Time-Series Understanding in Multimodal Models**|Mayank Daswani et.al.|[2410.02637](http://arxiv.org/abs/2410.02637)|null|
+|**2024-10-03**|**A Foundation Model for the Solar Dynamics Observatory**|James Walsh et.al.|[2410.02530](http://arxiv.org/abs/2410.02530)|null|
+|**2024-10-03**|**Learning from Offline Foundation Features with Tensor Augmentations**|Emir Konuk et.al.|[2410.02527](http://arxiv.org/abs/2410.02527)|**[link](https://github.com/emirkonuk/loffta)**|
+|**2024-10-03**|**Mitigating Downstream Model Risks via Model Provenance**|Keyu Wang et.al.|[2410.02230](http://arxiv.org/abs/2410.02230)|null|
+|**2024-10-03**|**General Preference Modeling with Preference Representations for Aligning Language Models**|Yifan Zhang et.al.|[2410.02197](http://arxiv.org/abs/2410.02197)|**[link](https://github.com/general-preference/general-preference-model)**|
+|**2024-10-03**|**From Pixels to Tokens: Byte-Pair Encoding on Quantized Visual Modalities**|Wanpeng Zhang et.al.|[2410.02155](http://arxiv.org/abs/2410.02155)|null|
+|**2024-10-02**|**FARM: Functional Group-Aware Representations for Small Molecules**|Thao Nguyen et.al.|[2410.02082](http://arxiv.org/abs/2410.02082)|null|
+|**2024-10-02**|**EMMA: Efficient Visual Alignment in Multi-Modal LLMs**|Sara Ghazanfari et.al.|[2410.02080](http://arxiv.org/abs/2410.02080)|null|
+|**2024-10-02**|**Depth Pro: Sharp Monocular Metric Depth in Less Than a Second**|Aleksei Bochkovskii et.al.|[2410.02073](http://arxiv.org/abs/2410.02073)|**[link](https://github.com/apple/ml-depth-pro)**|
+|**2024-10-02**|**Semi-Supervised Fine-Tuning of Vision Foundation Models with Content-Style Decomposition**|Mariia Drozdova et.al.|[2410.02069](http://arxiv.org/abs/2410.02069)|null|
 |**2024-10-02**|**OmniGenBench: Automating Large-scale in-silico Benchmarking for Genomic Foundation Models**|Heng Yang et.al.|[2410.01784](http://arxiv.org/abs/2410.01784)|**[link](https://github.com/yangheng95/OmniGenomeBench)**|
 |**2024-10-02**|**PHI-S: Distribution Balancing for Label-Free Multi-Teacher Distillation**|Mike Ranzinger et.al.|[2410.01680](http://arxiv.org/abs/2410.01680)|null|
 |**2024-10-02**|**Towards a vision foundation model for comprehensive assessment of Cardiac MRI**|Athira J Jacob et.al.|[2410.01665](http://arxiv.org/abs/2410.01665)|null|
@@ -866,6 +878,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**MA-RLHF: Reinforcement Learning from Human Feedback with Macro Actions**|Yekun Chai et.al.|[2410.02743](http://arxiv.org/abs/2410.02743)|null|
+|**2024-10-03**|**Open-source shape optimization for isogeometric shells using FEniCS and OpenMDAO**|Han Zhao et.al.|[2410.02225](http://arxiv.org/abs/2410.02225)|null|
+|**2024-10-03**|**GraphIC: A Graph-Based In-Context Example Retrieval Model for Multi-Step Reasoning**|Jiale Fu et.al.|[2410.02203](http://arxiv.org/abs/2410.02203)|null|
+|**2024-10-03**|**CodeJudge: Evaluating Code Generation with Large Language Models**|Weixi Tong et.al.|[2410.02184](http://arxiv.org/abs/2410.02184)|**[link](https://github.com/VichyTong/CodeJudge)**|
+|**2024-10-02**|**CodeMMLU: A Multi-Task Benchmark for Assessing Code Understanding Capabilities of CodeLLMs**|Dung Nguyen Manh et.al.|[2410.01999](http://arxiv.org/abs/2410.01999)|null|
 |**2024-10-02**|**Not All LLM Reasoners Are Created Equal**|Arian Hosseini et.al.|[2410.01748](http://arxiv.org/abs/2410.01748)|null|
 |**2024-10-02**|**SecCoder: Towards Generalizable and Robust Secure Code Generation**|Boyu Zhang et.al.|[2410.01488](http://arxiv.org/abs/2410.01488)|null|
 |**2024-10-02**|**Codev-Bench: How Do LLMs Understand Developer-Centric Code Completion?**|Zhenyu Pan et.al.|[2410.01353](http://arxiv.org/abs/2410.01353)|**[link](https://github.com/LingmaTongyi/Codev-Bench)**|
