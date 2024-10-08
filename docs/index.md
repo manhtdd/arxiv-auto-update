@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.07
+## Updated on 2024.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -456,7 +456,7 @@ layout: default
 |**2024-10-04**|**FedStein: Enhancing Multi-Domain Federated Learning Through James-Stein Estimator**|Sunny Gupta et.al.|[2410.03499](http://arxiv.org/abs/2410.03499)|**[link](https://github.com/sunnyinAI/FedStein)**|
 |**2024-10-04**|**Nested Deep Learning Model: A Foundation Model for Brain Signal Data**|Fangyi Wei et.al.|[2410.03191](http://arxiv.org/abs/2410.03191)|null|
 |**2024-10-03**|**On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions**|Huy Nguyen et.al.|[2410.02935](http://arxiv.org/abs/2410.02935)|null|
-|**2024-10-03**|**Real-World Cooking Robot System from Recipes Based on Food State Recognition Using Foundation Models and PDDL**|Naoaki Kanazawa et.al.|[2410.02874](http://arxiv.org/abs/2410.02874)|null|
+|**2024-10-07**|**Real-World Cooking Robot System from Recipes Based on Food State Recognition Using Foundation Models and PDDL**|Naoaki Kanazawa et.al.|[2410.02874](http://arxiv.org/abs/2410.02874)|null|
 |**2024-10-03**|**Contrastive Localized Language-Image Pre-Training**|Hong-You Chen et.al.|[2410.02746](http://arxiv.org/abs/2410.02746)|null|
 |**2024-10-03**|**Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models**|Zhengfeng Lai et.al.|[2410.02740](http://arxiv.org/abs/2410.02740)|null|
 |**2024-10-03**|**Plots Unlock Time-Series Understanding in Multimodal Models**|Mayank Daswani et.al.|[2410.02637](http://arxiv.org/abs/2410.02637)|null|
@@ -465,7 +465,7 @@ layout: default
 |**2024-10-03**|**Mitigating Downstream Model Risks via Model Provenance**|Keyu Wang et.al.|[2410.02230](http://arxiv.org/abs/2410.02230)|null|
 |**2024-10-03**|**General Preference Modeling with Preference Representations for Aligning Language Models**|Yifan Zhang et.al.|[2410.02197](http://arxiv.org/abs/2410.02197)|**[link](https://github.com/general-preference/general-preference-model)**|
 |**2024-10-04**|**From Pixels to Tokens: Byte-Pair Encoding on Quantized Visual Modalities**|Wanpeng Zhang et.al.|[2410.02155](http://arxiv.org/abs/2410.02155)|null|
-|**2024-10-02**|**FARM: Functional Group-Aware Representations for Small Molecules**|Thao Nguyen et.al.|[2410.02082](http://arxiv.org/abs/2410.02082)|null|
+|**2024-10-06**|**FARM: Functional Group-Aware Representations for Small Molecules**|Thao Nguyen et.al.|[2410.02082](http://arxiv.org/abs/2410.02082)|null|
 |**2024-10-02**|**EMMA: Efficient Visual Alignment in Multi-Modal LLMs**|Sara Ghazanfari et.al.|[2410.02080](http://arxiv.org/abs/2410.02080)|null|
 |**2024-10-02**|**Depth Pro: Sharp Monocular Metric Depth in Less Than a Second**|Aleksei Bochkovskii et.al.|[2410.02073](http://arxiv.org/abs/2410.02073)|**[link](https://github.com/apple/ml-depth-pro)**|
 |**2024-10-04**|**Semi-Supervised Fine-Tuning of Vision Foundation Models with Content-Style Decomposition**|Mariia Drozdova et.al.|[2410.02069](http://arxiv.org/abs/2410.02069)|null|
@@ -859,7 +859,7 @@ layout: default
 |**2024-09-17**|**Leveraging Reviewer Experience in Code Review Comment Generation**|Hong Yi Lin et.al.|[2409.10959](http://arxiv.org/abs/2409.10959)|null|
 |**2024-08-15**|**CRQBench: A Benchmark of Code Reasoning Questions**|Elizabeth Dinella et.al.|[2408.08453](http://arxiv.org/abs/2408.08453)|null|
 |**2024-08-15**|**Visual Integration of Static and Dynamic Software Analysis in Code Reviews via Software City Visualization**|Alexander Krause-Glau et.al.|[2408.08141](http://arxiv.org/abs/2408.08141)|null|
-|**2024-09-22**|**Evaluating Source Code Quality with Large Languagem Models: a comparative study**|Igor Regis da Silva Simões et.al.|[2408.07082](http://arxiv.org/abs/2408.07082)|**[link](https://github.com/igorregis/sonarvsllm)**|
+|**2024-09-22**|**Evaluating Source Code Quality with Large Language Models: a comparative study**|Igor Regis da Silva Simões et.al.|[2408.07082](http://arxiv.org/abs/2408.07082)|**[link](https://github.com/igorregis/sonarvsllm)**|
 |**2024-08-09**|**Enhancing the Code Debugging Ability of LLMs via Communicative Agent Based Data Refinement**|Weiqing Yang et.al.|[2408.05006](http://arxiv.org/abs/2408.05006)|null|
 |**2024-08-09**|**Natural Language Outlines for Code: Literate Programming in the LLM Era**|Kensen Shi et.al.|[2408.04820](http://arxiv.org/abs/2408.04820)|null|
 |**2024-08-05**|**Towards Identifying Code Proficiency through the Analysis of Python Textbooks**|Ruksit Rojpaisarnkit et.al.|[2408.02262](http://arxiv.org/abs/2408.02262)|null|
