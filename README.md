@@ -481,8 +481,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-07**|**Hyper-Representations: Learning from Populations of Neural Networks**|Konstantin Schürholt et.al.|[2410.05107](http://arxiv.org/abs/2410.05107)|null|
+|**2024-10-07**|**Compression via Pre-trained Transformers: A Study on Byte-Level Multimodal Data**|David Heurtel-Depeiges et.al.|[2410.05078](http://arxiv.org/abs/2410.05078)|null|
+|**2024-10-07**|**PhotoReg: Photometrically Registering 3D Gaussian Splatting Models**|Ziwen Yuan et.al.|[2410.05044](http://arxiv.org/abs/2410.05044)|null|
+|**2024-10-07**|**On Efficient Variants of Segment Anything Model: A Survey**|Xiaorui Sun et.al.|[2410.04960](http://arxiv.org/abs/2410.04960)|null|
+|**2024-10-07**|**Detecting and Approximating Redundant Computational Blocks in Neural Networks**|Irene Cannistraci et.al.|[2410.04941](http://arxiv.org/abs/2410.04941)|null|
+|**2024-10-06**|**Hammer: Robust Function-Calling for On-Device Language Models via Function Masking**|Qiqiang Lin et.al.|[2410.04587](http://arxiv.org/abs/2410.04587)|null|
+|**2024-10-06**|**SONAR: A Synthetic AI-Audio Detection Framework~and Benchmark**|Xiang Li et.al.|[2410.04324](http://arxiv.org/abs/2410.04324)|**[link](https://github.com/jessegator/sonar)**|
+|**2024-10-05**|**The Visualization JUDGE : Can Multimodal Foundation Models Guide Visualization Design Through Visual Perception?**|Matthew Berger et.al.|[2410.04280](http://arxiv.org/abs/2410.04280)|null|
+|**2024-10-05**|**DiffSpec: Differential Testing with LLMs using Natural Language Specifications and Code Artifacts**|Nikitha Rao et.al.|[2410.04249](http://arxiv.org/abs/2410.04249)|null|
+|**2024-10-05**|**Learning on LoRAs: GL-Equivariant Processing of Low-Rank Weight Spaces for Large Finetuned Models**|Theo et.al.|[2410.04207](http://arxiv.org/abs/2410.04207)|null|
+|**2024-10-05**|**From Hospital to Portables: A Universal ECG Foundation Model Built on 10+ Million Diverse Recordings**|Jun Li et.al.|[2410.04133](http://arxiv.org/abs/2410.04133)|null|
+|**2024-10-05**|**TUBench: Benchmarking Large Vision-Language Models on Trustworthiness with Unanswerable Questions**|Xingwei He et.al.|[2410.04107](http://arxiv.org/abs/2410.04107)|**[link](https://github.com/nlpcode/tubench)**|
+|**2024-10-05**|**BlockFound: Customized blockchain foundation model for anomaly detection**|Jiahao Yu et.al.|[2410.04039](http://arxiv.org/abs/2410.04039)|null|
 |**2024-10-04**|**LeLaN: Learning A Language-Conditioned Navigation Policy from In-the-Wild Videos**|Noriaki Hirose et.al.|[2410.03603](http://arxiv.org/abs/2410.03603)|null|
-|**2024-10-04**|**FedStein: Enhancing Multi-Domain Federated Learning Through James-Stein Estimator**|Sunny Gupta et.al.|[2410.03499](http://arxiv.org/abs/2410.03499)|**[link](https://github.com/sunnyinAI/FedStein)**|
+|**2024-10-04**|**FedStein: Enhancing Multi-Domain Federated Learning Through James-Stein Estimator**|Sunny Gupta et.al.|[2410.03499](http://arxiv.org/abs/2410.03499)|null|
 |**2024-10-04**|**Nested Deep Learning Model: A Foundation Model for Brain Signal Data**|Fangyi Wei et.al.|[2410.03191](http://arxiv.org/abs/2410.03191)|null|
 |**2024-10-03**|**On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions**|Huy Nguyen et.al.|[2410.02935](http://arxiv.org/abs/2410.02935)|null|
 |**2024-10-07**|**Real-World Cooking Robot System from Recipes Based on Food State Recognition Using Foundation Models and PDDL**|Naoaki Kanazawa et.al.|[2410.02874](http://arxiv.org/abs/2410.02874)|null|
@@ -884,6 +897,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-07**|**Deciphering Refactoring Branch Dynamics in Modern Code Review: An Empirical Study on Qt**|Eman Abdullah AlOmar et.al.|[2410.04678](http://arxiv.org/abs/2410.04678)|null|
 |**2024-09-29**|**CRScore: Grounding Automated Evaluation of Code Review Comments in Code Claims and Smells**|Atharva Naik et.al.|[2409.19801](http://arxiv.org/abs/2409.19801)|null|
 |**2024-09-23**|**Predicting Expert Evaluations in Software Code Reviews**|Yegor Denisov-Blanch et.al.|[2409.15152](http://arxiv.org/abs/2409.15152)|null|
 |**2024-09-26**|**Toward Interactive Optimization of Source Code Differences: An Empirical Study of Its Performance**|Tsukasa Yagi et.al.|[2409.13590](http://arxiv.org/abs/2409.13590)|null|
@@ -916,6 +930,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-07**|**SparsePO: Controlling Preference Alignment of LLMs via Sparse Token Masks**|Fenia Christopoulou et.al.|[2410.05102](http://arxiv.org/abs/2410.05102)|null|
+|**2024-10-07**|**Learning How Hard to Think: Input-Adaptive Allocation of LM Computation**|Mehul Damani et.al.|[2410.04707](http://arxiv.org/abs/2410.04707)|null|
+|**2024-10-06**|**Evaluation of Code LLMs on Geospatial Code Generation**|Piotr Gramacki et.al.|[2410.04617](http://arxiv.org/abs/2410.04617)|null|
+|**2024-10-04**|**Survey on Code Generation for Low resource and Domain Specific Programming Languages**|Sathvik Joel et.al.|[2410.03981](http://arxiv.org/abs/2410.03981)|null|
+|**2024-10-04**|**SwiftKV: Fast Prefill-Optimized Inference with Knowledge-Preserving Model Transformation**|Aurick Qiao et.al.|[2410.03960](http://arxiv.org/abs/2410.03960)|null|
+|**2024-10-04**|**Learning Code Preference via Synthetic Evolution**|Jiawei Liu et.al.|[2410.03837](http://arxiv.org/abs/2410.03837)|null|
 |**2024-10-04**|**Steering Large Language Models between Code Execution and Textual Reasoning**|Yongchao Chen et.al.|[2410.03524](http://arxiv.org/abs/2410.03524)|null|
 |**2024-10-04**|**Generating Equivalent Representations of Code By A Self-Reflection Approach**|Jia Li et.al.|[2410.03351](http://arxiv.org/abs/2410.03351)|null|
 |**2024-10-04**|**Showing LLM-Generated Code Selectively Based on Confidence of LLMs**|Jia Li et.al.|[2410.03234](http://arxiv.org/abs/2410.03234)|null|
