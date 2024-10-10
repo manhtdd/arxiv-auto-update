@@ -452,6 +452,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**MM-Ego: Towards Building Egocentric Multimodal LLMs**|Hanrong Ye et.al.|[2410.07177](http://arxiv.org/abs/2410.07177)|null|
+|**2024-10-09**|**One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation**|Fabian Paischer et.al.|[2410.07170](http://arxiv.org/abs/2410.07170)|null|
+|**2024-10-09**|**Exploiting Distribution Constraints for Scalable and Efficient Image Retrieval**|Mohammad Omama et.al.|[2410.07022](http://arxiv.org/abs/2410.07022)|null|
+|**2024-10-09**|**Bridge the Points: Graph-based Few-shot Segment Anything Semantically**|Anqi Zhang et.al.|[2410.06964](http://arxiv.org/abs/2410.06964)|null|
+|**2024-10-09**|**Evaluating Computational Pathology Foundation Models for Prostate Cancer Grading under Distribution Shifts**|Fredrik K. Gustafsson et.al.|[2410.06723](http://arxiv.org/abs/2410.06723)|null|
+|**2024-10-09**|**MedImageInsight: An Open-Source Embedding Model for General Domain Medical Imaging**|Noel C. F. Codella et.al.|[2410.06542](http://arxiv.org/abs/2410.06542)|null|
+|**2024-10-09**|**Hallucinating AI Hijacking Attack: Large Language Models and Malicious Code Recommenders**|David Noever et.al.|[2410.06462](http://arxiv.org/abs/2410.06462)|null|
+|**2024-10-09**|**MaD-Scientist: AI-based Scientist solving Convection-Diffusion-Reaction Equations Using Massive PINN-Based Prior Data**|Mingu Kang et.al.|[2410.06442](http://arxiv.org/abs/2410.06442)|null|
+|**2024-10-08**|**BUMBLE: Unifying Reasoning and Acting with Vision-Language Models for Building-wide Mobile Manipulation**|Rutav Shah et.al.|[2410.06237](http://arxiv.org/abs/2410.06237)|null|
+|**2024-10-08**|**Prompting DirectSAM for Semantic Contour Extraction in Remote Sensing Images**|Shiyu Miao et.al.|[2410.06194](http://arxiv.org/abs/2410.06194)|null|
+|**2024-10-08**|**Towards Unsupervised Eye-Region Segmentation for Eye Tracking**|Jiangfan Deng et.al.|[2410.06131](http://arxiv.org/abs/2410.06131)|null|
+|**2024-10-08**|**Towards AI-Native Software Engineering (SE 3.0): A Vision and a Challenge Roadmap**|Ahmed E. Hassan et.al.|[2410.06107](http://arxiv.org/abs/2410.06107)|null|
+|**2024-10-08**|**Generalizing to any diverse distribution: uniformity, gentle finetuning and rebalancing**|Andreas Loukas et.al.|[2410.05980](http://arxiv.org/abs/2410.05980)|null|
+|**2024-10-08**|**FLOPS: Forward Learning with OPtimal Sampling**|Tao Ren et.al.|[2410.05966](http://arxiv.org/abs/2410.05966)|null|
+|**2024-10-08**|**Fortify Your Foundations: Practical Privacy and Security for Foundation Model Deployments In The Cloud**|Marcin Chrapek et.al.|[2410.05930](http://arxiv.org/abs/2410.05930)|null|
 |**2024-10-07**|**Hyper-Representations: Learning from Populations of Neural Networks**|Konstantin Schürholt et.al.|[2410.05107](http://arxiv.org/abs/2410.05107)|**[link](https://github.com/hsg-aiml/sane)**|
 |**2024-10-07**|**Compression via Pre-trained Transformers: A Study on Byte-Level Multimodal Data**|David Heurtel-Depeiges et.al.|[2410.05078](http://arxiv.org/abs/2410.05078)|null|
 |**2024-10-07**|**PhotoReg: Photometrically Registering 3D Gaussian Splatting Models**|Ziwen Yuan et.al.|[2410.05044](http://arxiv.org/abs/2410.05044)|null|
@@ -866,6 +881,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**Studying Practitioners' Expectations on Clear Code Review Comments**|Zhenhao Li et.al.|[2410.06515](http://arxiv.org/abs/2410.06515)|null|
 |**2024-10-07**|**Deciphering Refactoring Branch Dynamics in Modern Code Review: An Empirical Study on Qt**|Eman Abdullah AlOmar et.al.|[2410.04678](http://arxiv.org/abs/2410.04678)|null|
 |**2024-09-29**|**CRScore: Grounding Automated Evaluation of Code Review Comments in Code Claims and Smells**|Atharva Naik et.al.|[2409.19801](http://arxiv.org/abs/2409.19801)|null|
 |**2024-09-23**|**Predicting Expert Evaluations in Software Code Reviews**|Yegor Denisov-Blanch et.al.|[2409.15152](http://arxiv.org/abs/2409.15152)|null|
@@ -897,6 +913,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-08**|**CodeDPO: Aligning Code Models with Self Generated and Verified Source Code**|Kechi Zhang et.al.|[2410.05605](http://arxiv.org/abs/2410.05605)|null|
+|**2024-10-07**|**Generating CAD Code with Vision-Language Models for 3D Designs**|Kamel Alrashedy et.al.|[2410.05340](http://arxiv.org/abs/2410.05340)|null|
 |**2024-10-08**|**SparsePO: Controlling Preference Alignment of LLMs via Sparse Token Masks**|Fenia Christopoulou et.al.|[2410.05102](http://arxiv.org/abs/2410.05102)|null|
 |**2024-10-07**|**Learning How Hard to Think: Input-Adaptive Allocation of LM Computation**|Mehul Damani et.al.|[2410.04707](http://arxiv.org/abs/2410.04707)|null|
 |**2024-10-06**|**Evaluation of Code LLMs on Geospatial Code Generation**|Piotr Gramacki et.al.|[2410.04617](http://arxiv.org/abs/2410.04617)|null|
