@@ -452,6 +452,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models**|Hao Li et.al.|[2410.09012](http://arxiv.org/abs/2410.09012)|null|
+|**2024-10-11**|**Zero-Shot Pupil Segmentation with SAM 2: A Case Study of Over 14 Million Images**|Virmarie Maquiling et.al.|[2410.08926](http://arxiv.org/abs/2410.08926)|null|
+|**2024-10-11**|**HyperPg -- Prototypical Gaussians on the Hypersphere for Interpretable Deep Learning**|Maximilian Xiling Li et.al.|[2410.08925](http://arxiv.org/abs/2410.08925)|null|
+|**2024-10-11**|**Can GPTs Evaluate Graphic Design Based on Design Principles?**|Daichi Haraguchi et.al.|[2410.08885](http://arxiv.org/abs/2410.08885)|null|
+|**2024-10-11**|**The Good, the Bad and the Ugly: Watermarks, Transferable Attacks and Adversarial Defenses**|Grzegorz Głuch et.al.|[2410.08864](http://arxiv.org/abs/2410.08864)|null|
+|**2024-10-11**|**A foundation model for generalizable disease diagnosis in chest X-ray images**|Lijian Xu et.al.|[2410.08861](http://arxiv.org/abs/2410.08861)|null|
+|**2024-10-11**|**CryoFM: A Flow-based Foundation Model for Cryo-EM Densities**|Yi Zhou et.al.|[2410.08631](http://arxiv.org/abs/2410.08631)|null|
+|**2024-10-11**|**VERIFIED: A Video Corpus Moment Retrieval Benchmark for Fine-Grained Video Understanding**|Houlun Chen et.al.|[2410.08593](http://arxiv.org/abs/2410.08593)|null|
+|**2024-10-11**|**Personalized Item Embeddings in Federated Multimodal Recommendation**|Zhiwei Li et.al.|[2410.08478](http://arxiv.org/abs/2410.08478)|null|
+|**2024-10-10**|**Generalizable autoregressive modeling of time series through functional narratives**|Ran Liu et.al.|[2410.08421](http://arxiv.org/abs/2410.08421)|null|
+|**2024-10-10**|**VoxelPrompt: A Vision-Language Agent for Grounded Medical Image Analysis**|Andrew Hoopes et.al.|[2410.08397](http://arxiv.org/abs/2410.08397)|null|
+|**2024-10-10**|**Avoiding mode collapse in diffusion models fine-tuned with reinforcement learning**|Roberto Barceló et.al.|[2410.08315](http://arxiv.org/abs/2410.08315)|null|
+|**2024-10-10**|**Randomized Asymmetric Chain of LoRA: The First Meaningful Theoretical Framework for Low-Rank Adaptation**|Grigory Malinovsky et.al.|[2410.08305](http://arxiv.org/abs/2410.08305)|null|
+|**2024-10-10**|**Towards Foundation Models for Mixed Integer Linear Programming**|Sirui Li et.al.|[2410.08288](http://arxiv.org/abs/2410.08288)|null|
+|**2024-10-10**|**FusionSense: Bridging Common Sense, Vision, and Touch for Robust Sparse-View Reconstruction**|Irving Fang et.al.|[2410.08282](http://arxiv.org/abs/2410.08282)|null|
 |**2024-10-10**|**Features are fate: a theory of transfer learning in high-dimensional regression**|Javan Tahir et.al.|[2410.08194](http://arxiv.org/abs/2410.08194)|null|
 |**2024-10-10**|**On the Evaluation of Generative Robotic Simulations**|Feng Chen et.al.|[2410.08172](http://arxiv.org/abs/2410.08172)|null|
 |**2024-10-11**|**ONCOPILOT: A Promptable CT Foundation Model For Solid Tumor Evaluation**|Léo Machado et.al.|[2410.07908](http://arxiv.org/abs/2410.07908)|null|
@@ -926,6 +941,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents**|Xiangyu Yin et.al.|[2410.09034](http://arxiv.org/abs/2410.09034)|null|
+|**2024-10-11**|**Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models**|Hao Li et.al.|[2410.09012](http://arxiv.org/abs/2410.09012)|null|
+|**2024-10-11**|**Test-driven Software Experimentation with LASSO: an LLM Benchmarking Example**|Marcus Kessel et.al.|[2410.08911](http://arxiv.org/abs/2410.08911)|null|
 |**2024-10-10**|**What Makes Large Language Models Reason in (Multi-Turn) Code Generation?**|Kunhao Zheng et.al.|[2410.08105](http://arxiv.org/abs/2410.08105)|null|
 |**2024-10-10**|**Mitigating Gender Bias in Code Large Language Models via Model Editing**|Zhanyue Qin et.al.|[2410.07820](http://arxiv.org/abs/2410.07820)|null|
 |**2024-10-11**|**DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models**|Yiming Huang et.al.|[2410.07331](http://arxiv.org/abs/2410.07331)|null|
