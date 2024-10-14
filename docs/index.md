@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.13
+## Updated on 2024.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -454,7 +454,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-10**|**Features are fate: a theory of transfer learning in high-dimensional regression**|Javan Tahir et.al.|[2410.08194](http://arxiv.org/abs/2410.08194)|null|
 |**2024-10-10**|**On the Evaluation of Generative Robotic Simulations**|Feng Chen et.al.|[2410.08172](http://arxiv.org/abs/2410.08172)|null|
-|**2024-10-10**|**ONCOPILOT: A Promptable CT Foundation Model For Solid Tumor Evaluation**|Léo Machado et.al.|[2410.07908](http://arxiv.org/abs/2410.07908)|null|
+|**2024-10-11**|**ONCOPILOT: A Promptable CT Foundation Model For Solid Tumor Evaluation**|Léo Machado et.al.|[2410.07908](http://arxiv.org/abs/2410.07908)|null|
 |**2024-10-10**|**RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation**|Songming Liu et.al.|[2410.07864](http://arxiv.org/abs/2410.07864)|null|
 |**2024-10-10**|**Exploring Foundation Models in Remote Sensing Image Change Detection: A Comprehensive Survey**|Zihan Yu et.al.|[2410.07824](http://arxiv.org/abs/2410.07824)|null|
 |**2024-10-10**|**COMMA: A Communicative Multimodal Multi-Agent Benchmark**|Timothy Ossowski et.al.|[2410.07553](http://arxiv.org/abs/2410.07553)|null|
@@ -928,7 +928,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-10**|**What Makes Large Language Models Reason in (Multi-Turn) Code Generation?**|Kunhao Zheng et.al.|[2410.08105](http://arxiv.org/abs/2410.08105)|null|
 |**2024-10-10**|**Mitigating Gender Bias in Code Large Language Models via Model Editing**|Zhanyue Qin et.al.|[2410.07820](http://arxiv.org/abs/2410.07820)|null|
-|**2024-10-09**|**DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models**|Yiming Huang et.al.|[2410.07331](http://arxiv.org/abs/2410.07331)|null|
+|**2024-10-11**|**DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models**|Yiming Huang et.al.|[2410.07331](http://arxiv.org/abs/2410.07331)|null|
 |**2024-10-09**|**IterGen: Iterative Structured LLM Generation**|Shubham Ugare et.al.|[2410.07295](http://arxiv.org/abs/2410.07295)|null|
 |**2024-10-08**|**CodeDPO: Aligning Code Models with Self Generated and Verified Source Code**|Kechi Zhang et.al.|[2410.05605](http://arxiv.org/abs/2410.05605)|null|
 |**2024-10-07**|**Generating CAD Code with Vision-Language Models for 3D Designs**|Kamel Alrashedy et.al.|[2410.05340](http://arxiv.org/abs/2410.05340)|null|
