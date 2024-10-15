@@ -265,6 +265,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-13**|**A Hybrid Sampling and Multi-Objective Optimization Approach for Enhanced Software Defect Prediction**|Jie Zhang et.al.|[2410.10046](http://arxiv.org/abs/2410.10046)|null|
 |**2024-10-01**|**TestGenEval: A Real World Unit Test Generation and Test Completion Benchmark**|Kush Jain et.al.|[2410.00752](http://arxiv.org/abs/2410.00752)|null|
 |**2024-09-27**|**Defect Prediction with Content-based Features**|Hung Viet Pham et.al.|[2409.18365](http://arxiv.org/abs/2409.18365)|null|
 |**2024-09-10**|**An Empirical Study of the Impact of Test Strategies on Online Optimization for Ensemble-Learning Defect Prediction**|Kensei Hamamoto et.al.|[2409.06264](http://arxiv.org/abs/2409.06264)|null|
@@ -452,6 +453,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**Towards Foundation Models for 3D Vision: How Close Are We?**|Yiming Zuo et.al.|[2410.10799](http://arxiv.org/abs/2410.10799)|null|
+|**2024-10-14**|**LiveXiv -- A Multi-Modal Live Benchmark Based on Arxiv Papers Content**|Nimrod Shabtay et.al.|[2410.10783](http://arxiv.org/abs/2410.10783)|**[link](https://github.com/nimrodshabtay/livexiv)**|
+|**2024-10-14**|**SensorLLM: Aligning Large Language Models with Motion Sensors for Human Activity Recognition**|Zechen Li et.al.|[2410.10624](http://arxiv.org/abs/2410.10624)|**[link](https://github.com/zechenli03/sensorllm)**|
+|**2024-10-14**|**MoTE: Reconciling Generalization with Specialization for Visual-Language to Video Knowledge Transfer**|Minghao Zhu et.al.|[2410.10589](http://arxiv.org/abs/2410.10589)|null|
+|**2024-10-14**|**Words to Wheels: Vision-Based Autonomous Driving Understanding Human Language Instructions Using Foundation Models**|Chanhoe Ryu et.al.|[2410.10577](http://arxiv.org/abs/2410.10577)|null|
+|**2024-10-14**|**Moirai-MoE: Empowering Time Series Foundation Models with Sparse Mixture of Experts**|Xu Liu et.al.|[2410.10469](http://arxiv.org/abs/2410.10469)|null|
+|**2024-10-14**|**MMCFND: Multimodal Multilingual Caption-aware Fake News Detection for Low-resource Indic Languages**|Shubhi Bansal et.al.|[2410.10407](http://arxiv.org/abs/2410.10407)|**[link](https://github.com/shubhi-bansal/MMCFND)**|
+|**2024-10-14**|**GIFT-Eval: A Benchmark For General Time Series Forecasting Model Evaluation**|Taha Aksu et.al.|[2410.10393](http://arxiv.org/abs/2410.10393)|null|
+|**2024-10-14**|**GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs**|Yun Zhu et.al.|[2410.10329](http://arxiv.org/abs/2410.10329)|**[link](https://github.com/zhuyun97/graphclip)**|
+|**2024-10-14**|**Minimum Tuning to Unlock Long Output from LLMs with High Quality Data as the Key**|Yingda Chen et.al.|[2410.10210](http://arxiv.org/abs/2410.10210)|null|
+|**2024-10-14**|**Fed-piLot: Optimizing LoRA Assignment for Efficient Federated Foundation Model Fine-Tuning**|Zikai Zhang et.al.|[2410.10200](http://arxiv.org/abs/2410.10200)|null|
+|**2024-10-14**|**X-Fi: A Modality-Invariant Foundation Model for Multimodal Human Sensing**|Xinyan Chen et.al.|[2410.10167](http://arxiv.org/abs/2410.10167)|null|
+|**2024-10-13**|**Make the Pertinent Salient: Task-Relevant Reconstruction for Visual Control with Distractions**|Kyungmin Kim et.al.|[2410.09972](http://arxiv.org/abs/2410.09972)|null|
+|**2024-10-13**|**UnSeg: One Universal Unlearnable Example Generator is Enough against All Image Segmentation**|Ye Sun et.al.|[2410.09909](http://arxiv.org/abs/2410.09909)|null|
+|**2024-10-13**|**Retrieval Instead of Fine-tuning: A Retrieval-based Parameter Ensemble for Zero-shot Learning**|Pengfei Jin et.al.|[2410.09908](http://arxiv.org/abs/2410.09908)|null|
 |**2024-10-11**|**Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models**|Hao Li et.al.|[2410.09012](http://arxiv.org/abs/2410.09012)|null|
 |**2024-10-11**|**Zero-Shot Pupil Segmentation with SAM 2: A Case Study of Over 14 Million Images**|Virmarie Maquiling et.al.|[2410.08926](http://arxiv.org/abs/2410.08926)|null|
 |**2024-10-11**|**HyperPg -- Prototypical Gaussians on the Hypersphere for Interpretable Deep Learning**|Maximilian Xiling Li et.al.|[2410.08925](http://arxiv.org/abs/2410.08925)|null|
@@ -941,6 +957,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**Effi-Code: Unleashing Code Efficiency in Language Models**|Dong Huang et.al.|[2410.10209](http://arxiv.org/abs/2410.10209)|**[link](https://github.com/huangd1999/effi-code)**|
+|**2024-10-13**|**Collu-Bench: A Benchmark for Predicting Language Model Hallucinations in Code**|Nan Jiang et.al.|[2410.09997](http://arxiv.org/abs/2410.09997)|null|
+|**2024-10-13**|**A Model Is Not Built By A Single Prompt: LLM-Based Domain Modeling With Question Decomposition**|Ru Chen et.al.|[2410.09854](http://arxiv.org/abs/2410.09854)|null|
+|**2024-10-13**|**Can Large Language Models Generate Geospatial Code?**|Shuyang Hou et.al.|[2410.09738](http://arxiv.org/abs/2410.09738)|null|
+|**2024-10-12**|**COrAL: Order-Agnostic Language Modeling for Efficient Iterative Refinement**|Yuxi Xie et.al.|[2410.09675](http://arxiv.org/abs/2410.09675)|**[link](https://github.com/yuxixie/coral)**|
+|**2024-10-12**|**Impeding LLM-assisted Cheating in Introductory Programming Assignments via Adversarial Perturbations**|Saiful Islam Salim et.al.|[2410.09318](http://arxiv.org/abs/2410.09318)|null|
 |**2024-10-11**|**PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents**|Xiangyu Yin et.al.|[2410.09034](http://arxiv.org/abs/2410.09034)|null|
 |**2024-10-11**|**Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models**|Hao Li et.al.|[2410.09012](http://arxiv.org/abs/2410.09012)|null|
 |**2024-10-11**|**Test-driven Software Experimentation with LASSO: an LLM Benchmarking Example**|Marcus Kessel et.al.|[2410.08911](http://arxiv.org/abs/2410.08911)|null|
