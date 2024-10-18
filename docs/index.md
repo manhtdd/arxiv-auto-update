@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.17
+## Updated on 2024.10.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -265,6 +265,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-15**|**Just-In-Time Software Defect Prediction via Bi-modal Change Representation Learning**|Yuze Jiang et.al.|[2410.12107](http://arxiv.org/abs/2410.12107)|**[link](https://github.com/jyz-1201/jit-bicc)**|
 |**2024-10-13**|**A Hybrid Sampling and Multi-Objective Optimization Approach for Enhanced Software Defect Prediction**|Jie Zhang et.al.|[2410.10046](http://arxiv.org/abs/2410.10046)|null|
 |**2024-10-01**|**TestGenEval: A Real World Unit Test Generation and Test Completion Benchmark**|Kush Jain et.al.|[2410.00752](http://arxiv.org/abs/2410.00752)|null|
 |**2024-09-27**|**Defect Prediction with Content-based Features**|Hung Viet Pham et.al.|[2409.18365](http://arxiv.org/abs/2409.18365)|null|
@@ -453,6 +454,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**Towards Zero-Shot Camera Trap Image Categorization**|Jiří Vyskočil et.al.|[2410.12769](http://arxiv.org/abs/2410.12769)|null|
+|**2024-10-16**|**The Non-Local Model Merging Problem: Permutation Symmetries and Variance Collapse**|Ekansh Sharma et.al.|[2410.12766](http://arxiv.org/abs/2410.12766)|null|
+|**2024-10-16**|**3DIS: Depth-Driven Decoupled Instance Synthesis for Text-to-Image Generation**|Dewei Zhou et.al.|[2410.12669](http://arxiv.org/abs/2410.12669)|null|
+|**2024-10-16**|**Beyond Speech and More: Investigating the Emergent Ability of Speech Foundation Models for Classifying Physiological Time-Series Signals**|Orchid Chetia Phukan et.al.|[2410.12645](http://arxiv.org/abs/2410.12645)|null|
+|**2024-10-16**|**Towards Graph Foundation Models: The Perspective of Zero-shot Reasoning on Knowledge Graphs**|Kai Wang et.al.|[2410.12609](http://arxiv.org/abs/2410.12609)|null|
+|**2024-10-16**|**From Lab to Pocket: A Novel Continual Learning-based Mobile Application for Screening COVID-19**|Danny Falero et.al.|[2410.12589](http://arxiv.org/abs/2410.12589)|null|
+|**2024-10-16**|**HELM: Hierarchical Encoding for mRNA Language Modeling**|Mehdi Yazdani-Jahromi et.al.|[2410.12459](http://arxiv.org/abs/2410.12459)|null|
+|**2024-10-16**|**AdaCropFollow: Self-Supervised Online Adaptation for Visual Under-Canopy Navigation**|Arun N. Sivakumar et.al.|[2410.12411](http://arxiv.org/abs/2410.12411)|null|
+|**2024-10-16**|**Towards Neural Scaling Laws for Time Series Foundation Models**|Qingren Yao et.al.|[2410.12360](http://arxiv.org/abs/2410.12360)|null|
+|**2024-10-16**|**MC-Bench: A Benchmark for Multi-Context Visual Grounding in the Era of MLLMs**|Yunqiu Xu et.al.|[2410.12332](http://arxiv.org/abs/2410.12332)|null|
+|**2024-10-16**|**MAX: Masked Autoencoder for X-ray Fluorescence in Geological Investigation**|An-Sheng Lee et.al.|[2410.12330](http://arxiv.org/abs/2410.12330)|null|
+|**2024-10-16**|**A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning**|Yuanning Cui et.al.|[2410.12288](http://arxiv.org/abs/2410.12288)|null|
+|**2024-10-16**|**Evaluating Cascaded Methods of Vision-Language Models for Zero-Shot Detection and Association of Hardhats for Increased Construction Safety**|Lucas Choi et.al.|[2410.12225](http://arxiv.org/abs/2410.12225)|null|
+|**2024-10-16**|**TransAgent: Transfer Vision-Language Foundation Models with Heterogeneous Agent Collaboration**|Yiwei Guo et.al.|[2410.12183](http://arxiv.org/abs/2410.12183)|null|
+|**2024-10-16**|**Model Balancing Helps Low-data Training and Fine-tuning**|Zihang Liu et.al.|[2410.12178](http://arxiv.org/abs/2410.12178)|null|
 |**2024-10-15**|**Adaptive Data Optimization: Dynamic Sample Selection with Scaling Laws**|Yiding Jiang et.al.|[2410.11820](http://arxiv.org/abs/2410.11820)|null|
 |**2024-10-15**|**Improving Long-Text Alignment for Text-to-Image Diffusion Models**|Luping Liu et.al.|[2410.11817](http://arxiv.org/abs/2410.11817)|**[link](https://github.com/luping-liu/longalign)**|
 |**2024-10-15**|**FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting**|Zhe Li et.al.|[2410.11802](http://arxiv.org/abs/2410.11802)|null|
@@ -972,8 +988,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**Evaluating Software Development Agents: Patch Patterns, Code Quality, and Issue Complexity in Real-World GitHub Scenarios**|Zhi Chen et.al.|[2410.12468](http://arxiv.org/abs/2410.12468)|null|
+|**2024-10-16**|**HumanEval-V: Evaluating Visual Understanding and Reasoning Abilities of Large Multimodal Models Through Coding Tasks**|Fengji Zhang et.al.|[2410.12381](http://arxiv.org/abs/2410.12381)|null|
+|**2024-10-16**|**Enhancing LLM Agents for Code Generation with Possibility and Pass-rate Prioritized Experience Replay**|Yuyang Chen et.al.|[2410.12236](http://arxiv.org/abs/2410.12236)|null|
+|**2024-10-14**|**FLARE: Faithful Logic-Aided Reasoning and Exploration**|Erik Arakelyan et.al.|[2410.11900](http://arxiv.org/abs/2410.11900)|null|
 |**2024-10-15**|**Evidence of Cognitive Deficits andDevelopmental Advances in Generative AI: A Clock Drawing Test Analysis**|Isaac R. Galatzer-Levy et.al.|[2410.11756](http://arxiv.org/abs/2410.11756)|null|
-|**2024-10-14**|**Agent-as-a-Judge: Evaluate Agents with Agents**|Mingchen Zhuge et.al.|[2410.10934](http://arxiv.org/abs/2410.10934)|null|
+|**2024-10-16**|**Agent-as-a-Judge: Evaluate Agents with Agents**|Mingchen Zhuge et.al.|[2410.10934](http://arxiv.org/abs/2410.10934)|null|
 |**2024-10-14**|**Effi-Code: Unleashing Code Efficiency in Language Models**|Dong Huang et.al.|[2410.10209](http://arxiv.org/abs/2410.10209)|**[link](https://github.com/huangd1999/effi-code)**|
 |**2024-10-13**|**Collu-Bench: A Benchmark for Predicting Language Model Hallucinations in Code**|Nan Jiang et.al.|[2410.09997](http://arxiv.org/abs/2410.09997)|null|
 |**2024-10-13**|**A Model Is Not Built By A Single Prompt: LLM-Based Domain Modeling With Question Decomposition**|Ru Chen et.al.|[2410.09854](http://arxiv.org/abs/2410.09854)|null|
@@ -981,7 +1001,7 @@ layout: default
 |**2024-10-12**|**COrAL: Order-Agnostic Language Modeling for Efficient Iterative Refinement**|Yuxi Xie et.al.|[2410.09675](http://arxiv.org/abs/2410.09675)|**[link](https://github.com/yuxixie/coral)**|
 |**2024-10-15**|**Impeding LLM-assisted Cheating in Introductory Programming Assignments via Adversarial Perturbation**|Saiful Islam Salim et.al.|[2410.09318](http://arxiv.org/abs/2410.09318)|null|
 |**2024-10-11**|**PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents**|Xiangyu Yin et.al.|[2410.09034](http://arxiv.org/abs/2410.09034)|null|
-|**2024-10-11**|**Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models**|Hao Li et.al.|[2410.09012](http://arxiv.org/abs/2410.09012)|null|
+|**2024-10-11**|**Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models**|Hao Li et.al.|[2410.09012](http://arxiv.org/abs/2410.09012)|**[link](https://github.com/sailresearch/fmse-blogs)**|
 |**2024-10-11**|**Test-driven Software Experimentation with LASSO: an LLM Benchmarking Example**|Marcus Kessel et.al.|[2410.08911](http://arxiv.org/abs/2410.08911)|null|
 |**2024-10-12**|**What Makes Large Language Models Reason in (Multi-Turn) Code Generation?**|Kunhao Zheng et.al.|[2410.08105](http://arxiv.org/abs/2410.08105)|null|
 |**2024-10-10**|**Mitigating Gender Bias in Code Large Language Models via Model Editing**|Zhanyue Qin et.al.|[2410.07820](http://arxiv.org/abs/2410.07820)|null|
