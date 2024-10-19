@@ -459,10 +459,10 @@ layout: default
 |**2024-10-17**|**Unearthing Skill-Level Insights for Understanding Trade-Offs of Foundation Models**|Mazda Moayeri et.al.|[2410.13826](http://arxiv.org/abs/2410.13826)|null|
 |**2024-10-17**|**Steering Your Generalists: Improving Robotic Foundation Models via Value Guidance**|Mitsuhiko Nakamoto et.al.|[2410.13816](http://arxiv.org/abs/2410.13816)|null|
 |**2024-10-17**|**Learning Graph Quantized Tokenizers for Transformers**|Limei Wang et.al.|[2410.13798](http://arxiv.org/abs/2410.13798)|**[link](https://github.com/limei0307/graph-tokenizer)**|
-|**2024-10-17**|**MotionBank: A Large-scale Video Motion Benchmark with Disentangled Rule-based Annotations**|Liang Xu et.al.|[2410.13790](http://arxiv.org/abs/2410.13790)|null|
+|**2024-10-17**|**MotionBank: A Large-scale Video Motion Benchmark with Disentangled Rule-based Annotations**|Liang Xu et.al.|[2410.13790](http://arxiv.org/abs/2410.13790)|**[link](https://github.com/liangxuy/motionbank)**|
 |**2024-10-17**|**DPLM-2: A Multimodal Diffusion Protein Language Model**|Xinyou Wang et.al.|[2410.13782](http://arxiv.org/abs/2410.13782)|null|
 |**2024-10-17**|**CLIMB: Language-Guided Continual Learning for Task Planning with Iterative Model Building**|Walker Byrnes et.al.|[2410.13756](http://arxiv.org/abs/2410.13756)|null|
-|**2024-10-17**|**Movie Gen: A Cast of Media Foundation Models**|Adam Polyak et.al.|[2410.13720](http://arxiv.org/abs/2410.13720)|null|
+|**2024-10-17**|**Movie Gen: A Cast of Media Foundation Models**|Adam Polyak et.al.|[2410.13720](http://arxiv.org/abs/2410.13720)|**[link](https://github.com/facebookresearch/moviegenbench)**|
 |**2024-10-17**|**Scaling Wearable Foundation Models**|Girish Narayanswamy et.al.|[2410.13638](http://arxiv.org/abs/2410.13638)|null|
 |**2024-10-17**|**Enhanced Prompt-leveraged Weakly Supervised Cancer Segmentation based on Segment Anything**|Joonhyeon Song et.al.|[2410.13621](http://arxiv.org/abs/2410.13621)|**[link](https://github.com/qi-nemosong/eplc-sam)**|
 |**2024-10-17**|**Representing Model Weights with Language using Tree Experts**|Eliahu Horwitz et.al.|[2410.13569](http://arxiv.org/abs/2410.13569)|null|
@@ -1007,7 +1007,7 @@ layout: default
 |**2024-10-17**|**Deep Learning-based Software Engineering: Progress, Challenges, and Opportunities**|Xiangping Chen et.al.|[2410.13110](http://arxiv.org/abs/2410.13110)|null|
 |**2024-10-16**|**Codellm-Devkit: A Framework for Contextualizing Code LLMs with Program Analysis Insights**|Rahul Krishna et.al.|[2410.13007](http://arxiv.org/abs/2410.13007)|null|
 |**2024-10-16**|**Evaluating Software Development Agents: Patch Patterns, Code Quality, and Issue Complexity in Real-World GitHub Scenarios**|Zhi Chen et.al.|[2410.12468](http://arxiv.org/abs/2410.12468)|null|
-|**2024-10-16**|**HumanEval-V: Evaluating Visual Understanding and Reasoning Abilities of Large Multimodal Models Through Coding Tasks**|Fengji Zhang et.al.|[2410.12381](http://arxiv.org/abs/2410.12381)|null|
+|**2024-10-16**|**HumanEval-V: Evaluating Visual Understanding and Reasoning Abilities of Large Multimodal Models Through Coding Tasks**|Fengji Zhang et.al.|[2410.12381](http://arxiv.org/abs/2410.12381)|**[link](https://github.com/HumanEval-V/HumanEval-V-Benchmark)**|
 |**2024-10-16**|**Enhancing LLM Agents for Code Generation with Possibility and Pass-rate Prioritized Experience Replay**|Yuyang Chen et.al.|[2410.12236](http://arxiv.org/abs/2410.12236)|null|
 |**2024-10-14**|**FLARE: Faithful Logic-Aided Reasoning and Exploration**|Erik Arakelyan et.al.|[2410.11900](http://arxiv.org/abs/2410.11900)|null|
 |**2024-10-15**|**Evidence of Cognitive Deficits andDevelopmental Advances in Generative AI: A Clock Drawing Test Analysis**|Isaac R. Galatzer-Levy et.al.|[2410.11756](http://arxiv.org/abs/2410.11756)|null|
