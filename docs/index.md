@@ -454,6 +454,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree**|Shuangrui Ding et.al.|[2410.16268](http://arxiv.org/abs/2410.16268)|**[link](https://github.com/mark12ding/sam2long)**|
+|**2024-10-21**|**Analysing the Residual Stream of Language Models Under Knowledge Conflicts**|Yu Zhao et.al.|[2410.16090](http://arxiv.org/abs/2410.16090)|null|
+|**2024-10-21**|**Benchmarking Pathology Foundation Models: Adaptation Strategies and Scenarios**|Jeaung Lee et.al.|[2410.16038](http://arxiv.org/abs/2410.16038)|**[link](https://github.com/quiil/benchmarkingpathologyfoundationmodels)**|
+|**2024-10-21**|**Foundation Models for Slide-level Cancer Subtyping in Digital Pathology**|Pablo Meseguer et.al.|[2410.15886](http://arxiv.org/abs/2410.15886)|null|
+|**2024-10-21**|**Random Token Fusion for Multi-View Medical Diagnosis**|Jingyu Guo et.al.|[2410.15847](http://arxiv.org/abs/2410.15847)|null|
+|**2024-10-21**|**LiMTR: Time Series Motion Prediction for Diverse Road Users through Multimodal Feature Integration**|Camiel Oerlemans et.al.|[2410.15819](http://arxiv.org/abs/2410.15819)|**[link](https://github.com/cing2/limtr)**|
+|**2024-10-21**|**Improving Instance Optimization in Deformable Image Registration with Gradient Projection**|Yi Zhang et.al.|[2410.15767](http://arxiv.org/abs/2410.15767)|null|
+|**2024-10-21**|**SeisLM: a Foundation Model for Seismic Waveforms**|Tianlin Liu et.al.|[2410.15765](http://arxiv.org/abs/2410.15765)|**[link](https://github.com/liutianlin0121/seislm)**|
+|**2024-10-21**|**Long Term Memory: The Foundation of AI Self-Evolution**|Xun Jiang et.al.|[2410.15665](http://arxiv.org/abs/2410.15665)|null|
+|**2024-10-21**|**Pruning Foundation Models for High Accuracy without Retraining**|Pu Zhao et.al.|[2410.15567](http://arxiv.org/abs/2410.15567)|**[link](https://github.com/piuzha/apt)**|
+|**2024-10-20**|**MedDiff-FM: A Diffusion-based Foundation Model for Versatile Medical Image Applications**|Yongrui Yu et.al.|[2410.15432](http://arxiv.org/abs/2410.15432)|null|
+|**2024-10-20**|**DNA Language Model and Interpretable Graph Neural Network Identify Genes and Pathways Involved in Rare Diseases**|Ali Saadat et.al.|[2410.15367](http://arxiv.org/abs/2410.15367)|null|
+|**2024-10-20**|**FoMo: A Foundation Model for Mobile Traffic Forecasting with Diffusion Model**|Haoye Chai et.al.|[2410.15322](http://arxiv.org/abs/2410.15322)|null|
+|**2024-10-20**|**Causality for Large Language Models**|Anpeng Wu et.al.|[2410.15319](http://arxiv.org/abs/2410.15319)|null|
+|**2024-10-20**|**Customized FinGPT Search Agents Using Foundation Models**|Felix Tian et.al.|[2410.15284](http://arxiv.org/abs/2410.15284)|null|
 |**2024-10-18**|**Swiss Army Knife: Synergizing Biases in Knowledge from Vision Foundation Models for Multi-Task Learning**|Yuxiang Lu et.al.|[2410.14633](http://arxiv.org/abs/2410.14633)|null|
 |**2024-10-18**|**On the Regularization of Learnable Embeddings for Time Series Processing**|Luca Butera et.al.|[2410.14630](http://arxiv.org/abs/2410.14630)|null|
 |**2024-10-21**|**Toward Generalizing Visual Brain Decoding to Unseen Subjects**|Xiangtao Kong et.al.|[2410.14445](http://arxiv.org/abs/2410.14445)|**[link](https://github.com/xiangtaokong/tgbd)**|
@@ -1012,6 +1027,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**Building A Coding Assistant via the Retrieval-Augmented Language Model**|Xinze Li et.al.|[2410.16229](http://arxiv.org/abs/2410.16229)|null|
+|**2024-10-21**|**Self-Explained Keywords Empower Large Language Models for Code Generation**|Lishui Fan et.al.|[2410.15966](http://arxiv.org/abs/2410.15966)|null|
+|**2024-10-21**|**Automated Proof Generation for Rust Code via Self-Evolution**|Tianyu Chen et.al.|[2410.15756](http://arxiv.org/abs/2410.15756)|null|
+|**2024-10-21**|**Improving Parallel Program Performance Through DSL-Driven Code Generation with LLM Optimizers**|Anjiang Wei et.al.|[2410.15625](http://arxiv.org/abs/2410.15625)|null|
+|**2024-10-19**|**MCCoder: Streamlining Motion Control with LLM-Assisted Code Generation and Rigorous Verification**|Yin Li et.al.|[2410.15154](http://arxiv.org/abs/2410.15154)|**[link](https://github.com/mccodeai/mccoder)**|
+|**2024-10-19**|**mHumanEval -- A Multilingual Benchmark to Evaluate Large Language Models for Code Generation**|Nishat Raihan et.al.|[2410.15037](http://arxiv.org/abs/2410.15037)|null|
+|**2024-10-18**|**Evaluating Quantized Large Language Models for Code Generation on Low-Resource Language Benchmarks**|Enkhbold Nyamsuren et.al.|[2410.14766](http://arxiv.org/abs/2410.14766)|null|
 |**2024-10-18**|**CELI: Controller-Embedded Language Model Interactions**|Jan-Samuel Wagner et.al.|[2410.14627](http://arxiv.org/abs/2410.14627)|null|
 |**2024-10-18**|**From Solitary Directives to Interactive Encouragement! LLM Secure Code Generation by Natural Language Prompting**|Shigang Liu et.al.|[2410.14321](http://arxiv.org/abs/2410.14321)|null|
 |**2024-10-18**|**Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents**|Zihan Liu et.al.|[2410.14209](http://arxiv.org/abs/2410.14209)|null|
