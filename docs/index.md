@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.21
+## Updated on 2024.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -456,7 +456,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-18**|**Swiss Army Knife: Synergizing Biases in Knowledge from Vision Foundation Models for Multi-Task Learning**|Yuxiang Lu et.al.|[2410.14633](http://arxiv.org/abs/2410.14633)|null|
 |**2024-10-18**|**On the Regularization of Learnable Embeddings for Time Series Processing**|Luca Butera et.al.|[2410.14630](http://arxiv.org/abs/2410.14630)|null|
-|**2024-10-18**|**Toward Generalizing Visual Brain Decoding to Unseen Subjects**|Xiangtao Kong et.al.|[2410.14445](http://arxiv.org/abs/2410.14445)|**[link](https://github.com/xiangtaokong/tgbd)**|
+|**2024-10-21**|**Toward Generalizing Visual Brain Decoding to Unseen Subjects**|Xiangtao Kong et.al.|[2410.14445](http://arxiv.org/abs/2410.14445)|**[link](https://github.com/xiangtaokong/tgbd)**|
 |**2024-10-18**|**Investigating the Capabilities of Deep Learning for Processing and Interpreting One-Shot Multi-offset GPR Data: A Numerical Case Study for Lunar and Martian Environments**|Iraklis Giannakis et.al.|[2410.14386](http://arxiv.org/abs/2410.14386)|null|
 |**2024-10-18**|**Predicting the trajectory of intracranial pressure in patients with traumatic brain injury: evaluation of a foundation model for time series**|Florian D. van Leeuwen et.al.|[2410.14333](http://arxiv.org/abs/2410.14333)|null|
 |**2024-10-18**|**Croc: Pretraining Large Multimodal Models with Cross-Modal Comprehension**|Yin Xie et.al.|[2410.14332](http://arxiv.org/abs/2410.14332)|**[link](https://github.com/deepglint/croc)**|
@@ -1021,10 +1021,10 @@ layout: default
 |**2024-10-16**|**Evaluating Software Development Agents: Patch Patterns, Code Quality, and Issue Complexity in Real-World GitHub Scenarios**|Zhi Chen et.al.|[2410.12468](http://arxiv.org/abs/2410.12468)|null|
 |**2024-10-16**|**HumanEval-V: Evaluating Visual Understanding and Reasoning Abilities of Large Multimodal Models Through Coding Tasks**|Fengji Zhang et.al.|[2410.12381](http://arxiv.org/abs/2410.12381)|**[link](https://github.com/HumanEval-V/HumanEval-V-Benchmark)**|
 |**2024-10-16**|**Enhancing LLM Agents for Code Generation with Possibility and Pass-rate Prioritized Experience Replay**|Yuyang Chen et.al.|[2410.12236](http://arxiv.org/abs/2410.12236)|null|
-|**2024-10-14**|**FLARE: Faithful Logic-Aided Reasoning and Exploration**|Erik Arakelyan et.al.|[2410.11900](http://arxiv.org/abs/2410.11900)|null|
+|**2024-10-19**|**FLARE: Faithful Logic-Aided Reasoning and Exploration**|Erik Arakelyan et.al.|[2410.11900](http://arxiv.org/abs/2410.11900)|null|
 |**2024-10-15**|**Evidence of Cognitive Deficits andDevelopmental Advances in Generative AI: A Clock Drawing Test Analysis**|Isaac R. Galatzer-Levy et.al.|[2410.11756](http://arxiv.org/abs/2410.11756)|null|
 |**2024-10-16**|**Agent-as-a-Judge: Evaluate Agents with Agents**|Mingchen Zhuge et.al.|[2410.10934](http://arxiv.org/abs/2410.10934)|**[link](https://github.com/metauto-ai/agent-as-a-judge)**|
-|**2024-10-14**|**Effi-Code: Unleashing Code Efficiency in Language Models**|Dong Huang et.al.|[2410.10209](http://arxiv.org/abs/2410.10209)|**[link](https://github.com/huangd1999/effi-code)**|
+|**2024-10-19**|**Effi-Code: Unleashing Code Efficiency in Language Models**|Dong Huang et.al.|[2410.10209](http://arxiv.org/abs/2410.10209)|**[link](https://github.com/huangd1999/effi-code)**|
 |**2024-10-13**|**Collu-Bench: A Benchmark for Predicting Language Model Hallucinations in Code**|Nan Jiang et.al.|[2410.09997](http://arxiv.org/abs/2410.09997)|null|
 |**2024-10-13**|**A Model Is Not Built By A Single Prompt: LLM-Based Domain Modeling With Question Decomposition**|Ru Chen et.al.|[2410.09854](http://arxiv.org/abs/2410.09854)|null|
 |**2024-10-18**|**Can Large Language Models Generate Geospatial Code?**|Shuyang Hou et.al.|[2410.09738](http://arxiv.org/abs/2410.09738)|null|
